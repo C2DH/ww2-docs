@@ -15,7 +15,7 @@ jobs:
 
       - name: get env variables for GIT related info
         run: |
-          echo "GIT_COMMIT_SHA=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_ENV
+          echo "GIT_REVISION=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_ENV
           echo "BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
           echo "GIT_BRANCH=$(echo $GITHUB_REF | sed 's/refs\/heads\///')" >> $GITHUB_ENV
           echo "GIT_REMOTE=$(git config --get remote.origin.url)" >> $GITHUB_ENV
@@ -29,22 +29,14 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-      - name: Extract Git information
-        run: |
-          echo "GIT_TAG=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
-          echo "GIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
-          echo "GIT_REVISION=$(git rev-parse HEAD)" >> $GITHUB_ENV
-
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
           push: true
           tags: c2dhunilu/ww2:latest
           build-args: |
-            VERSION=latest
             GIT_REVISION=${{ env.GIT_COMMIT_SHA }}
             BUILD_DATE=${{ env.BUILD_DATE }}
             GIT_BRANCH=${{ env.GIT_BRANCH }}
-            GIT_REPO=${{ env.GIT_REMOTE }}
+            GIT_REMOTE=${{ env.GIT_REMOTE }}
             GIT_TAG=${{ env.GIT_TAG }}
-            GIT_BUILD_TAG=${{ env.GIT_TAG }}
