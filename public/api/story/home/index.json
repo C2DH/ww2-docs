@@ -1,0 +1,53 @@
+{
+  "id": 7,
+  "slug": "home",
+  "short_url": "aGZxovH",
+  "title": "Home",
+  "abstract": "L’exposition virtuelle sur la seconde guerre mondiale au luxembourg",
+  "documents": [],
+  "tags": [
+    {
+      "id": 9,
+      "category": "publishing",
+      "slug": "static",
+      "name": "static",
+      "status": "public",
+      "data": {}
+    },
+    {
+      "id": 10,
+      "category": "publishing",
+      "slug": "menu",
+      "name": "menu",
+      "status": "public",
+      "data": {}
+    }
+  ],
+  "covers": [],
+  "stories": [],
+  "data": {
+    "title": {
+      "de_DE": "Die virtuelle Ausstellung",
+      "en_US": "The virtual exhibition",
+      "fr_FR": "L’exposition virtuelle"
+    },
+    "abstract": {
+      "de_DE": "Lorem ipsum\n",
+      "en_US": "Lorem ipsum\n",
+      "fr_FR": "Lorem ipsum\n"
+    },
+    "subtitle": {
+      "de_DE": "über den zweiten Weltkrieg in Luxemburg",
+      "en_US": "on the second world war in Luxembourg",
+      "fr_FR": "sur la seconde guerre mondiale au luxembourg"
+    }
+  },
+  "contents": "",
+  "date": null,
+  "date_created": "2024-05-23T09:58:17.019265Z",
+  "date_last_modified": "2024-05-24T12:27:57.479056Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}

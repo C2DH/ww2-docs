@@ -1,0 +1,118 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 7,
+      "title": "Ancien chateau de Bofferdange",
+      "slug": "ancien-chateau-de-bofferdange",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Altes Schloss von Bofferdange",
+          "en_GB": "Old castle of Bofferdange",
+          "fr_FR": "Ancien chateau de Bofferdange"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Bofferdange",
+                "en_GB": "Bofferdange",
+                "fr_FR": "Bofferdange"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "77901.426636186618",
+              "83797.678012022719"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Lebensborn (Kinderheim), jetzt Servior Ausbildungszentrum",
+          "en_GB": "Lebensborn (children's home), now Servior training center",
+          "fr_FR": "Lebensborn (foyer pour enfants), maintenant Centre de formation Servior"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "LjRxxti"
+    },
+    {
+      "id": 11,
+      "title": "Chateau de Colmar-Berg",
+      "slug": "chateau-de-colmar-berg",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Schloss Colmar-Berg",
+          "en_GB": "Colmar-Berg Castle",
+          "fr_FR": "Chateau de Colmar-Berg"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "Colmar-Berg",
+                "en_GB": "Colmar-Berg",
+                "fr_FR": "Colmar-Berg"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            }
+          }
+        },
+        "description": {
+          "de_DE": "actuellement résidence privée",
+          "en_GB": "currently private residence",
+          "fr_FR": "derzeit Privatresidenz"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "W3f5Aa5"
+    }
+  ],
+  "facets": {}
+}

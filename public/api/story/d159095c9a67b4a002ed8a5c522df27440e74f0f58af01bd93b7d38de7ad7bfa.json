@@ -1,0 +1,187 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 7,
+      "slug": "home",
+      "short_url": "aGZxovH",
+      "date": null,
+      "date_created": "2024-05-23T09:58:17.019265Z",
+      "date_last_modified": "2024-05-24T12:27:57.479056Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Die virtuelle Ausstellung",
+          "en_US": "The virtual exhibition",
+          "fr_FR": "L’exposition virtuelle"
+        },
+        "abstract": {
+          "de_DE": "Lorem ipsum\n",
+          "en_US": "Lorem ipsum\n",
+          "fr_FR": "Lorem ipsum\n"
+        },
+        "subtitle": {
+          "de_DE": "über den zweiten Weltkrieg in Luxemburg",
+          "en_US": "on the second world war in Luxembourg",
+          "fr_FR": "sur la seconde guerre mondiale au luxembourg"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "slug": "level-01-journeys",
+      "short_url": "MDubXVf",
+      "date": null,
+      "date_created": "2024-05-23T11:47:59.018289Z",
+      "date_last_modified": "2024-05-24T12:46:12.032385Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#000",
+        "title": {
+          "de_DE": "Parcours",
+          "en_GB": "Journeys",
+          "fr_FR": "Parcours"
+        },
+        "abstract": {
+          "de_DE": "24 parcours thematiques",
+          "en_GB": "24 thematic journeys",
+          "fr_FR": "24 parcours thematiques"
+        },
+        "chapters": [
+          5,
+          9,
+          10
+        ],
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "slug": "level-02-catalogue",
+      "short_url": "fi4Jby8",
+      "date": null,
+      "date_created": "2024-05-24T12:33:24.646523Z",
+      "date_last_modified": "2024-05-24T12:33:24.646534Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#000",
+        "title": {
+          "de_DE": "Der Katalog",
+          "en_GB": "The Catalogue",
+          "fr_FR": "Le Catalogue"
+        },
+        "abstract": {
+          "de_DE": "Alle Werke der Sammlung",
+          "en_GB": "All the works of the collection",
+          "fr_FR": "Toutes les oeuvres de la collection"
+        },
+        "chapters": [
+          5,
+          10
+        ],
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "slug": "level-03-atelier-de-l-historien-ne",
+      "short_url": "7nY9S2q",
+      "date": null,
+      "date_created": "2024-05-24T12:35:37.693892Z",
+      "date_last_modified": "2024-05-24T12:35:37.693901Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#000",
+        "title": {
+          "de_DE": "Das Historiker-Atelier",
+          "en_GB": "The Historian's Workshop",
+          "fr_FR": "Atelier de l'historien"
+        },
+        "abstract": {
+          "de_DE": "Quellen, Methoden und Werkzeuge des Historikers",
+          "en_GB": "Sources, methods, and tools of the historian",
+          "fr_FR": "Les sources, les méthodes, les outils de l'historien"
+        },
+        "chapters": [],
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    }
+  ]
+}

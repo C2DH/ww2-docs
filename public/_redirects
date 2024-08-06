@@ -1,0 +1,3 @@
+/api/story h=:h  /api/story/:h.json  200
+/api/story  /api/story/index.json  200
+/api/story/:splat  /api/story/:splat/index.json  200

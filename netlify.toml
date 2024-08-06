@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/api/*" # you can configure the correct paths here
+  [headers.values]
+    access-control-allow-origin = "*"

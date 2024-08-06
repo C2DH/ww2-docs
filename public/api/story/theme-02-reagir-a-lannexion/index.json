@@ -1,0 +1,109 @@
+{
+  "id": 3,
+  "slug": "theme-02-reagir-a-lannexion",
+  "short_url": "7XziHSn",
+  "title": "Theme 02 - Réagir à l'annexion",
+  "abstract": null,
+  "documents": [],
+  "tags": [
+    {
+      "id": 1,
+      "category": "publishing",
+      "slug": "theme",
+      "name": "theme",
+      "status": "public",
+      "data": {
+        "name": "theme"
+      }
+    }
+  ],
+  "covers": [],
+  "stories": [
+    {
+      "id": 4,
+      "slug": "note-01-entering-the-war",
+      "title": "Note 01 - Entrée en guerre",
+      "short_url": "dGBHZ5G",
+      "date": null,
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Kriegseintritt (N01)",
+          "en_GB": "Entering the war (N01)",
+          "fr_FR": "Entrée en guerre (N01)"
+        },
+        "abstract": {
+          "de_DE": "Der Ausbruch des Zweiten Weltkriegs 1939 und die Invasion Luxemburgs",
+          "en_GB": "The outbreak of the Second World War in 1939 and the invasion of Luxembourg",
+          "fr_FR": "Le déclenchement de la Seconde Guerre mondiale en 1939 et l'invasion du Luxembourg"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 3
+      },
+      "date_created": "2024-05-17T08:51:14.285141Z",
+      "date_last_modified": "2024-05-17T14:36:57.250324Z"
+    },
+    {
+      "id": 6,
+      "slug": "note-02-la-formation-dun-consensus-memoriel",
+      "title": "Note 02 - La formation d'un consensus mémoriel",
+      "short_url": "Stxe3vr",
+      "date": null,
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Die Bildung eines Gedächtniskonsenses",
+          "en_GB": "The formation of a memory consensus",
+          "fr_FR": "La formation d'un consensus mémoriel"
+        },
+        "abstract": {
+          "de_DE": "Luxemburgs Gesellschaft nach der Annexion war tief gespalten, mit Widerstandsbewegungen, die mit der zurückkehrenden Regierung um Macht und Säuberungen kämpften. Nach 1945 bildete sich ein fragiler Erinnerungskonsens, der Wahrheit und nationale Einheit in Einklang brachte, aber oft die Komplexitäten der Kriegszusammenarbeit übersah.",
+          "en_GB": "Luxembourg's post-annexation society faced deep divisions, with Resistance movements clashing with the returning government over power and purges. A fragile memory consensus formed post-1945, balancing truth with the need for national unity, but often overlooked the complexities of wartime collaboration.",
+          "fr_FR": "La société luxembourgeoise post-annexion est profondément divisée, avec des mouvements de Résistance en conflit avec le gouvernement. Un fragile consensus mémoriel s'est formé après 1945, équilibrant vérité et unité nationale, mais négligeant souvent les complexités de la collaboration en temps de guerre."
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 3
+      },
+      "date_created": "2024-05-17T14:32:10.732213Z",
+      "date_last_modified": "2024-05-17T14:45:14.560905Z"
+    }
+  ],
+  "data": {
+    "color": "",
+    "title": {
+      "de_DE": "Reaktion auf die Annexion",
+      "en_GB": "Reacting to the Annexation",
+      "fr_FR": "Réagir à l'annexion"
+    },
+    "abstract": {
+      "de_DE": "Während des Zweiten Weltkriegs wurde Luxemburg von Nazi-Deutschland besetzt und annektiert. Die Regierung und die großherzogliche Familie flohen, und das Land wurde harten Besatzungspolitiken unterworfen, einschließlich Zwangsrekrutierung und Verfolgung der Juden. Widerstandsbewegungen bildeten sich als Reaktion auf die Unterdrückung, und viele Luxemburger schlossen sich den alliierten Streitkräften an, um gegen die Besatzer zu kämpfen.",
+      "en_GB": "During World War II, Luxembourg was invaded and annexed by Nazi Germany. The government and grand ducal family fled, and the country was subjected to harsh occupation policies, including conscription and the persecution of Jews. Resistance movements formed in response to the oppression, and many Luxembourgers joined Allied forces to fight against the occupiers.",
+      "fr_FR": "Pendant la Seconde Guerre mondiale, le Luxembourg a été envahi et annexé par l'Allemagne nazie. Le gouvernement et la famille grand-ducale ont fui, et le pays a été soumis à des politiques d'occupation sévères, notamment la conscription et la persécution des Juifs. Des mouvements de résistance se sont formés en réponse à l'oppression, et de nombreux Luxembourgeois ont rejoint les forces alliées pour lutter contre les occupants."
+    },
+    "chapters": [
+      4,
+      6
+    ],
+    "background": {
+      "bbox": [],
+      "overlay": "",
+      "backgroundColor": "#ddd"
+    }
+  },
+  "contents": "",
+  "date": null,
+  "date_created": "2024-05-17T08:45:18.263716Z",
+  "date_last_modified": "2024-05-17T14:33:21.192580Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}

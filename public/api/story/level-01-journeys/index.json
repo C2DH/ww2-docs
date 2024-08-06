@@ -1,0 +1,122 @@
+{
+  "id": 8,
+  "slug": "level-01-journeys",
+  "short_url": "MDubXVf",
+  "title": "Level 01 - Journeys",
+  "abstract": null,
+  "documents": [],
+  "tags": [
+    {
+      "id": 1,
+      "category": "publishing",
+      "slug": "theme",
+      "name": "theme",
+      "status": "public",
+      "data": {
+        "name": "theme"
+      }
+    },
+    {
+      "id": 10,
+      "category": "publishing",
+      "slug": "menu",
+      "name": "menu",
+      "status": "public",
+      "data": {}
+    }
+  ],
+  "covers": [],
+  "stories": [
+    {
+      "id": 10,
+      "slug": "another-video-capsule",
+      "title": "Level 01 - Story 02 - Another Video Capsule",
+      "short_url": "YcHX5ay",
+      "date": null,
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "st something",
+          "en_GB": "st something",
+          "fr_FR": "st something"
+        },
+        "abstract": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": ""
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-05-24T09:07:15.180682Z",
+      "date_last_modified": "2024-05-24T09:34:41.732092Z"
+    },
+    {
+      "id": 5,
+      "slug": "st-joseph-clinic",
+      "title": "Level 01 - Story 01 - St Joseph Clinic",
+      "short_url": "DBwy2aP",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Klinik St Joseph",
+          "en_GB": "St Joseph Clinic",
+          "fr_FR": "Clinique St Joseph"
+        },
+        "abstract": {
+          "fr_FR": "Short paragraph if needed"
+        },
+        "background": {
+          "overlay": "#ddd"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-05-17T14:27:24.975607Z",
+      "date_last_modified": "2024-05-24T09:15:13.110225Z"
+    },
+    {
+      "id": 9,
+      "slug": "l01-s02-somewhere-in-metz",
+      "title": "Level 01 - Story 02 - Somewhere in Metz",
+      "short_url": "FUwmsEN",
+      "date": null,
+      "data": {},
+      "date_created": "2024-05-23T11:57:34.569888Z",
+      "date_last_modified": "2024-05-23T11:57:34.569898Z"
+    }
+  ],
+  "data": {
+    "color": "#000",
+    "title": {
+      "de_DE": "Parcours",
+      "en_GB": "Journeys",
+      "fr_FR": "Parcours"
+    },
+    "abstract": {
+      "de_DE": "24 parcours thematiques",
+      "en_GB": "24 thematic journeys",
+      "fr_FR": "24 parcours thematiques"
+    },
+    "chapters": [
+      5,
+      9,
+      10
+    ],
+    "background": {
+      "overlay": "",
+      "backgroundColor": "#ddd"
+    }
+  },
+  "contents": "",
+  "date": null,
+  "date_created": "2024-05-23T11:47:59.018289Z",
+  "date_last_modified": "2024-05-24T12:46:12.032385Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}
