@@ -35,7 +35,7 @@ jobs:
           push: true
           tags: c2dhunilu/ww2:latest
           build-args: |
-            GIT_REVISION=${{ env.GIT_COMMIT_SHA }}
+            GIT_REVISION=${{ env.GIT_REVISION }}
             BUILD_DATE=${{ env.BUILD_DATE }}
             GIT_BRANCH=${{ env.GIT_BRANCH }}
             GIT_REMOTE=${{ env.GIT_REMOTE }}
