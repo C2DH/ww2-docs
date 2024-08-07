@@ -12,6 +12,10 @@
     "url": "/api/story/level-01-journeys"
   },
   {
+    "description": "[level 1] get all 'capsules' linked to the story with slug `level-01-journeys` that contains a geographic location",
+    "url": "/api/story/?filters={%22mentioned_to__slug%22%3A%22level-01-journeys%22,%22covers__data__type%22:%22place%22}&limit=100"
+  },
+  {
     "description": "[Level 1] get all location linked to the video capsule stories mentioned to the story with slug `level-01-journeys`; return the list unsorted",
     "url": "/api/document/?filters={%22data__type%22:%22place%22,%22stories__mentioned_to__slug%22:%22level-01-journeys%22}&limit=100"
   },
