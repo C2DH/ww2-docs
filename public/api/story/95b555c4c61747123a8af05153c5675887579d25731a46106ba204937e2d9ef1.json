@@ -9,7 +9,7 @@
       "short_url": "DBwy2aP",
       "date": null,
       "date_created": "2024-05-17T14:27:24.975607Z",
-      "date_last_modified": "2024-05-24T09:15:13.110225Z",
+      "date_last_modified": "2024-08-07T07:29:43.914171Z",
       "status": "public",
       "covers": [
         {
@@ -92,6 +92,64 @@
           "attachment": null,
           "snapshot": "/media/video/snapshots/Screenshot_2024-05-24_at_09.17.10.png",
           "short_url": "b9EcuWk"
+        },
+        {
+          "id": 18,
+          "title": "Clinique Saint-Joseph",
+          "slug": "clinique-saint-joseph",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Saint-Joseph-Klinik",
+              "en_GB": "Saint-Joseph Clinic",
+              "fr_FR": "Clinique Saint-Joseph"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "properties": {
+                  "city": {
+                    "de_DE": "Wiltz",
+                    "en_GB": "Wiltz",
+                    "fr_FR": "Wiltz"
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "country": "Luxembourg"
+                },
+                "coordinates": [
+                  "63197.490072547036",
+                  "114580.1060949051"
+                ]
+              }
+            },
+            "description": {
+              "de_DE": "Versorgungsort für Flüchtlinge aus Differdange",
+              "en_GB": "Place of supply for refugees from Differdange",
+              "fr_FR": "Lieu de ravitaillement des réfugiés de Differdange"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "iR8gFGE"
         }
       ],
       "authors": [],
