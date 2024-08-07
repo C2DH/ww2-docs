@@ -1,0 +1,384 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 5,
+      "slug": "st-joseph-clinic",
+      "short_url": "DBwy2aP",
+      "date": null,
+      "date_created": "2024-05-17T14:27:24.975607Z",
+      "date_last_modified": "2024-08-07T07:29:43.914171Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 20,
+          "title": "klinik st Joseph, 1943 (CNA)",
+          "slug": "klinik-st-joseph-1943-cna",
+          "mimetype": "",
+          "type": "video",
+          "data": {
+            "type": "media",
+            "title": {
+              "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {
+                "properties": {
+                  "city": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  }
+                }
+              }
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+            },
+            "resolutions": {
+              "medium": {
+                "url": "https://placehold.co/768x430/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 768,
+                "height": 430
+              },
+              "preview": {
+                "url": "https://placehold.co/1371x768/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 1371,
+                "height": 768
+              },
+              "thumbnail": {
+                "url": "https://placehold.co/260x146/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 260,
+                "height": 146
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "https://player.vimeo.com/external/528298336.m3u8?s=48042a6eddb4ebc97b6ede8f92c4a39139ddb2a6&logging=false"
+              },
+              "dash": {
+                "url": "https://player.vimeo.com/external/528298336.mpd?s=26992b78d2bd96e58a2a21d4c224af21355e73fd&logging=false"
+              },
+              "sd360p": {
+                "url": "https://player.vimeo.com/progressive_redirect/playback/528298336/rendition/360p/file.mp4?loc=external&signature=094baf3a199f1c4e36356a4dfd3474a53abb1e0adf8a0052d330962fec4ce038"
+              }
+            }
+          },
+          "url": "https://vimeo.com/528298336/8b9085c3b6?share=copy",
+          "attachment": null,
+          "snapshot": "/media/video/snapshots/Screenshot_2024-05-24_at_09.17.10.png",
+          "short_url": "b9EcuWk"
+        },
+        {
+          "id": 18,
+          "title": "Clinique Saint-Joseph",
+          "slug": "clinique-saint-joseph",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Saint-Joseph-Klinik",
+              "en_GB": "Saint-Joseph Clinic",
+              "fr_FR": "Clinique Saint-Joseph"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "properties": {
+                  "city": {
+                    "de_DE": "Wiltz",
+                    "en_GB": "Wiltz",
+                    "fr_FR": "Wiltz"
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "country": "Luxembourg"
+                },
+                "coordinates": [
+                  "63197.490072547036",
+                  "114580.1060949051"
+                ]
+              }
+            },
+            "description": {
+              "de_DE": "Versorgungsort für Flüchtlinge aus Differdange",
+              "en_GB": "Place of supply for refugees from Differdange",
+              "fr_FR": "Lieu de ravitaillement des réfugiés de Differdange"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "iR8gFGE"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Klinik St Joseph",
+          "en_GB": "St Joseph Clinic",
+          "fr_FR": "Clinique St Joseph"
+        },
+        "abstract": {
+          "fr_FR": "Short paragraph if needed"
+        },
+        "background": {
+          "overlay": "#ddd"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 9,
+      "slug": "l01-s02-somewhere-in-metz",
+      "short_url": "FUwmsEN",
+      "date": null,
+      "date_created": "2024-05-23T11:57:34.569888Z",
+      "date_last_modified": "2024-08-07T07:48:36.304219Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 20,
+          "title": "klinik st Joseph, 1943 (CNA)",
+          "slug": "klinik-st-joseph-1943-cna",
+          "mimetype": "",
+          "type": "video",
+          "data": {
+            "type": "media",
+            "title": {
+              "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {
+                "properties": {
+                  "city": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  }
+                }
+              }
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+            },
+            "resolutions": {
+              "medium": {
+                "url": "https://placehold.co/768x430/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 768,
+                "height": 430
+              },
+              "preview": {
+                "url": "https://placehold.co/1371x768/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 1371,
+                "height": 768
+              },
+              "thumbnail": {
+                "url": "https://placehold.co/260x146/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 260,
+                "height": 146
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "https://player.vimeo.com/external/528298336.m3u8?s=48042a6eddb4ebc97b6ede8f92c4a39139ddb2a6&logging=false"
+              },
+              "dash": {
+                "url": "https://player.vimeo.com/external/528298336.mpd?s=26992b78d2bd96e58a2a21d4c224af21355e73fd&logging=false"
+              },
+              "sd360p": {
+                "url": "https://player.vimeo.com/progressive_redirect/playback/528298336/rendition/360p/file.mp4?loc=external&signature=094baf3a199f1c4e36356a4dfd3474a53abb1e0adf8a0052d330962fec4ce038"
+              }
+            }
+          },
+          "url": "https://vimeo.com/528298336/8b9085c3b6?share=copy",
+          "attachment": null,
+          "snapshot": "/media/video/snapshots/Screenshot_2024-05-24_at_09.17.10.png",
+          "short_url": "b9EcuWk"
+        },
+        {
+          "id": 21,
+          "title": "Metz, Cathedral",
+          "slug": "metz-cathedral",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Cathédrale Saint-Étienne de Metz",
+              "en_GB": "Metz Cathedral",
+              "fr_FR": "Cathédrale Saint-Étienne de Metz"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "properties": {
+                  "city": {
+                    "de_DE": "Metz",
+                    "en_GB": "Metz",
+                    "fr_FR": "Metz"
+                  },
+                  "name": {
+                    "de_DE": "Cathédrale Saint-Étienne de Metz",
+                    "en_GB": "Cathédrale Saint-Étienne de Metz",
+                    "fr_FR": "Cathédrale Saint-Étienne de Metz"
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "country": "France"
+                },
+                "coordinates": [
+                  "49.1210453",
+                  "6.1762313"
+                ]
+              }
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "49.1210453,6.1762313,16.57z",
+              "en_GB": "49.1210453,6.1762313,16.57z",
+              "fr_FR": "49.1210453,6.1762313,16.57z"
+            },
+            "resolutions": {
+              "medium": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "preview": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "thumbnail": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": ""
+              },
+              "dash": {
+                "url": ""
+              },
+              "sd360p": {
+                "url": ""
+              }
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "4C9SxLi"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {}
+    }
+  ]
+}
