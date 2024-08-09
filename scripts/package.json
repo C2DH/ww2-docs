@@ -6,6 +6,6 @@
   },
   "scripts": {
     "start": "node prefecth.js",
-    "prefetch": "DEBUG=www2 nodemon prefetch.js"
+    "dev": "DEBUG=ww2 nodemon prefetch.js"
   }
 }
