@@ -76,22 +76,22 @@
   },
   {
     "url": "/api/story/note-05-theme-02?parser=yaml",
-    "description": "[Note] get the note 05 content with a reference section and links to note-05",
+    "description": "[Note References] get the note 05 content with a reference section and links to note-05",
     "hash": "2f176b99c2924fc4acac5f511532682a85e719c6b10cdd245a816038d72640d7"
   },
   {
     "url": "/api/story/note-02-la-formation-dun-consensus-memoriel/?parser=yaml",
-    "description": "[Note] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)",
+    "description": "[Note References] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)",
     "hash": "2f176b99c2924fc4acac5f511532682a85e719c6b10cdd245a816038d72640d7"
   },
   {
     "url": "/api/story/?filters={\"stories__slug\":\"note-05-theme-02\"}",
-    "description": "[Note] get the stories which links TO the note, that is the themes or the capsules",
+    "description": "[Note INLINKS] get the themes or the notes that link TO the note 05",
     "hash": "3dbbed7c7decdda07bdb98fb85dfddde63b3341e3e3ede372e784f2dcec19ded"
   },
   {
     "url": "/api/story/?filters={\"mentioned_to__slug\":\"note-05-theme-02\"}",
-    "description": "[Note] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)",
+    "description": "[Note OUTLINKS] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)",
     "hash": "927e26e85a01f0b042f0bc58965fd13b59b7c40b7b9be846fa4794a6484866ea"
   }
 ]

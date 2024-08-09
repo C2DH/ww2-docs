@@ -36,7 +36,7 @@
       "overlay": "",
       "backgroundColor": "#ddd"
     },
-    "count_modules": 3
+    "count_modules": 4
   },
   "contents": {
     "modules": [
@@ -84,12 +84,27 @@
             "de_DE": "Der Widerstandskämpfer wird dann zur Heldenfigur, hinter der sich die einhellige Nation versammelt, wie Vincent Artuso schreibt. Dieser Erinnerungskonsens hat den Vorteil, auf einer Grundlage der Wahrheit zu beruhen. Er übersieht jedoch auch den Zusammenbruch des Staates im Mai 1940 und die darauf folgende Kollaboration. Es kann ihm mit großem Erfolg zugeschrieben werden, die gesamte Bevölkerung vereint zu haben. Die Kehrseite der Medaille ist, dass diejenigen, die seit den 1970er Jahren versucht haben, sich der historischen Realität der Periode 1940-1945 in Luxemburg zu nähern, oft mit deren Starrheit konfrontiert sind."
           }
         }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "fr_FR": "## References\n\nEberhard, Pascale, ed. Der Überlebenskampf jüdischer Deportierter aus Luxemburg und der Trierer Region im Getto Litzmannstadt. Saarbrücken: Blattlausverlag, 2012.\n\nKayser, Prosper, and Roger Kayser. Familienchronik Der Stadt Remich von 1668 Bis 1900\\. Institut Grand-Ducal. Section de linguistique, de Folklore et de toponymie. Luxembourg, 1999.\n\nSTATEC. Annuaire Officiel 1937\\. Luxembourg: Victor Buck, 1937.",
+            "en_GB": "## References\n\nEberhard, Pascale, ed. Der Überlebenskampf jüdischer Deportierter aus Luxemburg und der Trierer Region im Getto Litzmannstadt. Saarbrücken: Blattlausverlag, 2012.\n\nKayser, Prosper, and Roger Kayser. Familienchronik Der Stadt Remich von 1668 Bis 1900\\. Institut Grand-Ducal. Section de linguistique, de Folklore et de toponymie. Luxembourg, 1999.\n\nSTATEC. Annuaire Officiel 1937\\. Luxembourg: Victor Buck, 1937.",
+            "de_DE": "## References\n\nEberhard, Pascale, ed. Der Überlebenskampf jüdischer Deportierter aus Luxemburg und der Trierer Region im Getto Litzmannstadt. Saarbrücken: Blattlausverlag, 2012.\n\nKayser, Prosper, and Roger Kayser. Familienchronik Der Stadt Remich von 1668 Bis 1900\\. Institut Grand-Ducal. Section de linguistique, de Folklore et de toponymie. Luxembourg, 1999.\n\nSTATEC. Annuaire Officiel 1937\\. Luxembourg: Victor Buck, 1937."
+          }
+        }
       }
     ]
   },
   "date": null,
   "date_created": "2024-05-17T14:32:10.732213Z",
-  "date_last_modified": "2024-05-17T14:45:14.560905Z",
+  "date_last_modified": "2024-08-09T14:13:00.377820Z",
   "status": "public",
   "source": null,
   "authors": [],
