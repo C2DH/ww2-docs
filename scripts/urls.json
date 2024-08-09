@@ -75,6 +75,10 @@
   },
   {
     "url": "/api/story/note-05-theme-02?parser=yaml",
-    "description": "get the note content with a reference section"
+    "description": "get the note content with a reference section and links to note-05"
+  },
+  {
+    "url": "/api/story/note-02-la-formation-dun-consensus-memoriel/?parser=yaml",
+    "description": "get the note content with a reference section, but there is no link to the note-02 as linking is asymetric ;)"
   }
 ]

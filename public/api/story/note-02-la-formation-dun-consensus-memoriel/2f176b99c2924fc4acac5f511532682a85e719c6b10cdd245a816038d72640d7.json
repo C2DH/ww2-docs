@@ -1,0 +1,97 @@
+{
+  "id": 6,
+  "slug": "note-02-la-formation-dun-consensus-memoriel",
+  "short_url": "Stxe3vr",
+  "title": "Note 02 - La formation d'un consensus mémoriel",
+  "abstract": null,
+  "documents": [],
+  "tags": [
+    {
+      "id": 2,
+      "category": "publishing",
+      "slug": "chapter",
+      "name": "chapter",
+      "status": "public",
+      "data": {
+        "name": "chapter"
+      }
+    }
+  ],
+  "covers": [],
+  "stories": [],
+  "data": {
+    "color": "",
+    "title": {
+      "de_DE": "Die Bildung eines Gedächtniskonsenses",
+      "en_GB": "The formation of a memory consensus",
+      "fr_FR": "La formation d'un consensus mémoriel"
+    },
+    "abstract": {
+      "de_DE": "Luxemburgs Gesellschaft nach der Annexion war tief gespalten, mit Widerstandsbewegungen, die mit der zurückkehrenden Regierung um Macht und Säuberungen kämpften. Nach 1945 bildete sich ein fragiler Erinnerungskonsens, der Wahrheit und nationale Einheit in Einklang brachte, aber oft die Komplexitäten der Kriegszusammenarbeit übersah.",
+      "en_GB": "Luxembourg's post-annexation society faced deep divisions, with Resistance movements clashing with the returning government over power and purges. A fragile memory consensus formed post-1945, balancing truth with the need for national unity, but often overlooked the complexities of wartime collaboration.",
+      "fr_FR": "La société luxembourgeoise post-annexion est profondément divisée, avec des mouvements de Résistance en conflit avec le gouvernement. Un fragile consensus mémoriel s'est formé après 1945, équilibrant vérité et unité nationale, mais négligeant souvent les complexités de la collaboration en temps de guerre."
+    },
+    "background": {
+      "bbox": [],
+      "overlay": "",
+      "backgroundColor": "#ddd"
+    },
+    "count_modules": 3
+  },
+  "contents": {
+    "modules": [
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "fr_FR": "La société luxembourgeoise pendant l'annexion est profondément divisée. Après la Libération, cela se traduit par différents conflits. Les mouvements de Résistance réclament une participation au pouvoir et s'engagent en faveur d'une épuration de grande ampleur. Ils se heurtent à un gouvernement revenu d'exil qui veut rasseoir son autorité et favoriser la reconstruction matérielle et sociétale du Luxembourg.",
+            "en_GB": "Luxembourg's society during the annexation is deeply divided. After the Liberation, this translates into various conflicts. The Resistance movements demand participation in power and engage in large-scale purges. They clash with a returning government that seeks to reassert its authority and promote Luxembourg's material and societal reconstruction.",
+            "de_DE": "Die luxemburgische Gesellschaft während der Annexion ist tief gespalten. Nach der Befreiung führt dies zu verschiedenen Konflikten. Die Widerstandsbewegungen fordern eine Beteiligung an der Macht und engagieren sich für groß angelegte Säuberungen. Sie stoßen auf eine zurückkehrende Regierung, die ihre Autorität wiederherstellen und den materiellen und gesellschaftlichen Wiederaufbau Luxemburgs fördern will."
+          }
+        }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "left",
+          "content": {
+            "fr_FR": "Après la capitulation allemande du 8 mai 1945, un consensus mémoriel s'amorce. La mise en place d'un gouvernement d'union nationale après les élections d'octobre 1945; et d'une coalition entre le parti populaire chrétien-social (CSV) et le groupement patriotique et démocratique (GPD), composé d'anciens résistants, en mars 1947, en sont les signes politiques avant-coureurs. Un discours estimant que la poursuite d'une épuration trop sévère mettrait en péril la cohésion sociale du pays accompagne ce processus. L'amnistie prononcée en 1955 marque sa fin.",
+            "en_GB": "After the German capitulation on May 8, 1945, a memory consensus begins. The establishment of a national unity government after the October 1945 elections, and a coalition between the Christian Social People's Party (CSV) and the Patriotic and Democratic Group (GPD), composed of former resistance fighters, in March 1947, are the political precursors. A discourse suggesting that pursuing too severe a purge would endanger the country's social cohesion accompanies this process. The amnesty declared in 1955 marks its end.",
+            "de_DE": "Nach der deutschen Kapitulation am 8. Mai 1945 beginnt ein Erinnerungskonsens. Die Bildung einer nationalen Einheitsregierung nach den Wahlen im Oktober 1945 und eine Koalition zwischen der Christlich-Sozialen Volkspartei (CSV) und der Patriotischen und Demokratischen Gruppe (GPD), die aus ehemaligen Widerstandskämpfern besteht, im März 1947, sind die politischen Vorzeichen. Ein Diskurs, der vorschlägt, dass die Verfolgung zu strenger Säuberungen die soziale Kohäsion des Landes gefährden würde, begleitet diesen Prozess. Die im Jahr 1955 erklärte Amnestie markiert dessen Ende."
+          }
+        }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "fr_FR": "Le résistant devient alors la figure du héros derrière lequel la nation unanime s'estrassemblée, comme l'écrit Vincent Artuso. Ce consensus mémoriel présente l'avantage de reposer sur un fond de vérité. Toutefois, il passe aussi sous silence l'effondrement de l'État en mai 1940 et la collaboration qui s'ensuivit. On peut lui reconnaître, avec grand succès, d'avoir été capable de réunir toute la population. Le revers de la médaille est que, ceux qui, depuis les années 1970, tentent d'approcher la réalité historique de la période 1940-1945 au Luxembourg sont souvent confrontés à sa rigidité.",
+            "en_GB": "The resistance fighter then becomes the hero behind whom the unanimous nation rallies, as Vincent Artuso writes. This memory consensus has the advantage of being based on a foundation of truth. However, it also overlooks the collapse of the state in May 1940 and the collaboration that followed. It can be acknowledged, with great success, for having been able to unite the entire population. The flip side is that those who, since the 1970s, have tried to approach the historical reality of the period 1940-1945 in Luxembourg are often confronted with its rigidity.",
+            "de_DE": "Der Widerstandskämpfer wird dann zur Heldenfigur, hinter der sich die einhellige Nation versammelt, wie Vincent Artuso schreibt. Dieser Erinnerungskonsens hat den Vorteil, auf einer Grundlage der Wahrheit zu beruhen. Er übersieht jedoch auch den Zusammenbruch des Staates im Mai 1940 und die darauf folgende Kollaboration. Es kann ihm mit großem Erfolg zugeschrieben werden, die gesamte Bevölkerung vereint zu haben. Die Kehrseite der Medaille ist, dass diejenigen, die seit den 1970er Jahren versucht haben, sich der historischen Realität der Periode 1940-1945 in Luxemburg zu nähern, oft mit deren Starrheit konfrontiert sind."
+          }
+        }
+      }
+    ]
+  },
+  "date": null,
+  "date_created": "2024-05-17T14:32:10.732213Z",
+  "date_last_modified": "2024-05-17T14:45:14.560905Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}

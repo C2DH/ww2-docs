@@ -2,7 +2,7 @@
   "id": 15,
   "slug": "note-05-theme-02",
   "short_url": "MeXYJFK",
-  "title": "Note 05 theme 02",
+  "title": "Note 05 - theme 02",
   "abstract": null,
   "documents": [],
   "tags": [
@@ -18,7 +18,64 @@
     }
   ],
   "covers": [],
-  "stories": [],
+  "stories": [
+    {
+      "id": 4,
+      "slug": "note-01-entering-the-war",
+      "title": "Note 01 - Entrée en guerre",
+      "short_url": "dGBHZ5G",
+      "date": null,
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Kriegseintritt (N01)",
+          "en_GB": "Entering the war (N01)",
+          "fr_FR": "Entrée en guerre (N01)"
+        },
+        "abstract": {
+          "de_DE": "Der Ausbruch des Zweiten Weltkriegs 1939 und die Invasion Luxemburgs",
+          "en_GB": "The outbreak of the Second World War in 1939 and the invasion of Luxembourg",
+          "fr_FR": "Le déclenchement de la Seconde Guerre mondiale en 1939 et l'invasion du Luxembourg"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 4
+      },
+      "date_created": "2024-05-17T08:51:14.285141Z",
+      "date_last_modified": "2024-08-09T09:07:31.828242Z"
+    },
+    {
+      "id": 6,
+      "slug": "note-02-la-formation-dun-consensus-memoriel",
+      "title": "Note 02 - La formation d'un consensus mémoriel",
+      "short_url": "Stxe3vr",
+      "date": null,
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Die Bildung eines Gedächtniskonsenses",
+          "en_GB": "The formation of a memory consensus",
+          "fr_FR": "La formation d'un consensus mémoriel"
+        },
+        "abstract": {
+          "de_DE": "Luxemburgs Gesellschaft nach der Annexion war tief gespalten, mit Widerstandsbewegungen, die mit der zurückkehrenden Regierung um Macht und Säuberungen kämpften. Nach 1945 bildete sich ein fragiler Erinnerungskonsens, der Wahrheit und nationale Einheit in Einklang brachte, aber oft die Komplexitäten der Kriegszusammenarbeit übersah.",
+          "en_GB": "Luxembourg's post-annexation society faced deep divisions, with Resistance movements clashing with the returning government over power and purges. A fragile memory consensus formed post-1945, balancing truth with the need for national unity, but often overlooked the complexities of wartime collaboration.",
+          "fr_FR": "La société luxembourgeoise post-annexion est profondément divisée, avec des mouvements de Résistance en conflit avec le gouvernement. Un fragile consensus mémoriel s'est formé après 1945, équilibrant vérité et unité nationale, mais négligeant souvent les complexités de la collaboration en temps de guerre."
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 3
+      },
+      "date_created": "2024-05-17T14:32:10.732213Z",
+      "date_last_modified": "2024-05-17T14:45:14.560905Z"
+    }
+  ],
   "data": {
     "color": "",
     "title": {
@@ -74,7 +131,7 @@
   },
   "date": null,
   "date_created": "2024-08-09T12:39:22.461519Z",
-  "date_last_modified": "2024-08-09T13:29:00.625215Z",
+  "date_last_modified": "2024-08-09T13:43:57.164873Z",
   "status": "public",
   "source": null,
   "authors": [],

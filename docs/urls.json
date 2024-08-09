@@ -76,7 +76,12 @@
   },
   {
     "url": "/api/story/note-05-theme-02?parser=yaml",
-    "description": "get the note content with a reference section",
+    "description": "get the note content with a reference section and links to note-05",
+    "hash": "2f176b99c2924fc4acac5f511532682a85e719c6b10cdd245a816038d72640d7"
+  },
+  {
+    "url": "/api/story/note-02-la-formation-dun-consensus-memoriel/?parser=yaml",
+    "description": "get the note content with a reference section, but there is no link to the note-02 as linking is asymetric ;)",
     "hash": "2f176b99c2924fc4acac5f511532682a85e719c6b10cdd245a816038d72640d7"
   }
 ]
