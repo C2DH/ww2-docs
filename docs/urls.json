@@ -93,5 +93,10 @@
     "url": "/api/story/?filters={\"mentioned_to__slug\":\"note-05-theme-02\"}",
     "description": "[Note OUTLINKS] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)",
     "hash": "927e26e85a01f0b042f0bc58965fd13b59b7c40b7b9be846fa4794a6484866ea"
+  },
+  {
+    "url": "/api/document/?filters={\"stories__slug\":%20\"note-05-theme-02\"}&limit=10&offset=0",
+    "description": "[Documents] get all picture documents linked to a note, to be paginated with limit and offset",
+    "hash": "731f72f3c2e70cb9a4164a793381e2d332b652a1a3bd77b3e8129662e971765a"
   }
 ]

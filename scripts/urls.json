@@ -88,5 +88,9 @@
   {
     "url": "/api/story/?filters={\"mentioned_to__slug\":\"note-05-theme-02\"}",
     "description": "[Note OUTLINKS] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)"
+  },
+  {
+    "url": "/api/document/?filters={%22stories__slug%22:%20%22note-05-theme-02%22}&limit=10&offset=0",
+    "description": "[Documents] get all picture documents linked to a note, to be paginated with limit and offset"
   }
 ]

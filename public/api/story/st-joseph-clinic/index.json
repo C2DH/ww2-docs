@@ -224,6 +224,91 @@
       "attachment": null,
       "snapshot": null,
       "short_url": "iR8gFGE"
+    },
+    {
+      "id": 22,
+      "title": "Heinrich Himmler in Luxembourg",
+      "slug": "Heinrich-Himmler-in-Luxembourg",
+      "mimetype": "",
+      "type": "picture",
+      "data": {
+        "type": "picture",
+        "title": {
+          "de_DE": "Heinrich Himmler in Luxembourg",
+          "en_GB": "Heinrich Himmler in Luxembourg",
+          "fr_FR": "Heinrich Himmler in Luxembourg"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "snapshot": {
+          "width": 1200,
+          "height": 751
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Heinrich Himmler in Luxembourg",
+          "en_GB": "Heinrich Himmler in Luxembourg",
+          "fr_FR": "Heinrich Himmler in Luxembourg"
+        },
+        "resolutions": {
+          "medium": {
+            "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-96-768-0-0.jpg",
+            "width": 768,
+            "height": 481
+          },
+          "preview": {
+            "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-96-0-0-768.jpg",
+            "width": 1227,
+            "height": 768
+          },
+          "thumbnail": {
+            "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-72-0-260-0.jpg",
+            "width": 260,
+            "height": 163
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_in_World_War_II#/media/File:Bundesarchiv_Bild_101III-Weill-061-25,_Heinrich_Himmler_in_Luxembourg.jpg",
+      "attachment": "/media/picture/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg",
+      "snapshot": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg",
+      "short_url": "ScYZ7CG"
     }
   ],
   "stories": [
@@ -301,7 +386,7 @@
   "contents": "",
   "date": null,
   "date_created": "2024-05-17T14:27:24.975607Z",
-  "date_last_modified": "2024-08-07T07:29:43.914171Z",
+  "date_last_modified": "2024-08-09T15:05:02.362801Z",
   "status": "public",
   "source": null,
   "authors": [],

@@ -4,7 +4,176 @@
   "short_url": "MeXYJFK",
   "title": "Note 05 - theme 02",
   "abstract": null,
-  "documents": [],
+  "documents": [
+    {
+      "id": 6,
+      "document_id": 23,
+      "title": "Flag of Luxembourg flying from the Hospital in Wiltz",
+      "slug": "flag-of-luxembourg-flying-from-the-hospital-in-wiltz",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_in_World_War_II#/media/File:Liberation_of_Wiltz_in_Luxembourg.jpg",
+      "type": "picture",
+      "copyrights": "",
+      "caption": "",
+      "short_url": "gsypwni",
+      "data": {
+        "type": "picture",
+        "title": {
+          "de_DE": "The Flag of Luxembourg flying from the Hospital in Wiltz shortly after its liberation by the American 4th Armoured Division, 25 December 1944",
+          "en_GB": "The Flag of Luxembourg flying from the Hospital in Wiltz shortly after its liberation by the American 4th Armoured Division, 25 December 1944",
+          "fr_FR": "The Flag of Luxembourg flying from the Hospital in Wiltz shortly after its liberation by the American 4th Armoured Division, 25 December 1944"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "snapshot": {
+          "width": 1200,
+          "height": 920
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "The Flag of Luxembourg flying from the Hospital in Wiltz shortly after its liberation by the American 4th Armoured Division, 25 December 1944",
+          "en_GB": "The Flag of Luxembourg flying from the Hospital in Wiltz shortly after its liberation by the American 4th Armoured Division, 25 December 1944",
+          "fr_FR": "The Flag of Luxembourg flying from the Hospital in Wiltz shortly after its liberation by the American 4th Armoured Division, 25 December 1944"
+        },
+        "resolutions": {
+          "medium": {
+            "url": "/media/picture/snapshots/Liberation_of_Wiltz_in_Luxembourg-96-768-0-0.jpg",
+            "width": 768,
+            "height": 589
+          },
+          "preview": {
+            "url": "/media/picture/snapshots/Liberation_of_Wiltz_in_Luxembourg-96-0-0-768.jpg",
+            "width": 1002,
+            "height": 768
+          },
+          "thumbnail": {
+            "url": "/media/picture/snapshots/Liberation_of_Wiltz_in_Luxembourg-72-0-260-0.jpg",
+            "width": 260,
+            "height": 199
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "attachment": "/media/picture/Liberation_of_Wiltz_in_Luxembourg.jpg"
+    },
+    {
+      "id": 7,
+      "document_id": 20,
+      "title": "klinik st Joseph, 1943 (CNA)",
+      "slug": "klinik-st-joseph-1943-cna",
+      "url": "https://vimeo.com/528298336/8b9085c3b6?share=copy",
+      "type": "video",
+      "copyrights": "",
+      "caption": "",
+      "short_url": "b9EcuWk",
+      "data": {
+        "type": "media",
+        "title": {
+          "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+        },
+        "resolutions": {
+          "medium": {
+            "url": "https://placehold.co/768x430/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 768,
+            "height": 430
+          },
+          "preview": {
+            "url": "https://placehold.co/1371x768/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 1371,
+            "height": 768
+          },
+          "thumbnail": {
+            "url": "https://placehold.co/260x146/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 260,
+            "height": 146
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": "https://player.vimeo.com/external/528298336.m3u8?s=48042a6eddb4ebc97b6ede8f92c4a39139ddb2a6&logging=false"
+          },
+          "dash": {
+            "url": "https://player.vimeo.com/external/528298336.mpd?s=26992b78d2bd96e58a2a21d4c224af21355e73fd&logging=false"
+          },
+          "sd360p": {
+            "url": "https://player.vimeo.com/progressive_redirect/playback/528298336/rendition/360p/file.mp4?loc=external&signature=094baf3a199f1c4e36356a4dfd3474a53abb1e0adf8a0052d330962fec4ce038"
+          }
+        }
+      },
+      "attachment": null
+    }
+  ],
   "tags": [
     {
       "id": 2,
