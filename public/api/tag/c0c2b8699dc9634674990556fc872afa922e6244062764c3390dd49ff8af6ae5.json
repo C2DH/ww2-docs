@@ -1,0 +1,67 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 8,
+      "category": "keyword",
+      "slug": "saint-joseph-clinic",
+      "name": "St Joseph Clinic",
+      "status": "public",
+      "data": {
+        "de_DE": "Klinik St Joseph",
+        "en_GB": "St Joseph Clinic",
+        "fr_FR": "Clinique St Joseph"
+      }
+    },
+    {
+      "id": 11,
+      "category": "keyword",
+      "slug": "10-may-1940-test",
+      "name": "The German Invasion: May 10, 1940",
+      "status": "public",
+      "data": {
+        "de_DE": "The German Invasion: May 10, 1940 DE",
+        "en_GB": "The German Invasion: May 10, 1940 EN",
+        "fr_FR": "The German Invasion: May 10, 1940 FR"
+      }
+    },
+    {
+      "id": 13,
+      "category": "keyword",
+      "slug": "under-nazi-occupation",
+      "name": "Luxembourg Under Nazi Occupation",
+      "status": "public",
+      "data": {
+        "de_DE": "Luxembourg Under Nazi Occupation DE",
+        "en_GB": "Luxembourg Under Nazi Occupation EN",
+        "fr_FR": "Luxembourg Under Nazi Occupation FR"
+      }
+    },
+    {
+      "id": 14,
+      "category": "keyword",
+      "slug": "resistance-movement",
+      "name": "The Resistance Movement",
+      "status": "public",
+      "data": {
+        "de_DE": "The Resistance Movement DE",
+        "en_GB": "The Resistance Movement EN",
+        "fr_FR": "The Resistance Movement FR"
+      }
+    },
+    {
+      "id": 15,
+      "category": "keyword",
+      "slug": "battle-bulge-dec-1944",
+      "name": "The Battle of the Bulge: December 1944",
+      "status": "public",
+      "data": {
+        "de_DE": "The Battle of the Bulge: December 1944 DE",
+        "en_GB": "The Battle of the Bulge: December 1944 EN",
+        "fr_FR": "The Battle of the Bulge: December 1944 FR"
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   },
   {
     "description": "[Menu] get the list of stories that composes the Menu, basically all stories tagged with `menu` tag. The `slug` property of each story is prefixed with `level-` followed by a number, this way the list is easily ordered. Every story has a `slug` property that is used as identifier",
-    "url": "/api/story/?filters={\"tags__slug\":\"menu\"}&order_by=slug&limit=10",
+    "url": "/api/story/?filters={\"tags__slug%22:%22menu%22}&order_by=slug&limit=10",
     "hash": "d159095c9a67b4a002ed8a5c522df27440e74f0f58af01bd93b7d38de7ad7bfa"
   },
   {
@@ -16,17 +16,17 @@
   },
   {
     "description": "[level 1] get all 'capsules' linked to the story with slug `level-01-journeys` that contains a geographic location",
-    "url": "/api/story/?filters={\"mentioned_to__slug\"%3A\"level-01-journeys\",\"covers__data__type\":\"place\"}&limit=100",
+    "url": "/api/story/?filters={\"mentioned_to__slug%22%3A%22level-01-journeys%22,%22covers__data__type%22:%22place%22}&limit=100",
     "hash": "4a75fb8cbf80d23b000166e1dbc06eb397d542efaa28a7f89ceb914fb95c051b"
   },
   {
     "description": "[Level 1] get all location linked to the video capsule stories mentioned to the story with slug `level-01-journeys`; return the list unsorted",
-    "url": "/api/document/?filters={\"data__type\":\"place\",\"stories__mentioned_to__slug\":\"level-01-journeys\"}&limit=100",
+    "url": "/api/document/?filters={\"data__type%22:%22place%22,%22stories__mentioned_to__slug%22:%22level-01-journeys%22}&limit=100",
     "hash": "e8f4db59f555a97d2af57daca0bd44b112dec05309cee0474f00eff1e963d031"
   },
   {
     "description": "[Level 1] get all stories mentioned to `level-01-journeys` (st Joseph Clinic with video cover is one of them)",
-    "url": "/api/story/?filters={\"mentioned_to__slug\":\"level-01-journeys\"}&limit=100",
+    "url": "/api/story/?filters={\"mentioned_to__slug%22:%22level-01-journeys%22}&limit=100",
     "hash": "95b555c4c61747123a8af05153c5675887579d25731a46106ba204937e2d9ef1"
   },
   {
@@ -35,12 +35,12 @@
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-    "url": "/api/story?filters={\"tags__slug\":\"theme\"}",
+    "url": "/api/story?filters={\"tags__slug%22:%22theme%22}",
     "description": "Get all stories with the tag 'theme'",
     "hash": "2c6ef15591a4dd4b95133af345082155b08e094217d0b4c288ceafc9335024bd"
   },
   {
-    "url": "/api/story?filters={\"mentioned_to__slug\":\"theme-02-reagir-a-lannexion\"}",
+    "url": "/api/story?filters={\"mentioned_to__slug%22:%22theme-02-reagir-a-lannexion%22}",
     "description": "Get all stories that mention the story with the slug 'theme-02-reagir-a-lannexion'",
     "hash": "064252d4ab3f236e431ebc478d2c9594a5b0b58c234e86a28eb9570e75a60de4"
   },
@@ -65,18 +65,16 @@
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-    "url": "/api/document/?q=castle&filters={\"data__type\":\"place\"}",
+    "url": "/api/document/?q=castle&filters={\"data__type%22:%22place%22}",
     "description": "Get all documents/places that contain the word 'castle'",
     "hash": "b08398cbb947ab8b912734b08249eb8291d56e23b0e82fc91f839b74be6b10f2"
   },
   {
-    "url": "/api/tag/?filters={\"category\":\"keyword\"}",
-    "description": "Get all available tags",
-    "hash": "c0c2b8699dc9634674990556fc872afa922e6244062764c3390dd49ff8af6ae5"
+    "url": "/api/tag/?filters={%22category%22:%22keyword%22}",
+    "description": "Get all available tags"
   },
   {
     "url": "/api/story/note-05-theme-02/?parser=yaml",
-    "description": "get the note content with a reference section",
-    "hash": "2f176b99c2924fc4acac5f511532682a85e719c6b10cdd245a816038d72640d7"
+    "description": "get the note content with a reference section"
   }
 ]

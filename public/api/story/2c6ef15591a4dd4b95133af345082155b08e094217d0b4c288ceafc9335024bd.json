@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 4,
   "next": null,
   "previous": null,
   "results": [
@@ -9,7 +9,7 @@
       "short_url": "P3ru6Qp",
       "date": null,
       "date_created": "2024-05-17T08:44:34.373782Z",
-      "date_last_modified": "2024-05-17T14:33:34.431054Z",
+      "date_last_modified": "2024-08-09T12:39:22.547226Z",
       "status": "public",
       "covers": [],
       "authors": [],
@@ -33,6 +33,10 @@
         "abstract": {
           "fr_FR": ""
         },
+        "chapters": [
+          14,
+          15
+        ],
         "background": {
           "bbox": [],
           "overlay": "",
@@ -46,7 +50,7 @@
       "short_url": "7XziHSn",
       "date": null,
       "date_created": "2024-05-17T08:45:18.263716Z",
-      "date_last_modified": "2024-05-17T14:33:21.192580Z",
+      "date_last_modified": "2024-08-09T10:39:16.355032Z",
       "status": "public",
       "covers": [],
       "authors": [],
@@ -76,7 +80,8 @@
         },
         "chapters": [
           4,
-          6
+          6,
+          13
         ],
         "background": {
           "bbox": [],
@@ -133,6 +138,47 @@
           10
         ],
         "background": {
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "slug": "theme-03-battles-fr",
+      "short_url": "D2MRxoo",
+      "date": null,
+      "date_created": "2024-08-09T12:51:32.152178Z",
+      "date_last_modified": "2024-08-09T12:51:40.078185Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Theme 03 - Battles DE",
+          "en_GB": "Theme 03 - Battles EN",
+          "fr_FR": "Theme 03 - Battles FR"
+        },
+        "abstract": {
+          "de_DE": "The Battle of the Bulge: December 1944 DE",
+          "en_GB": "The Battle of the Bulge: December 1944 EN",
+          "fr_FR": "The Battle of the Bulge: December 1944 FR"
+        },
+        "background": {
+          "bbox": [],
           "overlay": "",
           "backgroundColor": "#ddd"
         }

@@ -1,0 +1,82 @@
+{
+  "id": 15,
+  "slug": "note-05-theme-02",
+  "short_url": "MeXYJFK",
+  "title": "Note 05 theme 02",
+  "abstract": null,
+  "documents": [],
+  "tags": [
+    {
+      "id": 2,
+      "category": "publishing",
+      "slug": "chapter",
+      "name": "chapter",
+      "status": "public",
+      "data": {
+        "name": "chapter"
+      }
+    }
+  ],
+  "covers": [],
+  "stories": [],
+  "data": {
+    "color": "",
+    "title": {
+      "de_DE": "",
+      "en_GB": "",
+      "fr_FR": "Note 05 - The German Invasion: May 10, 1940"
+    },
+    "abstract": {
+      "de_DE": "Mainly for theme 02",
+      "en_GB": "Mainly for theme 02",
+      "fr_FR": "Mainly for theme 02"
+    },
+    "background": {
+      "bbox": [],
+      "overlay": "",
+      "backgroundColor": "#ddd"
+    },
+    "count_modules": 2
+  },
+  "contents": {
+    "modules": [
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "fr_FR": "On May 10, 1940, Luxembourg's neutrality was brutally violated as Nazi Germany launched its invasion of the country. The small, defenseless Grand Duchy was quickly overrun by German forces, marking the beginning of a dark period of occupation. Despite Luxembourg’s efforts to remain neutral, the invasion was part of Hitler's broader plan to outflank the French Maginot Line and swiftly conquer Western Europe.",
+            "en_GB": "",
+            "de_DE": ""
+          }
+        }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "fr_FR": "## References\n\n“Zeitungen: Tages- Und Wochenzeitungen, Gelehrten-Journale.” Accessed September 21, 2017\\. https://www.digitale-sammlungen.de/index.html?c=sammlungen&kategorie_sammlung=3&l=de.\n\n“La Gazette du Grand-Duché de Luxembourg.” Schamburger, 1878.",
+            "en_GB": "References\n\n\n“Zeitungen: Tages- Und Wochenzeitungen, Gelehrten-Journale.” Accessed September 21, 2017. https://www.digitale-sammlungen.de/index.html?c=sammlungen&kategorie_sammlung=3&l=de.\n\n\n“La Gazette du Grand-Duché de Luxembourg.” Schamburger, 1878.\n\n",
+            "de_DE": "References\n\n\n“Zeitungen: Tages- Und Wochenzeitungen, Gelehrten-Journale.” Accessed September 21, 2017. https://www.digitale-sammlungen.de/index.html?c=sammlungen&kategorie_sammlung=3&l=de.\n\n\n“La Gazette du Grand-Duché de Luxembourg.” Schamburger, 1878.\n\n"
+          }
+        }
+      }
+    ]
+  },
+  "date": null,
+  "date_created": "2024-08-09T12:39:22.461519Z",
+  "date_last_modified": "2024-08-09T13:29:00.625215Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}

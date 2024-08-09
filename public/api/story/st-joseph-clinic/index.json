@@ -166,6 +166,64 @@
       "attachment": null,
       "snapshot": "/media/video/snapshots/Screenshot_2024-05-24_at_09.17.10.png",
       "short_url": "b9EcuWk"
+    },
+    {
+      "id": 18,
+      "title": "Clinique Saint-Joseph",
+      "slug": "clinique-saint-joseph",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Saint-Joseph-Klinik",
+          "en_GB": "Saint-Joseph Clinic",
+          "fr_FR": "Clinique Saint-Joseph"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Wiltz",
+                "en_GB": "Wiltz",
+                "fr_FR": "Wiltz"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "63197.490072547036",
+              "114580.1060949051"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Versorgungsort für Flüchtlinge aus Differdange",
+          "en_GB": "Place of supply for refugees from Differdange",
+          "fr_FR": "Lieu de ravitaillement des réfugiés de Differdange"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "iR8gFGE"
     }
   ],
   "stories": [
@@ -192,10 +250,38 @@
           "overlay": "",
           "backgroundColor": "#ddd"
         },
-        "count_modules": 3
+        "count_modules": 4
       },
       "date_created": "2024-05-17T08:51:14.285141Z",
-      "date_last_modified": "2024-05-17T14:36:57.250324Z"
+      "date_last_modified": "2024-08-09T09:07:31.828242Z"
+    },
+    {
+      "id": 15,
+      "slug": "note-05-theme-02",
+      "title": "Note 05 theme 02",
+      "short_url": "MeXYJFK",
+      "date": null,
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": "Note 05 - The German Invasion: May 10, 1940"
+        },
+        "abstract": {
+          "de_DE": "Mainly for theme 02",
+          "en_GB": "Mainly for theme 02",
+          "fr_FR": "Mainly for theme 02"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 2
+      },
+      "date_created": "2024-08-09T12:39:22.461519Z",
+      "date_last_modified": "2024-08-09T13:29:00.625215Z"
     }
   ],
   "data": {
@@ -215,7 +301,7 @@
   "contents": "",
   "date": null,
   "date_created": "2024-05-17T14:27:24.975607Z",
-  "date_last_modified": "2024-05-24T09:15:13.110225Z",
+  "date_last_modified": "2024-08-07T07:29:43.914171Z",
   "status": "public",
   "source": null,
   "authors": [],
