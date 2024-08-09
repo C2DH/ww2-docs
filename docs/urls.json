@@ -100,8 +100,8 @@
     "hash": "731f72f3c2e70cb9a4164a793381e2d332b652a1a3bd77b3e8129662e971765a"
   },
   {
-    "url": "/api/document/?filters={\"stories__slug\":%20\"nnote-01-entering-the-war\"}&limit=10&offset=0",
+    "url": "/api/document/?filters={\"stories__slug\":%20\"note-01-entering-the-war\"}&limit=10&offset=0",
     "description": "[Documents] get all picture documents linked to note note-01-entering-the-war, to be paginated with limit and offset",
-    "hash": "332089f2fab21eaf5d300e5a3c1b88c3947f2c3ffc7b18a2e5376a435a4c428c"
+    "hash": "730a5eb786d343cb0f98ec14101abfbac7569c884b11245aa232d179887546d1"
   }
 ]
