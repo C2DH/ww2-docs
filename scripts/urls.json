@@ -91,6 +91,10 @@
   },
   {
     "url": "/api/document/?filters={%22stories__slug%22:%20%22note-05-theme-02%22}&limit=10&offset=0",
-    "description": "[Documents] get all picture documents linked to a note, to be paginated with limit and offset"
+    "description": "[Documents] get all picture documents linked to note note-05-theme-02, to be paginated with limit and offset"
+  },
+  {
+    "url": "/api/document/?filters={%22stories__slug%22:%20%22nnote-01-entering-the-war%22}&limit=10&offset=0",
+    "description": "[Documents] get all picture documents linked to note note-01-entering-the-war, to be paginated with limit and offset"
   }
 ]
