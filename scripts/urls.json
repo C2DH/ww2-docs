@@ -75,10 +75,18 @@
   },
   {
     "url": "/api/story/note-05-theme-02?parser=yaml",
-    "description": "get the note content with a reference section and links to note-05"
+    "description": "[Note] get the note 05 content with a reference section and links to note-05"
   },
   {
     "url": "/api/story/note-02-la-formation-dun-consensus-memoriel/?parser=yaml",
-    "description": "get the note content with a reference section, but there is no link to the note-02 as linking is asymetric ;)"
+    "description": "[Note] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)"
+  },
+  {
+    "url": "/api/story/?filters={\"stories__slug\":\"note-05-theme-02\"}",
+    "description": "[Note] get the stories which links TO the note, that is the themes or the capsules"
+  },
+  {
+    "url": "/api/story/?filters={\"mentioned_to__slug\":\"note-05-theme-02\"}",
+    "description": "[Note] get the note 02 content with a reference section, but there is no link to the note-02 as linking is asymetric ;)"
   }
 ]
