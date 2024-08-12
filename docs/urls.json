@@ -35,6 +35,21 @@
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
+    "description": "[Level 2] get the subtitle and abstract of Level 2",
+    "url": "/api/story/level-02-catalogue",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "description": "[Level 2] get all THEMES mentioned to `level-02-catalogue`",
+    "url": "/api/story/?filters=%7B\"mentioned_to__slug\":%20\"level-02-catalogue\"%7D",
+    "hash": "18911731f3caad4abb8fd1fe5397788fe24aa874993409dc78c29123ebd586b8"
+  },
+  {
+    "description": "[Level 2] get all NOTES linked to a SPECIFIC THEME `level-02-catalogue`",
+    "url": "/api/story/?filters={\"mentioned_to__slug\":%20\"theme-01-vivre-sous-lannexion\"}",
+    "hash": "c0a899072a20f7753a40567f89576c3fd4d7b1f1bb2b2b4fb905a00a17abd2d1"
+  },
+  {
     "url": "/api/story?filters={\"tags__slug\":\"theme\"}",
     "description": "Get all stories with the tag 'theme'",
     "hash": "2c6ef15591a4dd4b95133af345082155b08e094217d0b4c288ceafc9335024bd"

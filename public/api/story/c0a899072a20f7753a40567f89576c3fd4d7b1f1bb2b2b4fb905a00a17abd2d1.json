@@ -1,0 +1,91 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 14,
+      "slug": "note-04-theme-02",
+      "short_url": "W5QQg9g",
+      "date": null,
+      "date_created": "2024-08-09T12:36:49.453860Z",
+      "date_last_modified": "2024-08-09T12:38:28.734165Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": "Note 04 - Theme 02"
+        },
+        "abstract": {
+          "de_DE": "Note 04 (DE)",
+          "en_GB": "Note 04 (EN)",
+          "fr_FR": "Note 04 (FR)"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 1
+      }
+    },
+    {
+      "id": 15,
+      "slug": "note-05-theme-02",
+      "short_url": "MeXYJFK",
+      "date": null,
+      "date_created": "2024-08-09T12:39:22.461519Z",
+      "date_last_modified": "2024-08-09T13:43:57.164873Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": "Note 05 - The German Invasion: May 10, 1940"
+        },
+        "abstract": {
+          "de_DE": "Mainly for theme 02",
+          "en_GB": "Mainly for theme 02",
+          "fr_FR": "Mainly for theme 02"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 2
+      }
+    }
+  ]
+}

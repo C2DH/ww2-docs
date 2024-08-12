@@ -1,0 +1,135 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 2,
+      "slug": "theme-01-vivre-sous-lannexion",
+      "short_url": "P3ru6Qp",
+      "date": null,
+      "date_created": "2024-05-17T08:44:34.373782Z",
+      "date_last_modified": "2024-08-09T12:39:22.547226Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "fr_FR": "Vivre sous l'annexion"
+        },
+        "abstract": {
+          "fr_FR": ""
+        },
+        "chapters": [
+          14,
+          15
+        ],
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "slug": "theme-02-reagir-a-lannexion",
+      "short_url": "7XziHSn",
+      "date": null,
+      "date_created": "2024-05-17T08:45:18.263716Z",
+      "date_last_modified": "2024-08-09T10:39:16.355032Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Reaktion auf die Annexion",
+          "en_GB": "Reacting to the Annexation",
+          "fr_FR": "Réagir à l'annexion"
+        },
+        "abstract": {
+          "de_DE": "Während des Zweiten Weltkriegs wurde Luxemburg von Nazi-Deutschland besetzt und annektiert. Die Regierung und die großherzogliche Familie flohen, und das Land wurde harten Besatzungspolitiken unterworfen, einschließlich Zwangsrekrutierung und Verfolgung der Juden. Widerstandsbewegungen bildeten sich als Reaktion auf die Unterdrückung, und viele Luxemburger schlossen sich den alliierten Streitkräften an, um gegen die Besatzer zu kämpfen.",
+          "en_GB": "During World War II, Luxembourg was invaded and annexed by Nazi Germany. The government and grand ducal family fled, and the country was subjected to harsh occupation policies, including conscription and the persecution of Jews. Resistance movements formed in response to the oppression, and many Luxembourgers joined Allied forces to fight against the occupiers.",
+          "fr_FR": "Pendant la Seconde Guerre mondiale, le Luxembourg a été envahi et annexé par l'Allemagne nazie. Le gouvernement et la famille grand-ducale ont fui, et le pays a été soumis à des politiques d'occupation sévères, notamment la conscription et la persécution des Juifs. Des mouvements de résistance se sont formés en réponse à l'oppression, et de nombreux Luxembourgeois ont rejoint les forces alliées pour lutter contre les occupants."
+        },
+        "chapters": [
+          4,
+          6,
+          13
+        ],
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "slug": "theme-03-battles-fr",
+      "short_url": "D2MRxoo",
+      "date": null,
+      "date_created": "2024-08-09T12:51:32.152178Z",
+      "date_last_modified": "2024-08-09T12:51:40.078185Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "Theme 03 - Battles DE",
+          "en_GB": "Theme 03 - Battles EN",
+          "fr_FR": "Theme 03 - Battles FR"
+        },
+        "abstract": {
+          "de_DE": "The Battle of the Bulge: December 1944 DE",
+          "en_GB": "The Battle of the Bulge: December 1944 EN",
+          "fr_FR": "The Battle of the Bulge: December 1944 FR"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    }
+  ]
+}
