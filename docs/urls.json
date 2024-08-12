@@ -6,8 +6,8 @@
   },
   {
     "description": "[Menu] get the list of stories that composes the Menu, basically all stories tagged with `menu` tag. The `slug` property of each story is prefixed with `level-` followed by a number, this way the list is easily ordered. Every story has a `slug` property that is used as identifier",
-    "url": "/api/story?filters={\"tags__slug\":\"menu\"}&order_by=slug&limit=10",
-    "hash": "d159095c9a67b4a002ed8a5c522df27440e74f0f58af01bd93b7d38de7ad7bfa"
+    "url": "/api/story?filters={\"tags__slug\":\"menu\"}&orderby=slug&limit=10",
+    "hash": "16ee08eeb51a2ea46fa3d851e1dbbccdc2966dd7601aa1705c27db5890393b57"
   },
   {
     "description": "[level 1] Content of the object of type Story",
