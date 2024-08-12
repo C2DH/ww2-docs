@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "next": null,
   "previous": null,
   "results": [
@@ -85,6 +85,48 @@
           "backgroundColor": "#ddd"
         },
         "count_modules": 4
+      }
+    },
+    {
+      "id": 13,
+      "slug": "note-03-example",
+      "short_url": "iHGc7ya",
+      "date": null,
+      "date_created": "2024-08-09T10:39:16.275222Z",
+      "date_last_modified": "2024-08-09T12:28:47.844715Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": "note-03-Example"
+        },
+        "abstract": {
+          "de_DE": "Note 03 Example (DE)",
+          "en_GB": "Note 03 Example (EN)",
+          "fr_FR": "Note 03 Example (FR)"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 0
       }
     }
   ]

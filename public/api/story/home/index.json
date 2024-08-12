@@ -28,16 +28,19 @@
   "data": {
     "title": {
       "de_DE": "Die virtuelle Ausstellung",
+      "en_GB": "The Virtual Exhibition",
       "en_US": "The virtual exhibition",
       "fr_FR": "L’exposition virtuelle"
     },
     "abstract": {
-      "de_DE": "Lorem ipsum\n",
+      "de_DE": "Die Virtuelle Ausstellung bietet eine umfassende und interaktive Reise in Luxemburgs Vergangenheit während der Kriegszeit. Navigieren Sie durch kuratierte Galerien, detaillierte Erzählungen und multimediale Präsentationen, die Geschichte direkt zu Ihnen nach Hause bringen.",
+      "en_GB": "The Virtual Exhibition offers a comprehensive and interactive journey into Luxembourg's past during its wartime period. Navigate through curated galleries, detailed narratives, and multimedia presentations that bring history to life from the comfort of your own space.",
       "en_US": "Lorem ipsum\n",
-      "fr_FR": "Lorem ipsum\n"
+      "fr_FR": "L’exposition virtuelle propose un voyage complet et interactif au cœur du passé du Luxembourg durant sa période de guerre. Parcourez des galeries sélectionnées, des récits détaillés et des présentations multimédias qui donnent vie à l'histoire, le tout depuis chez vous."
     },
     "subtitle": {
       "de_DE": "über den zweiten Weltkrieg in Luxemburg",
+      "en_GB": " on Luxembourg's wartime history",
       "en_US": "on the second world war in Luxembourg",
       "fr_FR": "sur la seconde guerre mondiale au luxembourg"
     }
@@ -45,7 +48,7 @@
   "contents": "",
   "date": null,
   "date_created": "2024-05-23T09:58:17.019265Z",
-  "date_last_modified": "2024-05-24T12:27:57.479056Z",
+  "date_last_modified": "2024-08-12T12:53:29.479407Z",
   "status": "public",
   "source": null,
   "authors": [],

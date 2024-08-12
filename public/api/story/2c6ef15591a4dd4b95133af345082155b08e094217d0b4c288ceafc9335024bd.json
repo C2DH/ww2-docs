@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 7,
   "next": null,
   "previous": null,
   "results": [
@@ -96,7 +96,7 @@
       "short_url": "MDubXVf",
       "date": null,
       "date_created": "2024-05-23T11:47:59.018289Z",
-      "date_last_modified": "2024-05-24T12:46:12.032385Z",
+      "date_last_modified": "2024-08-12T12:49:56.506964Z",
       "status": "public",
       "covers": [],
       "authors": [],
@@ -110,6 +110,14 @@
           "data": {
             "name": "theme"
           }
+        },
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
         },
         {
           "id": 10,
@@ -137,6 +145,68 @@
           9,
           10
         ],
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "slug": "level-03-atelier-de-l-historien-ne",
+      "short_url": "7nY9S2q",
+      "date": null,
+      "date_created": "2024-05-24T12:35:37.693892Z",
+      "date_last_modified": "2024-08-12T12:49:28.664012Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        },
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#000",
+        "title": {
+          "de_DE": "Das Historiker-Atelier",
+          "en_GB": "The Historian's Workshop",
+          "fr_FR": "L'Atelier de l'historien"
+        },
+        "abstract": {
+          "de_DE": "Quellen, Methoden und Werkzeuge des Historikers. Die Historiker-Werkstatt bietet einen Raum für tiefgehende historische Forschung und wissenschaftliche Analysen über die Ereignisse in Luxemburgs Kriegszeit. Entdecken Sie Artikel, Studien und Diskussionen von Experten.",
+          "en_GB": "Sources, methods, and tools of the historian. The Historian Workshop offers a space for deep dives into the historical research and scholarly analyses of World War II in Luxembourg. Explore articles, papers, and discussions led by experts in the field.",
+          "fr_FR": "Les sources, les méthodes, les outils de l'historien. L'Atelier de l'Historien propose un espace dédié à la recherche historique et aux analyses savantes sur la Seconde Guerre mondiale au Luxembourg. Découvrez des articles, des études et des débats animés par des experts."
+        },
+        "chapters": [],
+        "subtitle": {
+          "de_DE": "Vertiefen Sie sich in Analysen und Forschungen zum Zweiten Weltkrieg in Luxemburg.",
+          "en_GB": "Engage with in-depth analyses and research on Luxembourg's wartime history.",
+          "fr_FR": "Plongez dans des analyses approfondies sur l'histoire du Luxembourg en temps de guerre."
+        },
         "background": {
           "overlay": "",
           "backgroundColor": "#ddd"
@@ -181,6 +251,124 @@
           "bbox": [],
           "overlay": "",
           "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "slug": "level-04-spatio-temporal-map",
+      "short_url": "gK9sLNf",
+      "date": null,
+      "date_created": "2024-08-12T12:29:31.348987Z",
+      "date_last_modified": "2024-08-12T12:43:39.105931Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        },
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Raum-Zeit-Karte",
+          "en_GB": "Spatio-Temporal Map",
+          "fr_FR": "Carte Spatio-Temporelle"
+        },
+        "abstract": {
+          "de_DE": "Entdecken Sie die Raum-Zeit-Karte, um wichtige Ereignisse und Bewegungen während des Zweiten Weltkriegs in Luxemburg visuell nachzuverfolgen. Dieses interaktive Werkzeug bietet einen detaillierten Einblick in den Kriegsverlauf in Raum und Zeit.",
+          "en_GB": "Explore the Spatio-Temporal Map to visually track key events and movements during World War II in Luxembourg. This interactive tool offers a detailed look at the progression of the war through both time and space.",
+          "fr_FR": "Explorez la Carte Spatio-Temporelle pour suivre visuellement les événements clés et les mouvements durant la Seconde Guerre mondiale au Luxembourg. Cet outil interactif offre un aperçu détaillé de la progression de la guerre à travers le temps et l'espace."
+        },
+        "subtitle": {
+          "de_DE": "Veranschaulichen Sie die Schlüsselereignisse des Zweiten Weltkriegs in Luxemburg in Raum und Zeit.",
+          "en_GB": "Visualize the key events of World War II in Luxembourg over time and space.",
+          "fr_FR": "Visualisez les événements clés de la Seconde Guerre mondiale au Luxembourg à travers le temps et l'espace."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "slug": "level-05-general-overview",
+      "short_url": "BhLhwLy",
+      "date": null,
+      "date_created": "2024-08-12T12:35:54.061216Z",
+      "date_last_modified": "2024-08-12T12:44:44.636232Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        },
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#fff",
+        "title": {
+          "de_DE": "Überblick",
+          "en_GB": "General Overview",
+          "fr_FR": "Généralités"
+        },
+        "abstract": {
+          "de_DE": "Der Überblick bietet eine umfassende Zusammenfassung des Zweiten Weltkriegs in Luxemburg, mit Schwerpunkt auf wichtigen Ereignissen, Persönlichkeiten und dem historischen Kontext, der die Erfahrung des Landes während des Krieges prägte.",
+          "en_GB": "The General Overview provides a comprehensive summary of World War II in Luxembourg, highlighting major events, figures, and historical context that shaped the nation's experience during the war.",
+          "fr_FR": "La section Généralités propose un résumé complet de la Seconde Guerre mondiale au Luxembourg, mettant en lumière les événements majeurs, les figures clés et le contexte historique qui ont façonné l'expérience du pays pendant la guerre."
+        },
+        "chapters": [],
+        "subtitle": {
+          "de_DE": "Eine umfassende Zusammenfassung der luxemburgischen Erfahrungen im Zweiten Weltkrieg.",
+          "en_GB": "A comprehensive summary of Luxembourg's experience during World War II.",
+          "fr_FR": "Un résumé complet de l'expérience du Luxembourg pendant la Seconde Guerre mondiale."
+        },
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#373a3c"
         }
       }
     }

@@ -17,6 +17,14 @@
       }
     },
     {
+      "id": 9,
+      "category": "publishing",
+      "slug": "static",
+      "name": "static",
+      "status": "public",
+      "data": {}
+    },
+    {
       "id": 10,
       "category": "publishing",
       "slug": "menu",
@@ -114,7 +122,7 @@
   "contents": "",
   "date": null,
   "date_created": "2024-05-23T11:47:59.018289Z",
-  "date_last_modified": "2024-05-24T12:46:12.032385Z",
+  "date_last_modified": "2024-08-12T12:49:56.506964Z",
   "status": "public",
   "source": null,
   "authors": [],

@@ -4,6 +4,52 @@
   "previous": null,
   "results": [
     {
+      "id": 18,
+      "slug": "about",
+      "short_url": "UQUEXrS",
+      "date": null,
+      "date_created": "2024-08-12T12:33:42.700105Z",
+      "date_last_modified": "2024-08-12T12:41:14.862465Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Über uns",
+          "en_GB": "About",
+          "fr_FR": "À propos"
+        },
+        "abstract": {
+          "de_DE": "Erfahren Sie mehr über die Mission und Vision unserer Webseite, die dem Zweiten Weltkrieg in Luxemburg gewidmet ist. In diesem Abschnitt erhalten Sie Einblicke in unsere Ziele, das Team hinter dem Projekt und die historische Bedeutung der Bewahrung des Kriegserbes Luxemburgs.",
+          "en_GB": "Learn more about the mission and vision behind our website dedicated to World War II in Luxembourg. This section provides insight into our goals, the team behind the project, and the historical importance of preserving Luxembourg's wartime heritage.",
+          "fr_FR": "Découvrez la mission et la vision derrière notre site consacré à la Seconde Guerre mondiale au Luxembourg. Cette section vous donne un aperçu de nos objectifs, de l'équipe derrière le projet, et de l'importance historique de la préservation du patrimoine luxembourgeois en temps de guerre.\n\n"
+        },
+        "subtitle": {
+          "de_DE": "Erfahren Sie mehr über die Mission und das Team hinter diesem Zweiten Weltkrieg-Projekt in Luxemburg.",
+          "en_GB": "Discover the mission and team behind this World War II Luxembourg project.",
+          "fr_FR": "Découvrez la mission et l'équipe derrière ce projet sur la Seconde Guerre mondiale au Luxembourg."
+        }
+      }
+    },
+    {
       "id": 7,
       "slug": "home",
       "short_url": "aGZxovH",
@@ -283,52 +329,6 @@
           "de_DE": "Veranschaulichen Sie die Schlüsselereignisse des Zweiten Weltkriegs in Luxemburg in Raum und Zeit.",
           "en_GB": "Visualize the key events of World War II in Luxembourg over time and space.",
           "fr_FR": "Visualisez les événements clés de la Seconde Guerre mondiale au Luxembourg à travers le temps et l'espace."
-        }
-      }
-    },
-    {
-      "id": 18,
-      "slug": "about",
-      "short_url": "UQUEXrS",
-      "date": null,
-      "date_created": "2024-08-12T12:33:42.700105Z",
-      "date_last_modified": "2024-08-12T12:41:14.862465Z",
-      "status": "public",
-      "covers": [],
-      "authors": [],
-      "tags": [
-        {
-          "id": 9,
-          "category": "publishing",
-          "slug": "static",
-          "name": "static",
-          "status": "public",
-          "data": {}
-        },
-        {
-          "id": 10,
-          "category": "publishing",
-          "slug": "menu",
-          "name": "menu",
-          "status": "public",
-          "data": {}
-        }
-      ],
-      "data": {
-        "title": {
-          "de_DE": "Über uns",
-          "en_GB": "About",
-          "fr_FR": "À propos"
-        },
-        "abstract": {
-          "de_DE": "Erfahren Sie mehr über die Mission und Vision unserer Webseite, die dem Zweiten Weltkrieg in Luxemburg gewidmet ist. In diesem Abschnitt erhalten Sie Einblicke in unsere Ziele, das Team hinter dem Projekt und die historische Bedeutung der Bewahrung des Kriegserbes Luxemburgs.",
-          "en_GB": "Learn more about the mission and vision behind our website dedicated to World War II in Luxembourg. This section provides insight into our goals, the team behind the project, and the historical importance of preserving Luxembourg's wartime heritage.",
-          "fr_FR": "Découvrez la mission et la vision derrière notre site consacré à la Seconde Guerre mondiale au Luxembourg. Cette section vous donne un aperçu de nos objectifs, de l'équipe derrière le projet, et de l'importance historique de la préservation du patrimoine luxembourgeois en temps de guerre.\n\n"
-        },
-        "subtitle": {
-          "de_DE": "Erfahren Sie mehr über die Mission und das Team hinter diesem Zweiten Weltkrieg-Projekt in Luxemburg.",
-          "en_GB": "Discover the mission and team behind this World War II Luxembourg project.",
-          "fr_FR": "Découvrez la mission et l'équipe derrière ce projet sur la Seconde Guerre mondiale au Luxembourg."
         }
       }
     },
