@@ -118,5 +118,10 @@
     "url": "/api/document/?filters={\"stories__slug\":%20\"note-01-entering-the-war\"}&limit=10&offset=0",
     "description": "[Documents] get all picture documents linked to note note-01-entering-the-war, to be paginated with limit and offset",
     "hash": "730a5eb786d343cb0f98ec14101abfbac7569c884b11245aa232d179887546d1"
+  },
+  {
+    "description": "Get all document types available",
+    "url": "/api/document/?facets=data__type",
+    "hash": "b0764bedc1d775cf9e50ffad962d088e1d76b05575afd84c147a627773dc6640"
   }
 ]
