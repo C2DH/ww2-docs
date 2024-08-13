@@ -1,0 +1,104 @@
+{
+  "count": 1051,
+  "next": "http://10.240.4.198/api/document/?facets=type&filters=%7B%22type__in%22%3A%5B%22audio%22%2C%22video%22%2C%22photo%22%2C%22book%22%2C%22manuscript%22%5D%7D&limit=1&offset=1",
+  "previous": null,
+  "results": [
+    {
+      "id": 20,
+      "title": "klinik st Joseph, 1943 (CNA)",
+      "slug": "klinik-st-joseph-1943-cna",
+      "mimetype": "",
+      "type": "video",
+      "data": {
+        "type": "media",
+        "title": {
+          "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+        },
+        "resolutions": {
+          "medium": {
+            "url": "https://placehold.co/768x430/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 768,
+            "height": 430
+          },
+          "preview": {
+            "url": "https://placehold.co/1371x768/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 1371,
+            "height": 768
+          },
+          "thumbnail": {
+            "url": "https://placehold.co/260x146/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 260,
+            "height": 146
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": "https://player.vimeo.com/external/528298336.m3u8?s=48042a6eddb4ebc97b6ede8f92c4a39139ddb2a6&logging=false"
+          },
+          "dash": {
+            "url": "https://player.vimeo.com/external/528298336.mpd?s=26992b78d2bd96e58a2a21d4c224af21355e73fd&logging=false"
+          },
+          "sd360p": {
+            "url": "https://player.vimeo.com/progressive_redirect/playback/528298336/rendition/360p/file.mp4?loc=external&signature=094baf3a199f1c4e36356a4dfd3474a53abb1e0adf8a0052d330962fec4ce038"
+          }
+        }
+      },
+      "url": "https://vimeo.com/528298336/8b9085c3b6?share=copy",
+      "attachment": null,
+      "snapshot": "/media/video/snapshots/Screenshot_2024-05-24_at_09.17.10.png",
+      "short_url": "b9EcuWk"
+    }
+  ],
+  "facets": {
+    "type": [
+      {
+        "type": "book",
+        "count": 1045
+      },
+      {
+        "type": "manuscript",
+        "count": 5
+      },
+      {
+        "type": "video",
+        "count": 1
+      }
+    ]
+  }
+}

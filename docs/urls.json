@@ -123,5 +123,15 @@
     "description": "Get all document types available",
     "url": "/api/document/?facets=data__type",
     "hash": "b0764bedc1d775cf9e50ffad962d088e1d76b05575afd84c147a627773dc6640"
+  },
+  {
+    "description": "[LEVEL 3] In sources, different types of documents are available. You can use the facets property of the api to get the various entryies in the source:",
+    "url": "/api/document/?filters={\"type__in\":[\"audio\",\"video\",\"photo\",\"book\",\"manuscript\"]}&facets=type&limit=1&offset=0",
+    "hash": "7fcfbced29a08130670e1a6aee760896b53846be36792d39833dc9c0550fe56f"
+  },
+  {
+    "description": "[LEVEL 3] Then use pagination with the desired filter and facets (e.g. by author)",
+    "url": "/api/document/?filters={\"type\":\"book\"}&facets=data__csljson__author&limit=10&offset=0",
+    "hash": "6915b6c803c9afc6bb04014e090979cf0e6c71e134993d45938382fe59ea497e"
   }
 ]

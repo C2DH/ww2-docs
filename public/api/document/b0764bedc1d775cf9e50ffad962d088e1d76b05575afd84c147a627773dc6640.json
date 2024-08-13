@@ -1,5 +1,5 @@
 {
-  "count": 16,
+  "count": 1369,
   "next": "http://10.240.4.198/api/document/?facets=data__type&limit=10&offset=10",
   "previous": null,
   "results": [
@@ -577,7 +577,51 @@
   "facets": {
     "data__type": [
       {
+        "data__type": "article",
+        "count": 9
+      },
+      {
+        "data__type": "article-journal",
+        "count": 222
+      },
+      {
+        "data__type": "article-magazine",
+        "count": 20
+      },
+      {
+        "data__type": "article-newspaper",
+        "count": 26
+      },
+      {
+        "data__type": "book",
+        "count": 847
+      },
+      {
+        "data__type": "broadcast",
+        "count": 14
+      },
+      {
+        "data__type": "chapter",
+        "count": 149
+      },
+      {
+        "data__type": "manuscript",
+        "count": 5
+      },
+      {
         "data__type": "media",
+        "count": 1
+      },
+      {
+        "data__type": "motion_picture",
+        "count": 5
+      },
+      {
+        "data__type": "paper-conference",
+        "count": 1
+      },
+      {
+        "data__type": "personal_communication",
         "count": 1
       },
       {
@@ -587,6 +631,18 @@
       {
         "data__type": "place",
         "count": 13
+      },
+      {
+        "data__type": "report",
+        "count": 3
+      },
+      {
+        "data__type": "thesis",
+        "count": 46
+      },
+      {
+        "data__type": "webpage",
+        "count": 5
       }
     ]
   }
