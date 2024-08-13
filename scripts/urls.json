@@ -120,5 +120,9 @@
   {
     "description": "[LEVEL 3] Then use pagination with the desired filter and facets (e.g. by author)",
     "url": "/api/document/?filters={%22type%22:%22book%22}&facets=data__csljson__author&limit=10&offset=0"
+  },
+  {
+    "description": "[LEVEL 3] Index historical is a collection of entities",
+    "url": "/api/document/?filters={%22type%22:%22entity%22}&facets=data__type&limit=10&offset=0"
   }
 ]
