@@ -1,0 +1,279 @@
+{
+  "id": 4,
+  "slug": "note-01-entering-the-war",
+  "short_url": "dGBHZ5G",
+  "title": "Note 01 - Entrée en guerre",
+  "abstract": null,
+  "documents": [
+    {
+      "id": 8,
+      "document_id": 22,
+      "title": "Heinrich Himmler in Luxembourg",
+      "slug": "Heinrich-Himmler-in-Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_in_World_War_II#/media/File:Bundesarchiv_Bild_101III-Weill-061-25,_Heinrich_Himmler_in_Luxembourg.jpg",
+      "type": "picture",
+      "copyrights": "",
+      "caption": "",
+      "short_url": "ScYZ7CG",
+      "data": {
+        "type": "picture",
+        "title": {
+          "de_DE": "Heinrich Himmler in Luxembourg",
+          "en_GB": "Heinrich Himmler in Luxembourg",
+          "fr_FR": "Heinrich Himmler in Luxembourg"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "snapshot": {
+          "width": 1200,
+          "height": 751
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Heinrich Himmler in Luxembourg",
+          "en_GB": "Heinrich Himmler in Luxembourg",
+          "fr_FR": "Heinrich Himmler in Luxembourg"
+        },
+        "resolutions": {
+          "medium": {
+            "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-96-768-0-0.jpg",
+            "width": 768,
+            "height": 481
+          },
+          "preview": {
+            "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-96-0-0-768.jpg",
+            "width": 1227,
+            "height": 768
+          },
+          "thumbnail": {
+            "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-72-0-260-0.jpg",
+            "width": 260,
+            "height": 163
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "attachment": "/media/picture/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg"
+    },
+    {
+      "id": 9,
+      "document_id": 20,
+      "title": "klinik st Joseph, 1943 (CNA)",
+      "slug": "klinik-st-joseph-1943-cna",
+      "url": "https://vimeo.com/528298336/8b9085c3b6?share=copy",
+      "type": "video",
+      "copyrights": "",
+      "caption": "",
+      "short_url": "b9EcuWk",
+      "data": {
+        "type": "media",
+        "title": {
+          "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+          "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+        },
+        "resolutions": {
+          "medium": {
+            "url": "https://placehold.co/768x430/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 768,
+            "height": 430
+          },
+          "preview": {
+            "url": "https://placehold.co/1371x768/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 1371,
+            "height": 768
+          },
+          "thumbnail": {
+            "url": "https://placehold.co/260x146/black/white?text=klinik-st-joseph-1943-cna",
+            "width": 260,
+            "height": 146
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": "https://player.vimeo.com/external/528298336.m3u8?s=48042a6eddb4ebc97b6ede8f92c4a39139ddb2a6&logging=false"
+          },
+          "dash": {
+            "url": "https://player.vimeo.com/external/528298336.mpd?s=26992b78d2bd96e58a2a21d4c224af21355e73fd&logging=false"
+          },
+          "sd360p": {
+            "url": "https://player.vimeo.com/progressive_redirect/playback/528298336/rendition/360p/file.mp4?loc=external&signature=094baf3a199f1c4e36356a4dfd3474a53abb1e0adf8a0052d330962fec4ce038"
+          }
+        }
+      },
+      "attachment": null
+    }
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "category": "publishing",
+      "slug": "chapter",
+      "name": "chapter",
+      "status": "public",
+      "data": {
+        "name": "chapter"
+      }
+    }
+  ],
+  "covers": [],
+  "stories": [],
+  "data": {
+    "color": "",
+    "title": {
+      "de_DE": "Kriegseintritt (N01)",
+      "en_GB": "Entering the war (N01)",
+      "fr_FR": "Entrée en guerre (N01)"
+    },
+    "abstract": {
+      "de_DE": "Der Ausbruch des Zweiten Weltkriegs 1939 und die Invasion Luxemburgs",
+      "en_GB": "The outbreak of the Second World War in 1939 and the invasion of Luxembourg",
+      "fr_FR": "Le déclenchement de la Seconde Guerre mondiale en 1939 et l'invasion du Luxembourg"
+    },
+    "background": {
+      "bbox": [],
+      "overlay": "",
+      "backgroundColor": "#ddd"
+    },
+    "count_modules": 4
+  },
+  "contents": {
+    "modules": [
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "en_GB": "With the outbreak of the Second World War, Luxembourg found itself in a precarious political position. Although the Grand Duchy’s Government was quick to reiterate its traditional policy of strict “disarmed neutrality”, it harboured no illusions about the latter’s viability. Diplomatically isolated and landlocked between Nazi Germany and France, the country risked being overrun by the war-waging powers in the first hours of the conflict – just like in 1914\\.",
+            "fr_FR": "Avec le déclenchement de la Seconde Guerre mondiale, le Luxembourg se trouva dans une position politique précaire. Bien que le gouvernement du Grand-Duché ait rapidement réitéré sa politique traditionnelle de stricte « neutralité désarmée », il ne se faisait aucune illusion quant à la viabilité de celle-ci. Diplomatiquement isolé et enclavé entre l'Allemagne nazie et la France, le pays risquait d'être envahi par les puissances belligérantes dès les premières heures du conflit – tout comme en 1914\\.",
+            "de_DE": "Mit dem Ausbruch des Zweiten Weltkriegs befand sich Luxemburg in einer prekären politischen Lage. Obwohl die Regierung des Großherzogtums schnell ihre traditionelle Politik der strikten „entwaffneten Neutralität“ bekräftigte, machte sie sich keine Illusionen über deren Machbarkeit. Diplomatisch isoliert und eingezwängt zwischen dem nationalsozialistischen Deutschland und Frankreich, riskierte das Land, in den ersten Stunden des Konflikts von den kriegsführenden Mächten überrannt zu werden – genau wie 1914\\."
+          }
+        }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "en_GB": "This time, however, the Government was poised to act within the narrow frames of neutrality. On 25 August 1939, Luxembourg’s volunteer army of 700 men was deployed to the borders to guard the newly built defensive “Schuster Line” consisting of 62 road barriers. Meanwhile, in January 1940, the Government and grand ducal family secretly decided to leave the country in the event of an invasion.",
+            "fr_FR": "Cette fois-ci, cependant, le gouvernement était prêt à agir dans les limites étroites de la neutralité. Le 25 août 1939, l'armée volontaire luxembourgeoise de 700 hommes fut déployée aux frontières pour garder la nouvelle ligne défensive « Ligne Schuster » composée de 62 barrières routières. Entre-temps, en janvier 1940, le gouvernement et la famille grand-ducale décidèrent secrètement de quitter le pays en cas d'invasion.",
+            "de_DE": "Diesmal jedoch war die Regierung bereit, im engen Rahmen der Neutralität zu handeln. Am 25. August 1939 wurde die Freiwilligenarmee Luxemburgs von 700 Mann an die Grenzen entsandt, um die neu errichtete Verteidigungslinie „Schuster-Linie“ zu bewachen, die aus 62 Straßensperren bestand. Unterdessen beschloss die Regierung im Januar 1940 zusammen mit der großherzoglichen Familie, das Land im Falle einer Invasion heimlich zu verlassen."
+          }
+        }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "en_GB": "These precautionary measures apart, civilian society was not directly affected by the conflict until May 1940\\. Yet the threat of war remained a daily presence: air raid shelters were opened, the border populations near Schengen were evacuated, and the canons of the Franco-German frontlines could be heard as far as Luxembourg City. On 10 May 1940, Nazi Germany violated Luxembourg’s neutrality and invaded the country in its “Blitzkrieg” against France. As the Luxembourg Army surrendered right away, the German invaders rapidly bypassed the “Schuster Line” and overran the country within a few hours.",
+            "fr_FR": "Ces mesures de précaution mises à part, la société civile ne fut pas directement affectée par le conflit avant mai 1940\\. Pourtant, la menace de guerre restait une présence quotidienne : des abris anti-aériens furent ouverts, les populations frontalières près de Schengen furent évacuées et les canons des lignes de front franco-allemandes pouvaient être entendus jusqu'à Luxembourg-Ville. Le 10 mai 1940, l'Allemagne nazie viola la neutralité du Luxembourg et envahit le pays dans son « Blitzkrieg » contre la France. Comme l'armée luxembourgeoise se rendit immédiatement, les envahisseurs allemands contournèrent rapidement la « Ligne Schuster » et envahirent le pays en quelques heures.",
+            "de_DE": "Abgesehen von diesen Vorsichtsmaßnahmen war die Zivilgesellschaft bis Mai 1940 nicht direkt von dem Konflikt betroffen\\. Doch die Kriegsgefahr war täglich präsent: Luftschutzbunker wurden geöffnet, die Grenzbevölkerung in der Nähe von Schengen wurde evakuiert, und die Kanonen der deutsch-französischen Frontlinien waren bis nach Luxemburg-Stadt zu hören. Am 10. Mai 1940 verletzte Nazi-Deutschland die Neutralität Luxemburgs und überfiel das Land im Rahmen seines „Blitzkriegs“ gegen Frankreich. Da sich die luxemburgische Armee sofort ergab, umgingen die deutschen Invasoren schnell die „Schuster-Linie“ und überrannten das Land innerhalb weniger Stunden."
+          }
+        }
+      },
+      {
+        "module": "text",
+        "background": {
+          "color": "#ddd"
+        },
+        "text": {
+          "color": "#000",
+          "position": "center",
+          "content": {
+            "fr_FR": "## References\n\n‘ANLux, PdE-324885, Rapport Du Brigadier de La Sûreté, Nicolas Huberty Du 14 Août 1939.’, 14 August 1939\\. PdE-324885.\n\nLa Tribune juive : organe indépendant du judaïsme de l’Est de la France. ‘Mondorf-Les-Bains, Echo de Pâque’. 17 May 1935\\. gallica.bnf.fr."
+          }
+        }
+      }
+    ]
+  },
+  "date": null,
+  "date_created": "2024-05-17T08:51:14.285141Z",
+  "date_last_modified": "2024-08-09T09:07:31.828242Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}

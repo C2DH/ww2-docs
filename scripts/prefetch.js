@@ -5,7 +5,7 @@ const { mkdir, writeFile, readFile } = require('fs').promises
 const axios = require('axios')
 console.log('hello ❤️')
 
-console.log('Use `npm run dev` to see debug output')
+console.log('Usage example: `WW2_API_HOST=http://localhost npm run dev`')
 console.log('ENV variables prefixed by WW2_:')
 Object.entries(process.env)
   .filter((d) => d[0].indexOf('WW2_', 0) === 0)
@@ -65,6 +65,7 @@ async function generateApiStaticFile(url, config) {
   await writeFile(filepath, JSON.stringify(contents, null, 2))
   debug('writeFile done')
   return {
+    url,
     hash,
     filepath: filepath.replace(config.dist, ''),
   }
@@ -107,12 +108,12 @@ async function buildApiFolders(config) {
   }
 }
 
-async function apiOutputsAsStaticFiles() {
-  debug('apiOutputsAsStaticFiles')
-  const urlItems = await readFile(
-    path.join(__dirname, './urls.json'),
-    'utf8'
-  ).then(JSON.parse)
+async function prefetch() {
+  debug('prefetch')
+  const urlsPath =
+    process.env.WW2_URLS_LIST_PATH ?? path.join(__dirname, './urls.json')
+
+  const urlItems = await readFile(urlsPath, 'utf8').then(JSON.parse)
 
   const config = {
     dirname: __dirname,
@@ -122,12 +123,18 @@ async function apiOutputsAsStaticFiles() {
     host: process.env.WW2_API_HOST ?? 'http://localhost/api',
     urls: urlItems.map((d) => d.url),
   }
-  debug(config)
+  console.log(config)
   await buildApiFolders(config)
   const results = []
 
   for (const urlItem of urlItems) {
-    console.log('url:', urlItem.url)
+    console.log(
+      results.length + 1,
+      'of ',
+      urlItems.length,
+      '\n - url:',
+      urlItem.url
+    )
     const result = await generateApiStaticFile(urlItem.url, config)
     results.push({
       ...urlItem,
@@ -145,5 +152,5 @@ async function apiOutputsAsStaticFiles() {
 }
 
 if (require.main === module) {
-  apiOutputsAsStaticFiles()
+  prefetch()
 }
