@@ -138,5 +138,10 @@
     "description": "[LEVEL 3] Index historical is a collection of entities",
     "url": "/api/document/?filters={\"type\":\"entity\"}&facets=data__type&limit=10&offset=0",
     "hash": "cee058ced47baf522b334dc124a78ed12391d08a55aaa7e38f0a77ecb1d03d9f"
+  },
+  {
+    "description": "[LEVEL 3] Bibliography has three types, book, manuscript or reference",
+    "url": "/api/document/?filters={\"type__in\":[\"reference\",\"book\",\"manuscript\"}&facets=data__type&limit=10&offset=0",
+    "hash": "d5e2e995b3db151bf2ed6ed27ffa19713a0dd8bacd529494021ae0ff6b3f0185"
   }
 ]

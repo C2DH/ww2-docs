@@ -1,0 +1,649 @@
+{
+  "count": 1369,
+  "next": "http://10.240.4.198/api/document/?facets=data__type&filters=%7B%22type__in%22%3A%5B%22reference%22%2C%22book%22%2C%22manuscript%22%7D&limit=10&offset=10",
+  "previous": null,
+  "results": [
+    {
+      "id": 7,
+      "title": "Ancien chateau de Bofferdange",
+      "slug": "ancien-chateau-de-bofferdange",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Altes Schloss von Bofferdange",
+          "en_GB": "Old castle of Bofferdange",
+          "fr_FR": "Ancien chateau de Bofferdange"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Bofferdange",
+                "en_GB": "Bofferdange",
+                "fr_FR": "Bofferdange"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "77901.426636186618",
+              "83797.678012022719"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Lebensborn (Kinderheim), jetzt Servior Ausbildungszentrum",
+          "en_GB": "Lebensborn (children's home), now Servior training center",
+          "fr_FR": "Lebensborn (foyer pour enfants), maintenant Centre de formation Servior"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "LjRxxti"
+    },
+    {
+      "id": 8,
+      "title": "Couvent de Cinqfontaines",
+      "slug": "couvent-de-cinqfontaines",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Kloster Cinqfontaines",
+          "en_GB": "Cinqfontaines Convent",
+          "fr_FR": "Couvent de Cinqfontaines"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Troisvierges",
+                "en_GB": "Troisvierges",
+                "fr_FR": "Troisvierges"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "68529.220838168141",
+              "130322.96801508049"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Sortierzentrum für Juden, die deportiert werden sollen. Ende 2020 vom Staat erworben. In Transformation",
+          "en_GB": "Sorting center for Jews to be deported. Acquired by the State at the end of 2020. Under transformation",
+          "fr_FR": "Centre de tri des juifs à déporter. Acquis fin 2020 par l'Etat. En transformation"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "Eam46Rz"
+    },
+    {
+      "id": 9,
+      "title": "Galerie Hondsbesch",
+      "slug": "galerie-hondsbesch",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Galerie Hondsbesch",
+          "en_GB": "Galerie Hondsbesch",
+          "fr_FR": "Galerie Hondsbesch"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Differdange",
+                "en_GB": "Differdange",
+                "fr_FR": "Differdange"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "59440.834177650708",
+              "66364.752209561266"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Galerie - Schutzraum für Refraktäre und Deserteur",
+          "en_GB": "Gallery - shelter for refractories and deserters",
+          "fr_FR": "Galerie - abri pour réfractaires et déserteurs"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "EyDKL7Y"
+    },
+    {
+      "id": 10,
+      "title": "Gare de Hollerich",
+      "slug": "gare-de-hollerich",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Bahnhof Hollerich",
+          "en_GB": "Hollerich station",
+          "fr_FR": "Gare de Hollerich"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Luxembourg",
+                "en_GB": "Luxembourg",
+                "fr_FR": "Luxembourg"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "76582.676500861387",
+              "73420.648500774842"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Abfahrtbahnhof (eingeschrieben und deportiert). Derzeit Museum - Deportationsdenkmal",
+          "en_GB": "Departure station (enrolled and deported). Currently Museum - Deportation Memorial",
+          "fr_FR": "Gare de départ (enrolés et déportés). Actuellement Musée - Mémorial de la déportation\""
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "5GWgDwA"
+    },
+    {
+      "id": 11,
+      "title": "Chateau de Colmar-Berg",
+      "slug": "chateau-de-colmar-berg",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Schloss Colmar-Berg",
+          "en_GB": "Colmar-Berg Castle",
+          "fr_FR": "Chateau de Colmar-Berg"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "Colmar-Berg",
+                "en_GB": "Colmar-Berg",
+                "fr_FR": "Colmar-Berg"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            }
+          }
+        },
+        "description": {
+          "de_DE": "actuellement résidence privée",
+          "en_GB": "currently private residence",
+          "fr_FR": "derzeit Privatresidenz"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "W3f5Aa5"
+    },
+    {
+      "id": 12,
+      "title": "Villa Pauly",
+      "slug": "villa-pauly",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Villa Pauly",
+          "en_GB": "Villa Pauly",
+          "fr_FR": "Villa Pauly"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Luxembourg",
+                "en_GB": "Luxembourg",
+                "fr_FR": "Luxembourg"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "76883.307789273662",
+              "74607.396183220975"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Nationales Hauptquartier der GESTAPO, derzeit Hauptsitz des Vereins Service de la mémoire de la Deuxième Guerre mondiale",
+          "en_GB": "National headquarters of the GESTAPO, currently headquarters of the Second World War Memory Service association",
+          "fr_FR": "QG national de la GESTAPO, actuellement siège de l'association Service de la mémoire de la Deuxième Guerre mondiale"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "chLDYKg"
+    },
+    {
+      "id": 13,
+      "title": "Anciennes ardoisieres",
+      "slug": "anciennes-ardoisieres",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Alte Schieferbrüche",
+          "en_GB": "Old slate quarries",
+          "fr_FR": "Anciennes ardoisieres"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Martelange",
+                "en_GB": "Martelange",
+                "fr_FR": "Martelange"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "50002.138514163846",
+              "98969.960981795724"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Schieferausbeutung, derzeit Museum",
+          "en_GB": "Slate exploitation, currently museum",
+          "fr_FR": "Exploitation d'ardoises, actuellement musée"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "WV7XLBT"
+    },
+    {
+      "id": 14,
+      "title": "Palace Hotel",
+      "slug": "palace-hotel",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Palace Hotel",
+          "en_GB": "Palace Hotel",
+          "fr_FR": "Palace Hotel"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Mondorf les Bains",
+                "en_GB": "Mondorf les Bains",
+                "fr_FR": "Mondorf les Bains"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            }
+          }
+        },
+        "description": {
+          "de_DE": "Kriegstourismus, US-Residenz, VIP-Gefangenenlager (Ashcan-Lager)",
+          "en_GB": "War tourism, US residence, VIP prisoner camp (Ashcan camp)",
+          "fr_FR": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan)"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "CJqN26d"
+    },
+    {
+      "id": 15,
+      "title": "Maison communale Esch-sur-Alzette",
+      "slug": "maison-communale-esch-sur-alzette",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "Rathaus",
+          "en_GB": "Town hall",
+          "fr_FR": "Maison communale"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "Esch-sur-Alzette",
+                "en_GB": "Esch-sur-Alzette",
+                "fr_FR": "Esch-sur-Alzette"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "66708.859339008995",
+              "62413.648346059825"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Deutsche Gemeindeverwaltung",
+          "en_GB": "German municipal administration",
+          "fr_FR": "Administration communale allemande"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "XCFwVDx"
+    },
+    {
+      "id": 16,
+      "title": "9 Rue de la Liberté",
+      "slug": "9-rue-de-la-liberte",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "place",
+        "title": {
+          "de_DE": "9 Rue de la Liberté",
+          "en_GB": "9 Rue de la Liberté",
+          "fr_FR": "9 Rue de la Liberté"
+        },
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": "Luxembourg"
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "9 Rue de la Liberté",
+                "en_GB": "9 Rue de la Liberté",
+                "fr_FR": "9 Rue de la Liberté"
+              },
+              "country": "Luxembourg"
+            },
+            "coordinates": [
+              "77152.386998160087",
+              "74681.302114668622"
+            ]
+          }
+        },
+        "description": {
+          "de_DE": "Bekannt als Hitlerstrasse während des Zweiten Weltkriegs",
+          "en_GB": "Known as Hitlerstrasse during WWII",
+          "fr_FR": "Connu comme Hitlerstrasse pendant la 2eme guerre mondiale"
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "nKHD3hD"
+    }
+  ],
+  "facets": {
+    "data__type": [
+      {
+        "data__type": "article",
+        "count": 9
+      },
+      {
+        "data__type": "article-journal",
+        "count": 222
+      },
+      {
+        "data__type": "article-magazine",
+        "count": 20
+      },
+      {
+        "data__type": "article-newspaper",
+        "count": 26
+      },
+      {
+        "data__type": "book",
+        "count": 847
+      },
+      {
+        "data__type": "broadcast",
+        "count": 14
+      },
+      {
+        "data__type": "chapter",
+        "count": 149
+      },
+      {
+        "data__type": "manuscript",
+        "count": 5
+      },
+      {
+        "data__type": "media",
+        "count": 1
+      },
+      {
+        "data__type": "motion_picture",
+        "count": 5
+      },
+      {
+        "data__type": "paper-conference",
+        "count": 1
+      },
+      {
+        "data__type": "personal_communication",
+        "count": 1
+      },
+      {
+        "data__type": "picture",
+        "count": 2
+      },
+      {
+        "data__type": "place",
+        "count": 13
+      },
+      {
+        "data__type": "report",
+        "count": 3
+      },
+      {
+        "data__type": "thesis",
+        "count": 46
+      },
+      {
+        "data__type": "webpage",
+        "count": 5
+      }
+    ]
+  }
+}
