@@ -1,6 +1,6 @@
 {
-  "count": 1369,
-  "next": "http://10.240.4.198/api/document/?facets=data__type&filters=%7B%22type__in%22%3A%5B%22reference%22%2C%22book%22%2C%22manuscript%22%7D&limit=10&offset=10",
+  "count": 1373,
+  "next": "/api/document/?facets=data__type&filters=%7B%22type__in%22%3A%5B%22reference%22%2C%22book%22%2C%22manuscript%22%7D&limit=10&offset=10",
   "previous": null,
   "results": [
     {
@@ -603,6 +603,10 @@
       {
         "data__type": "chapter",
         "count": 149
+      },
+      {
+        "data__type": "glossary",
+        "count": 4
       },
       {
         "data__type": "manuscript",

@@ -125,23 +125,33 @@
     "hash": "b0764bedc1d775cf9e50ffad962d088e1d76b05575afd84c147a627773dc6640"
   },
   {
-    "description": "[LEVEL 3] In sources, different types of documents are available. You can use the facets property of the api to get the various entryies in the source:",
+    "description": "[LEVEL 3: Sources] In sources, different types of documents are available. You can use the facets property of the api to get the various entryies in the source:",
     "url": "/api/document/?filters={\"type__in\":[\"audio\",\"video\",\"photo\",\"book\",\"manuscript\"]}&facets=type&limit=1&offset=0",
     "hash": "7fcfbced29a08130670e1a6aee760896b53846be36792d39833dc9c0550fe56f"
   },
   {
-    "description": "[LEVEL 3] Then use pagination with the desired filter and facets (e.g. by author)",
+    "description": "[LEVEL 3: Sources] Then use pagination with the desired filter and facets (e.g. by author)",
     "url": "/api/document/?filters={\"type\":\"book\"}&facets=data__csljson__author&limit=10&offset=0",
     "hash": "6915b6c803c9afc6bb04014e090979cf0e6c71e134993d45938382fe59ea497e"
   },
   {
-    "description": "[LEVEL 3] Index historical is a collection of entities",
+    "description": "[LEVEL : Historical Index] Index historical is a collection of entities",
     "url": "/api/document/?filters={\"type\":\"entity\"}&facets=data__type&limit=10&offset=0",
     "hash": "cee058ced47baf522b334dc124a78ed12391d08a55aaa7e38f0a77ecb1d03d9f"
   },
   {
-    "description": "[LEVEL 3] Bibliography has three types, book, manuscript or reference",
+    "description": "[LEVEL 3: Bibliography] Bibliography has three types, book, manuscript or reference",
     "url": "/api/document/?filters={\"type__in\":[\"reference\",\"book\",\"manuscript\"}&facets=data__type&limit=10&offset=0",
     "hash": "d5e2e995b3db151bf2ed6ed27ffa19713a0dd8bacd529494021ae0ff6b3f0185"
+  },
+  {
+    "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' and facet by 'letter'",
+    "url": "/api/document/?filters={\"type\":\"glossary\"}&facets=data__letter&limit=10&offset=0",
+    "hash": "3d18dc9b8cf034e6dfccb472839498f014b8ee036d3b37393e3af8022ddadb2b"
+  },
+  {
+    "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter A",
+    "url": "/api/document/?filters={\"type\":\"glossary\",\"data__letter\":\"A\"}&limit=10&offset=0",
+    "hash": "d0dcc30a13aed53dd5716bfa9b30a1543bacd99ea38cea11464dd83bd87be307"
   }
 ]

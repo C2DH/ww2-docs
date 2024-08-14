@@ -1,0 +1,284 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1377,
+      "title": "Luxembourgish Resistance",
+      "slug": "luxembourgish-resistance",
+      "mimetype": "",
+      "type": "glossary",
+      "data": {
+        "type": "glossary",
+        "title": {
+          "de_DE": "Luxemburgischer Widerstand",
+          "en_GB": "Luxembourgish Resistance",
+          "fr_FR": "Résistance luxembourgeoise"
+        },
+        "letter": "R",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "Die organisierten Bemühungen luxemburgischer Bürger, der nationalsozialistischen Besatzung während des Zweiten Weltkriegs zu widerstehen. Der Widerstand umfasste Sabotage, das Sammeln von Informationen und die Unterstützung alliierter Streitkräfte sowie das Verstecken von Juden und anderen verfolgten Gruppen. Die Bewegung umfasste verschiedene Gruppen wie die \"Letzebuerger Patriote Liga\" und den \"Luxemburgischen Roten Löwen\".",
+          "en_GB": "The organized efforts by Luxembourgish citizens to resist Nazi occupation during World War II. The resistance involved sabotage, intelligence gathering, and helping Allied forces, as well as sheltering Jews and other persecuted groups. The movement included various groups like the \"Letzebuerger Patriote Liga\" and the \"Luxembourgish Red Lion.\"",
+          "fr_FR": "Les efforts organisés des citoyens luxembourgeois pour résister à l'occupation nazie pendant la Seconde Guerre mondiale. La résistance comprenait du sabotage, de la collecte de renseignements et de l'aide aux forces alliées, ainsi que l'abri des Juifs et d'autres groupes persécutés. Le mouvement incluait divers groupes tels que la \"Letzebuerger Patriote Liga\" et le \"Luxemburgischer Roter Löwe\"."
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Der Widerstand spielte eine Schlüsselrolle bei der Aufrechterhaltung der nationalen Identität und im Widerstand gegen das NS-Regime, trotz der harten Repression und der Risiken für die Beteiligten.",
+          "en_GB": "The resistance played a key role in maintaining national identity and defying the Nazi regime, despite the severe repression and risks faced by those involved.",
+          "fr_FR": "La résistance a joué un rôle clé dans le maintien de l'identité nationale et la défiance contre le régime nazi, malgré la répression sévère et les risques encourus par ceux qui y participaient."
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "PEJbevf"
+    },
+    {
+      "id": 1378,
+      "title": "Operation Wacht am Rhein (Battle of the Bulge)",
+      "slug": "operation-wacht-am-rhein-battle-of-the-bulge",
+      "mimetype": "",
+      "type": "glossary",
+      "data": {
+        "type": "glossary",
+        "title": {
+          "de_DE": "Operation Wacht am Rhein (Ardennenoffensive)",
+          "en_GB": "Operation Wacht am Rhein (Battle of the Bulge)",
+          "fr_FR": "Opération Wacht am Rhein (Bataille des Ardennes)"
+        },
+        "letter": "O",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "Die Ardennenregion Luxemburgs war Schauplatz einiger der schwersten Kämpfe während dieser Offensive. Städte wie Clervaux und Wiltz erlitten erhebliche Schäden und zivile Verluste. Die Ardennenoffensive war eine der letzten großen deutschen Offensiven des Krieges und markierte einen Wendepunkt zugunsten der Alliierten.",
+          "en_GB": "Luxembourg's Ardennes region saw some of the heaviest battles during this offensive. Towns like Clervaux and Wiltz suffered significant damage and civilian casualties. The Battle of the Bulge was one of the last major German offensives of the war and marked a turning point in the Allies' favor.",
+          "fr_FR": "La région des Ardennes au Luxembourg a vu certaines des batailles les plus violentes pendant cette offensive. Des villes comme Clervaux et Wiltz ont subi des dommages importants et des pertes civiles. La Bataille des Ardennes a été l'une des dernières grandes offensives allemandes de la guerre et a marqué un tournant en faveur des Alliés."
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Eine große deutsche Offensive, die im Dezember 1944 gestartet wurde und darauf abzielte, die alliierten Streitkräfte in der Ardennenregion, zu der auch Teile Luxemburgs gehören, zu spalten. Die Offensive schuf einen \"Vorstoß\" in den alliierten Frontlinien, was zu heftigen Kämpfen führte.",
+          "en_GB": "A major German offensive launched in December 1944, aimed at splitting the Allied forces in the Ardennes region, which includes parts of Luxembourg. The offensive created a \"bulge\" in the Allied front lines, leading to intense fighting.",
+          "fr_FR": "Une grande offensive allemande lancée en décembre 1944, visant à diviser les forces alliées dans la région des Ardennes, qui comprend une partie du Luxembourg. L'offensive a créé un \"renflement\" dans les lignes de front alliées, entraînant des combats intenses."
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "Ry8B3Ls"
+    },
+    {
+      "id": 1380,
+      "title": "Liberation of Luxembourg",
+      "slug": "liberation-of-luxembourg",
+      "mimetype": "",
+      "type": "glossary",
+      "data": {
+        "type": "glossary",
+        "title": {
+          "de_DE": "Befreiung Luxemburgs",
+          "en_GB": "Liberation of Luxembourg",
+          "fr_FR": "Libération de Luxembourg"
+        },
+        "letter": "L",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "Obwohl ein Großteil des Landes 1944 befreit wurde, litten einige Gebiete, insbesondere in den Ardennen, bis zum Kriegsende im Mai 1945 weiter unter den Kämpfen.",
+          "en_GB": "Although much of the country was liberated in 1944, certain areas, particularly in the Ardennes, continued to suffer from fighting until the war's end in May 1945",
+          "fr_FR": "Bien que le pays ait été en grande partie libéré en 1944, certaines régions, notamment dans les Ardennes, ont continué de souffrir des combats jusqu'à la fin de la guerre en mai 1945."
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Die Befreiung Luxemburgs durch alliierte Truppen begann im September 1944, als amerikanische Truppen die südliche Grenze des Landes überschritten. Diese Befreiung markierte das Ende der deutschen Besatzung, obwohl der Krieg mit der Ardennenoffensive weiterging",
+          "en_GB": "The liberation of Luxembourg by Allied forces began in September 1944 when American troops crossed the southern border of the country. This liberation marked the end of German occupation, though the war continued with the Battle of the Bulge.",
+          "fr_FR": "La libération du Luxembourg par les forces alliées a débuté en septembre 1944, lorsque les troupes américaines ont franchi la frontière sud du pays. Cette libération a marqué la fin de l'occupation allemande, bien que la guerre se soit poursuivie avec l'Offensive des Ardennes."
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "CqW2MxP"
+    }
+  ],
+  "facets": {
+    "data__letter": [
+      {
+        "data__letter": "L",
+        "count": 1
+      },
+      {
+        "data__letter": "O",
+        "count": 1
+      },
+      {
+        "data__letter": "R",
+        "count": 1
+      }
+    ]
+  }
+}

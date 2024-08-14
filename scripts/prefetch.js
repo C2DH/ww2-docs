@@ -36,6 +36,12 @@ async function generateApiStaticFile(url, config) {
     .get(absoluteUrl)
     .then((res) => res.data)
     .then((data) => {
+      if (data.next) {
+        data.next = data.next.replace(config.host, '')
+      }
+      if (data.previous) {
+        data.previous = data.previous.replace(config.host, '')
+      }
       if (data.results && Array.isArray(data.results)) {
         return {
           ...data,

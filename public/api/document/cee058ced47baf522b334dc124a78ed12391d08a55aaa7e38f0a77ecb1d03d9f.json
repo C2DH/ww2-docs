@@ -1,6 +1,6 @@
 {
   "count": 13,
-  "next": "http://10.240.4.198/api/document/?facets=data__type&filters=%7B%22type%22%3A%22entity%22%7D&limit=10&offset=10",
+  "next": "/api/document/?facets=data__type&filters=%7B%22type%22%3A%22entity%22%7D&limit=10&offset=10",
   "previous": null,
   "results": [
     {

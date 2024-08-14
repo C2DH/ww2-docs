@@ -1,6 +1,6 @@
 {
   "count": 1051,
-  "next": "http://10.240.4.198/api/document/?facets=type&filters=%7B%22type__in%22%3A%5B%22audio%22%2C%22video%22%2C%22photo%22%2C%22book%22%2C%22manuscript%22%5D%7D&limit=1&offset=1",
+  "next": "/api/document/?facets=type&filters=%7B%22type__in%22%3A%5B%22audio%22%2C%22video%22%2C%22photo%22%2C%22book%22%2C%22manuscript%22%5D%7D&limit=1&offset=1",
   "previous": null,
   "results": [
     {
