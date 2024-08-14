@@ -134,7 +134,7 @@
     "url": "/api/document/?filters={%22type%22:%22glossary%22}&facets=data__letter&limit=10&offset=0"
   },
   {
-    "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter A",
-    "url": "/api/document/?filters={%22type%22:%22glossary%22,%22data__letter%22:%22A%22}&limit=10&offset=0"
+    "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter L",
+    "url": "/api/document/?filters={%22type%22:%22glossary%22,%22data__letter%22:%22L%22}&limit=10&offset=0"
   }
 ]

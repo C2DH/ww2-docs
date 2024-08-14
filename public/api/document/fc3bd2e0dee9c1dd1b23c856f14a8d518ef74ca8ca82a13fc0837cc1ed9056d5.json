@@ -1,0 +1,95 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1380,
+      "title": "Liberation of Luxembourg",
+      "slug": "liberation-of-luxembourg",
+      "mimetype": "",
+      "type": "glossary",
+      "data": {
+        "type": "glossary",
+        "title": {
+          "de_DE": "Befreiung Luxemburgs",
+          "en_GB": "Liberation of Luxembourg",
+          "fr_FR": "Libération de Luxembourg"
+        },
+        "letter": "L",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {
+            "properties": {
+              "city": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "name": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              },
+              "address": {
+                "de_DE": "",
+                "en_GB": "",
+                "fr_FR": ""
+              }
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "Obwohl ein Großteil des Landes 1944 befreit wurde, litten einige Gebiete, insbesondere in den Ardennen, bis zum Kriegsende im Mai 1945 weiter unter den Kämpfen.",
+          "en_GB": "Although much of the country was liberated in 1944, certain areas, particularly in the Ardennes, continued to suffer from fighting until the war's end in May 1945",
+          "fr_FR": "Bien que le pays ait été en grande partie libéré en 1944, certaines régions, notamment dans les Ardennes, ont continué de souffrir des combats jusqu'à la fin de la guerre en mai 1945."
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Die Befreiung Luxemburgs durch alliierte Truppen begann im September 1944, als amerikanische Truppen die südliche Grenze des Landes überschritten. Diese Befreiung markierte das Ende der deutschen Besatzung, obwohl der Krieg mit der Ardennenoffensive weiterging",
+          "en_GB": "The liberation of Luxembourg by Allied forces began in September 1944 when American troops crossed the southern border of the country. This liberation marked the end of German occupation, though the war continued with the Battle of the Bulge.",
+          "fr_FR": "La libération du Luxembourg par les forces alliées a débuté en septembre 1944, lorsque les troupes américaines ont franchi la frontière sud du pays. Cette libération a marqué la fin de l'occupation allemande, bien que la guerre se soit poursuivie avec l'Offensive des Ardennes."
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": ""
+          },
+          "dash": {
+            "url": ""
+          },
+          "sd360p": {
+            "url": ""
+          }
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "CqW2MxP"
+    }
+  ],
+  "facets": {}
+}

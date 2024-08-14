@@ -150,8 +150,8 @@
     "hash": "3d18dc9b8cf034e6dfccb472839498f014b8ee036d3b37393e3af8022ddadb2b"
   },
   {
-    "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter A",
-    "url": "/api/document/?filters={\"type\":\"glossary\",\"data__letter\":\"A\"}&limit=10&offset=0",
-    "hash": "d0dcc30a13aed53dd5716bfa9b30a1543bacd99ea38cea11464dd83bd87be307"
+    "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter L",
+    "url": "/api/document/?filters={\"type\":\"glossary\",\"data__letter\":\"L\"}&limit=10&offset=0",
+    "hash": "fc3bd2e0dee9c1dd1b23c856f14a8d518ef74ca8ca82a13fc0837cc1ed9056d5"
   }
 ]
