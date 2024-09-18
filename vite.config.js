@@ -12,4 +12,16 @@ export default defineConfig({
       },
     },
   },
+  server: {
+    proxy: {
+      '/api': {
+        target: 'https://ww2.lu',
+        changeOrigin: true,
+        // rewrite: (path) => {
+        //   console.log('proxy path', path)
+        //   return path.replace(/^\/api/, '/api')
+        // },
+      },
+    },
+  },
 })
