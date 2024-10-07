@@ -128,11 +128,23 @@
     "url": "/api/document/?filters={%22type__in%22:[%22reference%22,%22book%22,%22manuscript%22}&facets=data__type&limit=10&offset=0"
   },
   {
+    "description": "[LEVEL 3: Institutions] Les institutions sont des objets Document avec data.type institution tout simplement. P.e. la liste des institutions avec le parameter filter",
+    "url": "/api/document/?filters={%22data__type__in%22:[%22institution%22]}&limit=10"
+  },
+  {
+    "description": "[LEVEL 3: Institutions] Le search marche aussi, le param filter peut se rajouter au paramètre “q",
+    "url": "/api/document/?filters={\"data__type__in\":[\"institution\"]}&q=grand"
+  },
+  {
     "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' and facet by 'letter'",
     "url": "/api/document/?filters={%22type%22:%22glossary%22}&facets=data__letter&limit=10&offset=0"
   },
   {
     "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter L",
     "url": "/api/document/?filters={%22type%22:%22glossary%22,%22data__letter%22:%22L%22}&limit=10&offset=0"
+  },
+  {
+    "description": "[Level 4] Niveau Carte Spatio-temporelle. Les événements sont des objets Story liées à la Story “Carte Spatiotemporelle”, en utilisant le paramètre filter ?filter={“mentioned__to__slug”: “spatiotemporal-map”}",
+    "url": "/api/story/?filters={%22mentioned_to__slug%22:%22spatiotemporal-map%22}"
   }
 ]

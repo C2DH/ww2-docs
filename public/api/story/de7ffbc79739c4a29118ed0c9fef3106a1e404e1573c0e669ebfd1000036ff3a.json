@@ -1,0 +1,245 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 56,
+      "slug": "04-Event-01-en-francais",
+      "short_url": "46PzNbZ",
+      "date": null,
+      "date_created": "2024-10-01T07:02:52.460760Z",
+      "date_last_modified": "2024-10-01T09:56:07.150946Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 17,
+          "title": "Hotel Rauchs",
+          "slug": "hotel-rauchs",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Hotel Rauchs",
+              "en_GB": "Hotel Rauchs",
+              "fr_FR": "Hotel Rauchs"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "properties": {
+                  "city": {
+                    "de_DE": "Mersch",
+                    "en_GB": "Mersch",
+                    "fr_FR": "Mersch"
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "country": "Luxembourg"
+                },
+                "coordinates": [
+                  "75513.325511572009",
+                  "90716.639254772308"
+                ]
+              }
+            },
+            "description": {
+              "de_DE": "Veranstaltungsort für Aktivitäten, die von der Frauenschaft organisiert werden",
+              "en_GB": "venue for activities organized by the Frauenschaft",
+              "fr_FR": "\"lieu d'activités organisées par la Frauenschaft"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "BP5STMt"
+        },
+        {
+          "id": 1378,
+          "title": "Operation Wacht am Rhein (Battle of the Bulge)",
+          "slug": "operation-wacht-am-rhein-battle-of-the-bulge",
+          "mimetype": "",
+          "type": "glossary",
+          "data": {
+            "glb": "",
+            "gltf": "",
+            "type": "glossary",
+            "usdz": "",
+            "title": {
+              "de_DE": "Operation Wacht am Rhein (Ardennenoffensive)",
+              "en_GB": "Operation Wacht am Rhein (Battle of the Bulge)",
+              "fr_FR": "Opération Wacht am Rhein (Bataille des Ardennes)"
+            },
+            "letter": "O",
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {
+                "properties": {
+                  "city": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  }
+                }
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "name": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "address": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "country": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            },
+            "end_date": "1945-01-28",
+            "definition": {
+              "de_DE": "Die Ardennenregion Luxemburgs war Schauplatz einiger der schwersten Kämpfe während dieser Offensive. Städte wie Clervaux und Wiltz erlitten erhebliche Schäden und zivile Verluste. Die Ardennenoffensive war eine der letzten großen deutschen Offensiven des Krieges und markierte einen Wendepunkt zugunsten der Alliierten.",
+              "en_GB": "Luxembourg's Ardennes region saw some of the heaviest battles during this offensive. Towns like Clervaux and Wiltz suffered significant damage and civilian casualties. The Battle of the Bulge was one of the last major German offensives of the war and marked a turning point in the Allies' favor.",
+              "fr_FR": "La région des Ardennes au Luxembourg a vu certaines des batailles les plus violentes pendant cette offensive. Des villes comme Clervaux et Wiltz ont subi des dommages importants et des pertes civiles. La Bataille des Ardennes a été l'une des dernières grandes offensives allemandes de la guerre et a marqué un tournant en faveur des Alliés."
+            },
+            "identifier": "",
+            "provenance": "",
+            "start_date": "1944-12-16",
+            "description": {
+              "de_DE": "Eine große deutsche Offensive, die im Dezember 1944 gestartet wurde und darauf abzielte, die alliierten Streitkräfte in der Ardennenregion, zu der auch Teile Luxemburgs gehören, zu spalten. Die Offensive schuf einen \"Vorstoß\" in den alliierten Frontlinien, was zu heftigen Kämpfen führte.",
+              "en_GB": "A major German offensive launched in December 1944, aimed at splitting the Allied forces in the Ardennes region, which includes parts of Luxembourg. The offensive created a \"bulge\" in the Allied front lines, leading to intense fighting.",
+              "fr_FR": "Une grande offensive allemande lancée en décembre 1944, visant à diviser les forces alliées dans la région des Ardennes, qui comprend une partie du Luxembourg. L'offensive a créé un \"renflement\" dans les lignes de front alliées, entraînant des combats intenses."
+            },
+            "resolutions": {
+              "medium": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "preview": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "thumbnail": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "dash": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "sd360p": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "Ry8B3Ls"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 7,
+          "category": "publishing",
+          "slug": "level-4",
+          "name": "level-4",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "",
+        "title": {
+          "de_DE": "04-Event-01, in German",
+          "en_GB": "04-Event-01, in French",
+          "fr_FR": "04-Event-01, en français"
+        },
+        "abstract": {
+          "de_DE": "Description of the **event** (DE)",
+          "en_GB": "Description of the **event** (EN)",
+          "fr_FR": "Description of the **event** (FR)"
+        },
+        "background": {
+          "bbox": [],
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        },
+        "count_modules": 0
+      }
+    }
+  ]
+}

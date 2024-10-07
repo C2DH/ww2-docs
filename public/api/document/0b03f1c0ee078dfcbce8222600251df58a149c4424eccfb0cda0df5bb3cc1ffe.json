@@ -1,0 +1,114 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1414,
+      "title": "Grand Ducal Institute",
+      "slug": "grand-ducal-institute",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "type": "institution",
+        "title": {
+          "de_DE": "Das Großherzogliche Institut",
+          "en_GB": "The Grand Ducal Institute",
+          "fr_FR": "L'Institut Grand-Ducal"
+        },
+        "letter": "",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {},
+          "properties": {
+            "city": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "name": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "address": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "country": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": ""
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Das Großherzogliche Institut wurde 1868 gegründet, mit dem „Ziel, die Wissenschaften, die Literatur und die Künste zu fördern“, und besteht heute aus sechs Sektionen, die sich der Geschichte, den Natur- und Mathematikwissenschaften, der Medizin, den Künsten und Briefen, der Linguistik, der Ethnologie und der Onomastik sowie den Wissenschaften widmen.",
+          "en_GB": "The Grand Ducal Institute was created in 1868, with the \"aim of cultivating sciences, literature, and arts\" and is currently composed of six sections dedicated to history, natural and mathematical sciences, medicine, arts and letters, linguistics, ethnology and onomastics, and the sciences.",
+          "fr_FR": "L'Institut Grand-Ducal a été créé en 1868, dans le « but de cultiver les sciences, les lettres et les arts » et est composé aujourd'hui de six sections dédiées à l'histoire, aux sciences naturelles et mathématiques, à la médecine, aux arts et lettres, à la linguistique, l'ethnologie et l'onomastique et aux sciences"
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          },
+          "dash": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          },
+          "sd360p": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          }
+        }
+      },
+      "url": "https://igd-sh.lu/web/",
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "e39nF3h"
+    }
+  ],
+  "facets": {}
+}

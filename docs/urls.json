@@ -145,6 +145,16 @@
     "hash": "d5e2e995b3db151bf2ed6ed27ffa19713a0dd8bacd529494021ae0ff6b3f0185"
   },
   {
+    "description": "[LEVEL 3: Institutions] Les institutions sont des objets Document avec data.type institution tout simplement. P.e. la liste des institutions avec le parameter filter",
+    "url": "/api/document/?filters={\"data__type__in\":[\"institution\"]}&limit=10",
+    "hash": "0b03f1c0ee078dfcbce8222600251df58a149c4424eccfb0cda0df5bb3cc1ffe"
+  },
+  {
+    "description": "[LEVEL 3: Institutions] Le search marche aussi, le param filter peut se rajouter au paramètre “q",
+    "url": "/api/document/?filters={\"data__type__in\":[\"institution\"]}&q=grand",
+    "hash": "3fc0fa121d75d8219e2436b814a29cdd7ec95261627d693a112455abe7fa46fb"
+  },
+  {
     "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' and facet by 'letter'",
     "url": "/api/document/?filters={\"type\":\"glossary\"}&facets=data__letter&limit=10&offset=0",
     "hash": "3d18dc9b8cf034e6dfccb472839498f014b8ee036d3b37393e3af8022ddadb2b"
@@ -153,5 +163,10 @@
     "description": "[LEVEL 3: GLossary] Get all documents of type 'glossary' filtererd by letter L",
     "url": "/api/document/?filters={\"type\":\"glossary\",\"data__letter\":\"L\"}&limit=10&offset=0",
     "hash": "fc3bd2e0dee9c1dd1b23c856f14a8d518ef74ca8ca82a13fc0837cc1ed9056d5"
+  },
+  {
+    "description": "[Level 4] Niveau Carte Spatio-temporelle. Les événements sont des objets Story liées à la Story “Carte Spatiotemporelle”, en utilisant le paramètre filter ?filter={“mentioned__to__slug”: “spatiotemporal-map”}",
+    "url": "/api/story/?filters={\"mentioned_to__slug\":\"spatiotemporal-map\"}",
+    "hash": "de7ffbc79739c4a29118ed0c9fef3106a1e404e1573c0e669ebfd1000036ff3a"
   }
 ]
