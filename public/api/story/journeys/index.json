@@ -1,0 +1,861 @@
+{
+  "id": 8,
+  "slug": "journeys",
+  "short_url": "MDubXVf",
+  "title": "Level 01 - Journeys",
+  "abstract": null,
+  "documents": [],
+  "tags": [
+    {
+      "id": 1,
+      "category": "publishing",
+      "slug": "theme",
+      "name": "theme",
+      "status": "public",
+      "data": {
+        "name": "theme"
+      }
+    },
+    {
+      "id": 9,
+      "category": "publishing",
+      "slug": "static",
+      "name": "static",
+      "status": "public",
+      "data": {}
+    },
+    {
+      "id": 10,
+      "category": "publishing",
+      "slug": "menu",
+      "name": "menu",
+      "status": "public",
+      "data": {}
+    }
+  ],
+  "covers": [],
+  "stories": [
+    {
+      "id": 23,
+      "slug": "01-place-ancien-chateau-de-bofferdange",
+      "title": "Ancien chateau de Bofferdange",
+      "short_url": "9ydjPhB",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Ancien chateau de Bofferdange",
+          "en_GB": "Ancien chateau de Bofferdange",
+          "fr_FR": "Ancien chateau de Bofferdange"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior",
+          "en_GB": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior",
+          "fr_FR": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.354728Z",
+      "date_last_modified": "2024-09-27T13:09:29.361804Z"
+    },
+    {
+      "id": 24,
+      "slug": "01-place-couvent-de-cinqfontaines",
+      "title": "Couvent de Cinqfontaines",
+      "short_url": "njTocYV",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Couvent de Cinqfontaines",
+          "en_GB": "Couvent de Cinqfontaines",
+          "fr_FR": "Couvent de Cinqfontaines"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation",
+          "en_GB": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation",
+          "fr_FR": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.372943Z",
+      "date_last_modified": "2024-09-27T13:09:29.379798Z"
+    },
+    {
+      "id": 25,
+      "slug": "01-place-galerie-hondsbesch",
+      "title": "Galerie Hondsbesch",
+      "short_url": "NvXnePJ",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Galerie Hondsbesch",
+          "en_GB": "Galerie Hondsbesch",
+          "fr_FR": "Galerie Hondsbesch"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu",
+          "en_GB": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu",
+          "fr_FR": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.391223Z",
+      "date_last_modified": "2024-09-27T13:09:29.397986Z"
+    },
+    {
+      "id": 26,
+      "slug": "01-place-gare-de-hollerich",
+      "title": "Gare de Hollerich",
+      "short_url": "HkQGgt3",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Gare de Hollerich",
+          "en_GB": "Gare de Hollerich",
+          "fr_FR": "Gare de Hollerich"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation",
+          "en_GB": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation",
+          "fr_FR": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.406604Z",
+      "date_last_modified": "2024-09-27T13:09:29.411502Z"
+    },
+    {
+      "id": 27,
+      "slug": "01-place-chateau-de-colmar-berg",
+      "title": "Chateau de Colmar-Berg",
+      "short_url": "NgZ6Vaf",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Chateau de Colmar-Berg",
+          "en_GB": "Chateau de Colmar-Berg",
+          "fr_FR": "Chateau de Colmar-Berg"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Napola. Usage actuel : Résidence privée",
+          "en_GB": "Napola. Usage actuel : Résidence privée",
+          "fr_FR": "Napola. Usage actuel : Résidence privée"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.419924Z",
+      "date_last_modified": "2024-09-27T13:09:29.424581Z"
+    },
+    {
+      "id": 28,
+      "slug": "01-place-villa-pauly",
+      "title": "Villa Pauly",
+      "short_url": "Ax3bRZ2",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Villa Pauly",
+          "en_GB": "Villa Pauly",
+          "fr_FR": "Villa Pauly"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale",
+          "en_GB": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale",
+          "fr_FR": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.432659Z",
+      "date_last_modified": "2024-09-27T13:09:29.437167Z"
+    },
+    {
+      "id": 29,
+      "slug": "01-place-anciennes-ardoisieres-de-haut-martelange",
+      "title": "Anciennes ardoisieres de Haut-Martelange",
+      "short_url": "5JTANr2",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Anciennes ardoisieres de Haut-Martelange",
+          "en_GB": "Anciennes ardoisieres de Haut-Martelange",
+          "fr_FR": "Anciennes ardoisieres de Haut-Martelange"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Exploitation d'ardoises. Usage actuel : Musée",
+          "en_GB": "Exploitation d'ardoises. Usage actuel : Musée",
+          "fr_FR": "Exploitation d'ardoises. Usage actuel : Musée"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.445181Z",
+      "date_last_modified": "2024-09-27T13:09:29.449371Z"
+    },
+    {
+      "id": 30,
+      "slug": "01-place-palace-hotel",
+      "title": "Palace Hotel",
+      "short_url": "cBikLok",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Palace Hotel",
+          "en_GB": "Palace Hotel",
+          "fr_FR": "Palace Hotel"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988",
+          "en_GB": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988",
+          "fr_FR": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.457330Z",
+      "date_last_modified": "2024-09-27T13:09:29.461621Z"
+    },
+    {
+      "id": 31,
+      "slug": "01-place-maison-communale",
+      "title": "Maison communale",
+      "short_url": "mFvDRNU",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Maison communale",
+          "en_GB": "Maison communale",
+          "fr_FR": "Maison communale"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Administration communale allemande. Usage actuel : Maison communale",
+          "en_GB": "Administration communale allemande. Usage actuel : Maison communale",
+          "fr_FR": "Administration communale allemande. Usage actuel : Maison communale"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.469850Z",
+      "date_last_modified": "2024-09-27T13:09:29.474502Z"
+    },
+    {
+      "id": 32,
+      "slug": "01-place-9-rue-de-la-liberte",
+      "title": "9 Rue de la Liberté",
+      "short_url": "Zu7zrZj",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "9 Rue de la Liberté",
+          "en_GB": "9 Rue de la Liberté",
+          "fr_FR": "9 Rue de la Liberté"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté",
+          "en_GB": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté",
+          "fr_FR": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.484153Z",
+      "date_last_modified": "2024-09-27T13:09:29.488586Z"
+    },
+    {
+      "id": 33,
+      "slug": "01-place-hotel-rauchs",
+      "title": "Hotel Rauchs",
+      "short_url": "PghKRAU",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Hotel Rauchs",
+          "en_GB": "Hotel Rauchs",
+          "fr_FR": "Hotel Rauchs"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel",
+          "en_GB": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel",
+          "fr_FR": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.496619Z",
+      "date_last_modified": "2024-09-27T13:09:29.501455Z"
+    },
+    {
+      "id": 34,
+      "slug": "01-place-abri-anti-aerien",
+      "title": "Abri anti-aerien",
+      "short_url": "iFyxFjU",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Abri anti-aerien",
+          "en_GB": "Abri anti-aerien",
+          "fr_FR": "Abri anti-aerien"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking",
+          "en_GB": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking",
+          "fr_FR": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.509456Z",
+      "date_last_modified": "2024-09-27T13:09:29.513695Z"
+    },
+    {
+      "id": 35,
+      "slug": "01-place-maison-de-soin",
+      "title": "Maison de soin",
+      "short_url": "A6RiyZX",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Maison de soin",
+          "en_GB": "Maison de soin",
+          "fr_FR": "Maison de soin"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique",
+          "en_GB": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique",
+          "fr_FR": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.521404Z",
+      "date_last_modified": "2024-09-27T13:09:29.526104Z"
+    },
+    {
+      "id": 36,
+      "slug": "01-place-abbaye-de-neumunster",
+      "title": "Abbaye de Neumunster",
+      "short_url": "ncocLtZ",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Abbaye de Neumunster",
+          "en_GB": "Abbaye de Neumunster",
+          "fr_FR": "Abbaye de Neumunster"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Prison. Usage actuel : Centre culturel",
+          "en_GB": "Prison. Usage actuel : Centre culturel",
+          "fr_FR": "Prison. Usage actuel : Centre culturel"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.534060Z",
+      "date_last_modified": "2024-09-27T13:09:29.538479Z"
+    },
+    {
+      "id": 37,
+      "slug": "01-place-basilique-saint-willibrord",
+      "title": "Basilique Saint Willibrord",
+      "short_url": "JY3L9tb",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Basilique Saint Willibrord",
+          "en_GB": "Basilique Saint Willibrord",
+          "fr_FR": "Basilique Saint Willibrord"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Abbaye. Usage actuel : Abbaye",
+          "en_GB": "Abbaye. Usage actuel : Abbaye",
+          "fr_FR": "Abbaye. Usage actuel : Abbaye"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.546715Z",
+      "date_last_modified": "2024-09-27T13:09:29.551208Z"
+    },
+    {
+      "id": 38,
+      "slug": "01-place-landesmuseum",
+      "title": "Landesmuseum",
+      "short_url": "GgPNDg5",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Landesmuseum",
+          "en_GB": "Landesmuseum",
+          "fr_FR": "Landesmuseum"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Musee. Usage actuel : Musée National d'Histoire et d'Art",
+          "en_GB": "Musee. Usage actuel : Musée National d'Histoire et d'Art",
+          "fr_FR": "Musee. Usage actuel : Musée National d'Histoire et d'Art"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.559733Z",
+      "date_last_modified": "2024-09-27T13:09:29.564347Z"
+    },
+    {
+      "id": 39,
+      "slug": "01-place-cinema-cameo",
+      "title": "Cinema Cameo",
+      "short_url": "MQxaYpm",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Cinema Cameo",
+          "en_GB": "Cinema Cameo",
+          "fr_FR": "Cinema Cameo"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Cinéma. Usage actuel : Inoccupé (2023)",
+          "en_GB": "Cinéma. Usage actuel : Inoccupé (2023)",
+          "fr_FR": "Cinéma. Usage actuel : Inoccupé (2023)"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.572348Z",
+      "date_last_modified": "2024-09-27T13:09:29.576713Z"
+    },
+    {
+      "id": 40,
+      "slug": "01-place-gare",
+      "title": "Gare",
+      "short_url": "dQvxuir",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Gare",
+          "en_GB": "Gare",
+          "fr_FR": "Gare"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Gare. Usage actuel : Gare",
+          "en_GB": "Gare. Usage actuel : Gare",
+          "fr_FR": "Gare. Usage actuel : Gare"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.585037Z",
+      "date_last_modified": "2024-09-27T13:09:29.589701Z"
+    },
+    {
+      "id": 41,
+      "slug": "01-place-chateau-de-walferdange",
+      "title": "Chateau de Walferdange",
+      "short_url": "5B2DnHC",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Chateau de Walferdange",
+          "en_GB": "Chateau de Walferdange",
+          "fr_FR": "Chateau de Walferdange"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "LBA - ecole normale. Usage actuel : Edupole",
+          "en_GB": "LBA - ecole normale. Usage actuel : Edupole",
+          "fr_FR": "LBA - ecole normale. Usage actuel : Edupole"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.597438Z",
+      "date_last_modified": "2024-09-27T13:09:29.602577Z"
+    },
+    {
+      "id": 42,
+      "slug": "01-place-beim-beinchen",
+      "title": "Beim Beinchen",
+      "short_url": "YmadPHi",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Beim Beinchen",
+          "en_GB": "Beim Beinchen",
+          "fr_FR": "Beim Beinchen"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel",
+          "en_GB": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel",
+          "fr_FR": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.613583Z",
+      "date_last_modified": "2024-09-27T13:09:29.621188Z"
+    },
+    {
+      "id": 43,
+      "slug": "01-place-maison-israel",
+      "title": "Maison Israel",
+      "short_url": "GNAXjT9",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Maison Israel",
+          "en_GB": "Maison Israel",
+          "fr_FR": "Maison Israel"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel",
+          "en_GB": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel",
+          "fr_FR": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.630927Z",
+      "date_last_modified": "2024-09-27T13:09:29.636036Z"
+    },
+    {
+      "id": 44,
+      "slug": "01-place-batiment-rue-mohrfels",
+      "title": "Batiment rue Mohrfels",
+      "short_url": "dhejYr4",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Batiment rue Mohrfels",
+          "en_GB": "Batiment rue Mohrfels",
+          "fr_FR": "Batiment rue Mohrfels"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial",
+          "en_GB": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial",
+          "fr_FR": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.645161Z",
+      "date_last_modified": "2024-09-27T13:09:29.650104Z"
+    },
+    {
+      "id": 45,
+      "slug": "01-place-palais-de-justice",
+      "title": "Palais de Justice",
+      "short_url": "Bevv9AR",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Palais de Justice",
+          "en_GB": "Palais de Justice",
+          "fr_FR": "Palais de Justice"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Palais de Justice. Usage actuel : Palais de Justice",
+          "en_GB": "Palais de Justice. Usage actuel : Palais de Justice",
+          "fr_FR": "Palais de Justice. Usage actuel : Palais de Justice"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.659449Z",
+      "date_last_modified": "2024-09-27T13:09:29.665194Z"
+    },
+    {
+      "id": 46,
+      "slug": "01-place-clinique-saint-joseph",
+      "title": "Clinique Saint-Joseph",
+      "short_url": "WHcAsvt",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Clinique Saint-Joseph",
+          "en_GB": "Clinique Saint-Joseph",
+          "fr_FR": "Clinique Saint-Joseph"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz",
+          "en_GB": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz",
+          "fr_FR": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.674540Z",
+      "date_last_modified": "2024-09-27T13:26:30.049305Z"
+    },
+    {
+      "id": 47,
+      "slug": "N1-Draft-Vianden-Pont-sur-l-Our",
+      "title": "Draft-Vianden, Pont sur l'Our",
+      "short_url": "4WgmJJd",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Pont sur l'Our",
+          "en_GB": "Pont sur l'Our",
+          "fr_FR": "Pont sur l'Our"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Die Schlacht um die Ardennen im Winter 1944 – 1945",
+          "en_GB": "The Battle of the Bulge in winter 1944 - 1945",
+          "fr_FR": "La bataille des Ardennes en hiver 1944 - 1945"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.690254Z",
+      "date_last_modified": "2024-10-04T16:21:46.214218Z"
+    },
+    {
+      "id": 48,
+      "slug": "01-place-ideal-fabrik",
+      "title": "Ideal Fabrik",
+      "short_url": "As9hbds",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Ideal Fabrik",
+          "en_GB": "Ideal Fabrik",
+          "fr_FR": "Ideal Fabrik"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Usine. Usage actuel : Friche industrielle",
+          "en_GB": "Usine. Usage actuel : Friche industrielle",
+          "fr_FR": "Usine. Usage actuel : Friche industrielle"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.705600Z",
+      "date_last_modified": "2024-09-27T13:09:29.710532Z"
+    },
+    {
+      "id": 49,
+      "slug": "01-place-gelle-fra",
+      "title": "Gelle Fra",
+      "short_url": "YaxXyhN",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Gelle Fra",
+          "en_GB": "Gelle Fra",
+          "fr_FR": "Gelle Fra"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Monument. Usage actuel :  Monument",
+          "en_GB": "Monument. Usage actuel :  Monument",
+          "fr_FR": "Monument. Usage actuel :  Monument"
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.719268Z",
+      "date_last_modified": "2024-09-27T13:09:29.723763Z"
+    },
+    {
+      "id": 50,
+      "slug": "01-place-camp-de-hinzert",
+      "title": "Camp de Hinzert",
+      "short_url": "UsKxksJ",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Camp de Hinzert",
+          "en_GB": "Camp de Hinzert",
+          "fr_FR": "Camp de Hinzert"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.731979Z",
+      "date_last_modified": "2024-09-27T13:09:29.736642Z"
+    },
+    {
+      "id": 51,
+      "slug": "01-place-ghetto-de-litzmannstadt",
+      "title": "Ghetto de Litzmannstadt",
+      "short_url": "ZFZ2cKE",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Ghetto de Litzmannstadt",
+          "en_GB": "Ghetto de Litzmannstadt",
+          "fr_FR": "Ghetto de Litzmannstadt"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.745868Z",
+      "date_last_modified": "2024-09-27T13:09:29.751645Z"
+    },
+    {
+      "id": 52,
+      "slug": "01-place-camp-de-sonnenburg",
+      "title": "Camp de Sonnenburg",
+      "short_url": "LydbYrv",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Camp de Sonnenburg",
+          "en_GB": "Camp de Sonnenburg",
+          "fr_FR": "Camp de Sonnenburg"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.759771Z",
+      "date_last_modified": "2024-09-27T13:09:29.764185Z"
+    },
+    {
+      "id": 53,
+      "slug": "01-place-camp-de-tambow",
+      "title": "Camp de Tambow",
+      "short_url": "TgELc2a",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Camp de Tambow",
+          "en_GB": "Camp de Tambow",
+          "fr_FR": "Camp de Tambow"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.772970Z",
+      "date_last_modified": "2024-09-27T13:09:29.777429Z"
+    },
+    {
+      "id": 54,
+      "slug": "01-place-27-wilton-crescent",
+      "title": "27, Wilton Crescent",
+      "short_url": "KdNawXZ",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "27, Wilton Crescent",
+          "en_GB": "27, Wilton Crescent",
+          "fr_FR": "27, Wilton Crescent"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.785189Z",
+      "date_last_modified": "2024-09-27T13:09:29.789776Z"
+    },
+    {
+      "id": 55,
+      "slug": "01-place-camp-de-boberstein",
+      "title": "Camp de Boberstein",
+      "short_url": "VFaygRL",
+      "date": null,
+      "data": {
+        "title": {
+          "de_DE": "Camp de Boberstein",
+          "en_GB": "Camp de Boberstein",
+          "fr_FR": "Camp de Boberstein"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      },
+      "date_created": "2024-09-27T13:09:29.797659Z",
+      "date_last_modified": "2024-09-27T13:09:29.802070Z"
+    }
+  ],
+  "data": {
+    "color": "#000",
+    "title": {
+      "de_DE": "Parcours",
+      "en_GB": "Journeys",
+      "fr_FR": "Parcours"
+    },
+    "abstract": {
+      "de_DE": "24 parcours thematiques",
+      "en_GB": "24 thematic journeys",
+      "fr_FR": "24 parcours thematiques"
+    },
+    "chapters": [
+      5,
+      9,
+      10,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "background": {
+      "overlay": "",
+      "backgroundColor": "#ddd"
+    }
+  },
+  "contents": "",
+  "date": null,
+  "date_created": "2024-05-23T11:47:59.018289Z",
+  "date_last_modified": "2024-09-27T13:09:29.804747Z",
+  "status": "public",
+  "source": null,
+  "authors": [],
+  "version": ""
+}

@@ -97,7 +97,10 @@
       "mimetype": "",
       "type": "glossary",
       "data": {
+        "glb": "",
+        "gltf": "",
         "type": "glossary",
+        "usdz": "",
         "title": {
           "de_DE": "Operation Wacht am Rhein (Ardennenoffensive)",
           "en_GB": "Operation Wacht am Rhein (Battle of the Bulge)",
@@ -129,8 +132,31 @@
                 "fr_FR": ""
               }
             }
+          },
+          "properties": {
+            "city": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "name": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "address": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "country": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
           }
         },
+        "end_date": "1945-01-28",
         "definition": {
           "de_DE": "Die Ardennenregion Luxemburgs war Schauplatz einiger der schwersten Kämpfe während dieser Offensive. Städte wie Clervaux und Wiltz erlitten erhebliche Schäden und zivile Verluste. Die Ardennenoffensive war eine der letzten großen deutschen Offensiven des Krieges und markierte einen Wendepunkt zugunsten der Alliierten.",
           "en_GB": "Luxembourg's Ardennes region saw some of the heaviest battles during this offensive. Towns like Clervaux and Wiltz suffered significant damage and civilian casualties. The Battle of the Bulge was one of the last major German offensives of the war and marked a turning point in the Allies' favor.",
@@ -138,6 +164,7 @@
         },
         "identifier": "",
         "provenance": "",
+        "start_date": "1944-12-16",
         "description": {
           "de_DE": "Eine große deutsche Offensive, die im Dezember 1944 gestartet wurde und darauf abzielte, die alliierten Streitkräfte in der Ardennenregion, zu der auch Teile Luxemburgs gehören, zu spalten. Die Offensive schuf einen \"Vorstoß\" in den alliierten Frontlinien, was zu heftigen Kämpfen führte.",
           "en_GB": "A major German offensive launched in December 1944, aimed at splitting the Allied forces in the Ardennes region, which includes parts of Luxembourg. The offensive created a \"bulge\" in the Allied front lines, leading to intense fighting.",
@@ -162,13 +189,28 @@
         },
         "videoResolutions": {
           "hsl": {
-            "url": ""
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
           },
           "dash": {
-            "url": ""
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
           },
           "sd360p": {
-            "url": ""
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
           }
         }
       },

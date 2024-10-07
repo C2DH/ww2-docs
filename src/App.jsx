@@ -6,7 +6,7 @@ const App = () => {
   useEffect(() => {
     console.log('useEffect')
 
-    axios.get('/api/document').then((res) => {
+    axios.get('/api').then((res) => {
       console.log('res', res)
       setData(res.data)
     })
@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div>
       <h1>ww2</h1>
-      <pre>{JSON.stringify(data, null, 2)}</pre>
+      <pre>{data !== null && 'api connected.'}</pre>
     </div>
   )
 }

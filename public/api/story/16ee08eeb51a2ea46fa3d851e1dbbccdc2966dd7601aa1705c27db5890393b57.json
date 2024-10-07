@@ -1,171 +1,15 @@
 {
-  "count": 7,
+  "count": 6,
   "next": null,
   "previous": null,
   "results": [
     {
-      "id": 18,
-      "slug": "about",
-      "short_url": "UQUEXrS",
-      "date": null,
-      "date_created": "2024-08-12T12:33:42.700105Z",
-      "date_last_modified": "2024-08-12T12:41:14.862465Z",
-      "status": "public",
-      "covers": [],
-      "authors": [],
-      "tags": [
-        {
-          "id": 9,
-          "category": "publishing",
-          "slug": "static",
-          "name": "static",
-          "status": "public",
-          "data": {}
-        },
-        {
-          "id": 10,
-          "category": "publishing",
-          "slug": "menu",
-          "name": "menu",
-          "status": "public",
-          "data": {}
-        }
-      ],
-      "data": {
-        "title": {
-          "de_DE": "Über uns",
-          "en_GB": "About",
-          "fr_FR": "À propos"
-        },
-        "abstract": {
-          "de_DE": "Erfahren Sie mehr über die Mission und Vision unserer Webseite, die dem Zweiten Weltkrieg in Luxemburg gewidmet ist. In diesem Abschnitt erhalten Sie Einblicke in unsere Ziele, das Team hinter dem Projekt und die historische Bedeutung der Bewahrung des Kriegserbes Luxemburgs.",
-          "en_GB": "Learn more about the mission and vision behind our website dedicated to World War II in Luxembourg. This section provides insight into our goals, the team behind the project, and the historical importance of preserving Luxembourg's wartime heritage.",
-          "fr_FR": "Découvrez la mission et la vision derrière notre site consacré à la Seconde Guerre mondiale au Luxembourg. Cette section vous donne un aperçu de nos objectifs, de l'équipe derrière le projet, et de l'importance historique de la préservation du patrimoine luxembourgeois en temps de guerre.\n\n"
-        },
-        "subtitle": {
-          "de_DE": "Erfahren Sie mehr über die Mission und das Team hinter diesem Zweiten Weltkrieg-Projekt in Luxemburg.",
-          "en_GB": "Discover the mission and team behind this World War II Luxembourg project.",
-          "fr_FR": "Découvrez la mission et l'équipe derrière ce projet sur la Seconde Guerre mondiale au Luxembourg."
-        }
-      }
-    },
-    {
-      "id": 7,
-      "slug": "home",
-      "short_url": "aGZxovH",
-      "date": null,
-      "date_created": "2024-05-23T09:58:17.019265Z",
-      "date_last_modified": "2024-08-12T12:53:29.479407Z",
-      "status": "public",
-      "covers": [],
-      "authors": [],
-      "tags": [
-        {
-          "id": 9,
-          "category": "publishing",
-          "slug": "static",
-          "name": "static",
-          "status": "public",
-          "data": {}
-        },
-        {
-          "id": 10,
-          "category": "publishing",
-          "slug": "menu",
-          "name": "menu",
-          "status": "public",
-          "data": {}
-        }
-      ],
-      "data": {
-        "title": {
-          "de_DE": "Die virtuelle Ausstellung",
-          "en_GB": "The Virtual Exhibition",
-          "en_US": "The virtual exhibition",
-          "fr_FR": "L’exposition virtuelle"
-        },
-        "abstract": {
-          "de_DE": "Die Virtuelle Ausstellung bietet eine umfassende und interaktive Reise in Luxemburgs Vergangenheit während der Kriegszeit. Navigieren Sie durch kuratierte Galerien, detaillierte Erzählungen und multimediale Präsentationen, die Geschichte direkt zu Ihnen nach Hause bringen.",
-          "en_GB": "The Virtual Exhibition offers a comprehensive and interactive journey into Luxembourg's past during its wartime period. Navigate through curated galleries, detailed narratives, and multimedia presentations that bring history to life from the comfort of your own space.",
-          "en_US": "Lorem ipsum\n",
-          "fr_FR": "L’exposition virtuelle propose un voyage complet et interactif au cœur du passé du Luxembourg durant sa période de guerre. Parcourez des galeries sélectionnées, des récits détaillés et des présentations multimédias qui donnent vie à l'histoire, le tout depuis chez vous."
-        },
-        "subtitle": {
-          "de_DE": "über den zweiten Weltkrieg in Luxemburg",
-          "en_GB": " on Luxembourg's wartime history",
-          "en_US": "on the second world war in Luxembourg",
-          "fr_FR": "sur la seconde guerre mondiale au luxembourg"
-        }
-      }
-    },
-    {
-      "id": 8,
-      "slug": "level-01-journeys",
-      "short_url": "MDubXVf",
-      "date": null,
-      "date_created": "2024-05-23T11:47:59.018289Z",
-      "date_last_modified": "2024-08-12T12:49:56.506964Z",
-      "status": "public",
-      "covers": [],
-      "authors": [],
-      "tags": [
-        {
-          "id": 1,
-          "category": "publishing",
-          "slug": "theme",
-          "name": "theme",
-          "status": "public",
-          "data": {
-            "name": "theme"
-          }
-        },
-        {
-          "id": 9,
-          "category": "publishing",
-          "slug": "static",
-          "name": "static",
-          "status": "public",
-          "data": {}
-        },
-        {
-          "id": 10,
-          "category": "publishing",
-          "slug": "menu",
-          "name": "menu",
-          "status": "public",
-          "data": {}
-        }
-      ],
-      "data": {
-        "color": "#000",
-        "title": {
-          "de_DE": "Parcours",
-          "en_GB": "Journeys",
-          "fr_FR": "Parcours"
-        },
-        "abstract": {
-          "de_DE": "24 parcours thematiques",
-          "en_GB": "24 thematic journeys",
-          "fr_FR": "24 parcours thematiques"
-        },
-        "chapters": [
-          5,
-          9,
-          10
-        ],
-        "background": {
-          "overlay": "",
-          "backgroundColor": "#ddd"
-        }
-      }
-    },
-    {
       "id": 11,
-      "slug": "level-02-catalogue",
+      "slug": "catalogue",
       "short_url": "fi4Jby8",
       "date": null,
       "date_created": "2024-05-24T12:33:24.646523Z",
-      "date_last_modified": "2024-08-12T12:51:26.090807Z",
+      "date_last_modified": "2024-09-25T13:06:02.292585Z",
       "status": "public",
       "covers": [],
       "authors": [],
@@ -215,12 +59,74 @@
       }
     },
     {
+      "id": 19,
+      "slug": "credits",
+      "short_url": "BhLhwLy",
+      "date": null,
+      "date_created": "2024-08-12T12:35:54.061216Z",
+      "date_last_modified": "2024-09-25T13:06:44.559007Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        },
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#fff",
+        "title": {
+          "de_DE": "Vorspann",
+          "en_GB": "Credits",
+          "fr_FR": "Générique"
+        },
+        "abstract": {
+          "de_DE": "Der Überblick bietet eine umfassende Zusammenfassung des Zweiten Weltkriegs in Luxemburg, mit Schwerpunkt auf wichtigen Ereignissen, Persönlichkeiten und dem historischen Kontext, der die Erfahrung des Landes während des Krieges prägte.",
+          "en_GB": "The General Overview provides a comprehensive summary of World War II in Luxembourg, highlighting major events, figures, and historical context that shaped the nation's experience during the war.",
+          "fr_FR": "La section Généralités propose un résumé complet de la Seconde Guerre mondiale au Luxembourg, mettant en lumière les événements majeurs, les figures clés et le contexte historique qui ont façonné l'expérience du pays pendant la guerre."
+        },
+        "chapters": [],
+        "subtitle": {
+          "de_DE": "Eine umfassende Zusammenfassung der luxemburgischen Erfahrungen im Zweiten Weltkrieg.",
+          "en_GB": "A comprehensive summary of Luxembourg's experience during World War II.",
+          "fr_FR": "Un résumé complet de l'expérience du Luxembourg pendant la Seconde Guerre mondiale."
+        },
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#373a3c"
+        }
+      }
+    },
+    {
       "id": 12,
-      "slug": "level-03-atelier-de-l-historien-ne",
+      "slug": "historian-workshop",
       "short_url": "7nY9S2q",
       "date": null,
       "date_created": "2024-05-24T12:35:37.693892Z",
-      "date_last_modified": "2024-08-12T12:49:28.664012Z",
+      "date_last_modified": "2024-09-25T13:06:11.354642Z",
       "status": "public",
       "covers": [],
       "authors": [],
@@ -277,12 +183,155 @@
       }
     },
     {
+      "id": 7,
+      "slug": "intro",
+      "short_url": "aGZxovH",
+      "date": null,
+      "date_created": "2024-05-23T09:58:17.019265Z",
+      "date_last_modified": "2024-09-25T13:07:35.618723Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Die virtuelle Ausstellung",
+          "en_GB": "The Virtual Exhibition",
+          "en_US": "The virtual exhibition",
+          "fr_FR": "L’exposition virtuelle"
+        },
+        "abstract": {
+          "de_DE": "Die Virtuelle Ausstellung bietet eine umfassende und interaktive Reise in Luxemburgs Vergangenheit während der Kriegszeit. Navigieren Sie durch kuratierte Galerien, detaillierte Erzählungen und multimediale Präsentationen, die Geschichte direkt zu Ihnen nach Hause bringen.",
+          "en_GB": "The Virtual Exhibition offers a comprehensive and interactive journey into Luxembourg's past during its wartime period. Navigate through curated galleries, detailed narratives, and multimedia presentations that bring history to life from the comfort of your own space.",
+          "en_US": "Lorem ipsum\n",
+          "fr_FR": "L’exposition virtuelle propose un voyage complet et interactif au cœur du passé du Luxembourg durant sa période de guerre. Parcourez des galeries sélectionnées, des récits détaillés et des présentations multimédias qui donnent vie à l'histoire, le tout depuis chez vous."
+        },
+        "subtitle": {
+          "de_DE": "über den zweiten Weltkrieg in Luxemburg",
+          "en_GB": " on Luxembourg's wartime history",
+          "en_US": "on the second world war in Luxembourg",
+          "fr_FR": "sur la seconde guerre mondiale au luxembourg"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "slug": "journeys",
+      "short_url": "MDubXVf",
+      "date": null,
+      "date_created": "2024-05-23T11:47:59.018289Z",
+      "date_last_modified": "2024-09-27T13:09:29.804747Z",
+      "status": "public",
+      "covers": [],
+      "authors": [],
+      "tags": [
+        {
+          "id": 1,
+          "category": "publishing",
+          "slug": "theme",
+          "name": "theme",
+          "status": "public",
+          "data": {
+            "name": "theme"
+          }
+        },
+        {
+          "id": 9,
+          "category": "publishing",
+          "slug": "static",
+          "name": "static",
+          "status": "public",
+          "data": {}
+        },
+        {
+          "id": 10,
+          "category": "publishing",
+          "slug": "menu",
+          "name": "menu",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "color": "#000",
+        "title": {
+          "de_DE": "Parcours",
+          "en_GB": "Journeys",
+          "fr_FR": "Parcours"
+        },
+        "abstract": {
+          "de_DE": "24 parcours thematiques",
+          "en_GB": "24 thematic journeys",
+          "fr_FR": "24 parcours thematiques"
+        },
+        "chapters": [
+          5,
+          9,
+          10,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        "background": {
+          "overlay": "",
+          "backgroundColor": "#ddd"
+        }
+      }
+    },
+    {
       "id": 17,
-      "slug": "level-04-spatio-temporal-map",
+      "slug": "spatiotemporal-map",
       "short_url": "gK9sLNf",
       "date": null,
       "date_created": "2024-08-12T12:29:31.348987Z",
-      "date_last_modified": "2024-08-12T12:43:39.105931Z",
+      "date_last_modified": "2024-10-01T07:02:52.567998Z",
       "status": "public",
       "covers": [],
       "authors": [],
@@ -325,72 +374,13 @@
           "en_GB": "Explore the Spatio-Temporal Map to visually track key events and movements during World War II in Luxembourg. This interactive tool offers a detailed look at the progression of the war through both time and space.",
           "fr_FR": "Explorez la Carte Spatio-Temporelle pour suivre visuellement les événements clés et les mouvements durant la Seconde Guerre mondiale au Luxembourg. Cet outil interactif offre un aperçu détaillé de la progression de la guerre à travers le temps et l'espace."
         },
+        "chapters": [
+          56
+        ],
         "subtitle": {
           "de_DE": "Veranschaulichen Sie die Schlüsselereignisse des Zweiten Weltkriegs in Luxemburg in Raum und Zeit.",
           "en_GB": "Visualize the key events of World War II in Luxembourg over time and space.",
           "fr_FR": "Visualisez les événements clés de la Seconde Guerre mondiale au Luxembourg à travers le temps et l'espace."
-        }
-      }
-    },
-    {
-      "id": 19,
-      "slug": "level-05-general-overview",
-      "short_url": "BhLhwLy",
-      "date": null,
-      "date_created": "2024-08-12T12:35:54.061216Z",
-      "date_last_modified": "2024-08-12T12:44:44.636232Z",
-      "status": "public",
-      "covers": [],
-      "authors": [],
-      "tags": [
-        {
-          "id": 1,
-          "category": "publishing",
-          "slug": "theme",
-          "name": "theme",
-          "status": "public",
-          "data": {
-            "name": "theme"
-          }
-        },
-        {
-          "id": 9,
-          "category": "publishing",
-          "slug": "static",
-          "name": "static",
-          "status": "public",
-          "data": {}
-        },
-        {
-          "id": 10,
-          "category": "publishing",
-          "slug": "menu",
-          "name": "menu",
-          "status": "public",
-          "data": {}
-        }
-      ],
-      "data": {
-        "color": "#fff",
-        "title": {
-          "de_DE": "Überblick",
-          "en_GB": "General Overview",
-          "fr_FR": "Généralités"
-        },
-        "abstract": {
-          "de_DE": "Der Überblick bietet eine umfassende Zusammenfassung des Zweiten Weltkriegs in Luxemburg, mit Schwerpunkt auf wichtigen Ereignissen, Persönlichkeiten und dem historischen Kontext, der die Erfahrung des Landes während des Krieges prägte.",
-          "en_GB": "The General Overview provides a comprehensive summary of World War II in Luxembourg, highlighting major events, figures, and historical context that shaped the nation's experience during the war.",
-          "fr_FR": "La section Généralités propose un résumé complet de la Seconde Guerre mondiale au Luxembourg, mettant en lumière les événements majeurs, les figures clés et le contexte historique qui ont façonné l'expérience du pays pendant la guerre."
-        },
-        "chapters": [],
-        "subtitle": {
-          "de_DE": "Eine umfassende Zusammenfassung der luxemburgischen Erfahrungen im Zweiten Weltkrieg.",
-          "en_GB": "A comprehensive summary of Luxembourg's experience during World War II.",
-          "fr_FR": "Un résumé complet de l'expérience du Luxembourg pendant la Seconde Guerre mondiale."
-        },
-        "background": {
-          "overlay": "",
-          "backgroundColor": "#373a3c"
         }
       }
     }

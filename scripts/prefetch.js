@@ -56,6 +56,14 @@ async function generateApiStaticFile(url, config) {
       }
       return data
     })
+    .catch((e) => {
+      if (e.response) {
+        console.error('response:', e.response.data)
+      } else {
+        console.error('error:', e)
+      }
+      return {}
+    })
   // print contents in corresponding filepath
   debug('writeFile...')
   // create missing directory recurively

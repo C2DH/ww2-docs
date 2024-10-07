@@ -1,6 +1,6 @@
 {
   "count": 1045,
-  "next": "/api/document/?facets=data__csljson__author&filters=%7B%22type%22%3A%22book%22%7D&limit=10&offset=10",
+  "next": "http://ww2.lu/api/document/?facets=data__csljson__author&filters=%7B%22type%22%3A%22book%22%7D&limit=10&offset=10",
   "previous": null,
   "results": [
     {

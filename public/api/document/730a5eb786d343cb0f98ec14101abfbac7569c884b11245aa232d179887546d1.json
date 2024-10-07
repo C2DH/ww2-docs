@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "next": null,
   "previous": null,
   "results": [
@@ -168,6 +168,115 @@
       "attachment": "/media/picture/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg",
       "snapshot": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg",
       "short_url": "ScYZ7CG"
+    },
+    {
+      "id": 1415,
+      "title": "lumberjack-3d",
+      "slug": "lumberjack",
+      "mimetype": "",
+      "type": "entity",
+      "data": {
+        "glb": "/media/3D/lumberjack.glb",
+        "gltf": "",
+        "type": "3D",
+        "usdz": "",
+        "title": {
+          "de_DE": "Lumberjack",
+          "en_GB": "Lumberjack",
+          "fr_FR": "Lumberjack"
+        },
+        "letter": "",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {},
+          "properties": {
+            "city": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "name": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "address": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "country": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": ""
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Lumberjack",
+          "en_GB": "Lumberjack",
+          "fr_FR": "Lumberjack"
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          },
+          "dash": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          },
+          "sd360p": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          }
+        }
+      },
+      "url": null,
+      "attachment": null,
+      "snapshot": null,
+      "short_url": "XbZhM97"
     }
   ],
   "facets": {}

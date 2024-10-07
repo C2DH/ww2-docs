@@ -1,23 +1,23 @@
 [
   {
     "description": "[Homepage] get the contents (title and abstract) for the Home page",
-    "url": "/api/story/home",
+    "url": "/api/story/intro",
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "description": "[Menu] get the list of stories that composes the Menu, basically all stories tagged with `menu` tag. The `slug` property of each story is prefixed with `level-` followed by a number, this way the list is easily ordered. Every story has a `slug` property that is used as identifier",
-    "url": "/api/story?filters={\"tags__slug\":\"menu\"}&orderby=slug&limit=10",
-    "hash": "16ee08eeb51a2ea46fa3d851e1dbbccdc2966dd7601aa1705c27db5890393b57"
+    "url": "/api/story/?filters={\"tags__slug\":\"menu\"}&orderby=slug&limit=10&orderby=priority",
+    "hash": "f5bfec547402540f2f3d18340b04ac93fd2d96c401a1b0aa744736c6de5c2848"
   },
   {
     "description": "[level 1] Content of the object of type Story",
-    "url": "/api/story/level-01-journeys",
+    "url": "/api/story/journeys",
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
     "description": "[level 1] get all 'capsules' linked to the story with slug `level-01-journeys` that contains a geographic location",
-    "url": "/api/story?filters={\"mentioned_to__slug\"%3A\"level-01-journeys\",\"covers__data__type\":\"place\"}&limit=100",
-    "hash": "4a75fb8cbf80d23b000166e1dbc06eb397d542efaa28a7f89ceb914fb95c051b"
+    "url": "/api/story?filters={\"mentioned_to__slug\"%3A\"journeys\",\"covers__data__type\":\"place\"}&limit=100",
+    "hash": "b70abbf7e8050d7cda30641a1627e6e5f3a02f67996f498be65e8f7da3ad93f8"
   },
   {
     "description": "[Level 1] get all location linked to the video capsule stories mentioned to the story with slug `level-01-journeys`; return the list unsorted",

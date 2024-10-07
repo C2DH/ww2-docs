@@ -1,0 +1,3689 @@
+{
+  "count": 33,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 23,
+      "slug": "01-place-ancien-chateau-de-bofferdange",
+      "short_url": "9ydjPhB",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.354728Z",
+      "date_last_modified": "2024-09-27T13:09:29.361804Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1381,
+          "title": "Ancien chateau de Bofferdange",
+          "slug": "place-ancien-chateau-de-bofferdange",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Ancien chateau de Bofferdange",
+              "en_GB": "Ancien chateau de Bofferdange",
+              "fr_FR": "Ancien chateau de Bofferdange"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.139041212545641,
+                  49.688725483982914
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Lorentzweiler",
+                  "en_GB": "Lorentzweiler",
+                  "fr_FR": "Lorentzweiler"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior",
+              "en_GB": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior",
+              "fr_FR": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "ZBL8Loh"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Ancien chateau de Bofferdange",
+          "en_GB": "Ancien chateau de Bofferdange",
+          "fr_FR": "Ancien chateau de Bofferdange"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior",
+          "en_GB": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior",
+          "fr_FR": "Lebensborn (foyer pour enfants). Usage actuel : Centre de formation Servior"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 24,
+      "slug": "01-place-couvent-de-cinqfontaines",
+      "short_url": "njTocYV",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.372943Z",
+      "date_last_modified": "2024-09-27T13:09:29.379798Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1382,
+          "title": "Couvent de Cinqfontaines",
+          "slug": "place-couvent-de-cinqfontaines",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Couvent de Cinqfontaines",
+              "en_GB": "Couvent de Cinqfontaines",
+              "fr_FR": "Couvent de Cinqfontaines"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.007784884177532,
+                  50.10690748015257
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Troisvierges",
+                  "en_GB": "Troisvierges",
+                  "fr_FR": "Troisvierges"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation",
+              "en_GB": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation",
+              "fr_FR": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "nD9C8XN"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Couvent de Cinqfontaines",
+          "en_GB": "Couvent de Cinqfontaines",
+          "fr_FR": "Couvent de Cinqfontaines"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation",
+          "en_GB": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation",
+          "fr_FR": "Centre de tri des juifs à déporter. Usage actuel : Acquis fin 2020 par l'Etat. En transformation"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 25,
+      "slug": "01-place-galerie-hondsbesch",
+      "short_url": "NvXnePJ",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.391223Z",
+      "date_last_modified": "2024-09-27T13:09:29.397986Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1383,
+          "title": "Galerie Hondsbesch",
+          "slug": "place-galerie-hondsbesch",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Galerie Hondsbesch",
+              "en_GB": "Galerie Hondsbesch",
+              "fr_FR": "Galerie Hondsbesch"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  5.884116856198735,
+                  49.53164316127699
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Differdange",
+                  "en_GB": "Differdange",
+                  "fr_FR": "Differdange"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu",
+              "en_GB": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu",
+              "fr_FR": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "5VQNkv6"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Galerie Hondsbesch",
+          "en_GB": "Galerie Hondsbesch",
+          "fr_FR": "Galerie Hondsbesch"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu",
+          "en_GB": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu",
+          "fr_FR": "Galerie - abri pour réfractaires et déserteurs. Usage actuel : Inconnu"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 26,
+      "slug": "01-place-gare-de-hollerich",
+      "short_url": "HkQGgt3",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.406604Z",
+      "date_last_modified": "2024-09-27T13:09:29.411502Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1384,
+          "title": "Gare de Hollerich",
+          "slug": "place-gare-de-hollerich",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Gare de Hollerich",
+              "en_GB": "Gare de Hollerich",
+              "fr_FR": "Gare de Hollerich"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.12085404245255,
+                  49.595420265309464
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation",
+              "en_GB": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation",
+              "fr_FR": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "c8hzbnF"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Gare de Hollerich",
+          "en_GB": "Gare de Hollerich",
+          "fr_FR": "Gare de Hollerich"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation",
+          "en_GB": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation",
+          "fr_FR": "Gare de départ (enrolés et déportés). Usage actuel : Musée - Mémorial de la déportation"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 27,
+      "slug": "01-place-chateau-de-colmar-berg",
+      "short_url": "NgZ6Vaf",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.419924Z",
+      "date_last_modified": "2024-09-27T13:09:29.424581Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1385,
+          "title": "Chateau de Colmar-Berg",
+          "slug": "place-chateau-de-colmar-berg",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Chateau de Colmar-Berg",
+              "en_GB": "Chateau de Colmar-Berg",
+              "fr_FR": "Chateau de Colmar-Berg"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.087626391778024,
+                  49.81465311313701
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Colmar-Berg",
+                  "en_GB": "Colmar-Berg",
+                  "fr_FR": "Colmar-Berg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Napola. Usage actuel : Résidence privée",
+              "en_GB": "Napola. Usage actuel : Résidence privée",
+              "fr_FR": "Napola. Usage actuel : Résidence privée"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "J4ShvVw"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Chateau de Colmar-Berg",
+          "en_GB": "Chateau de Colmar-Berg",
+          "fr_FR": "Chateau de Colmar-Berg"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Napola. Usage actuel : Résidence privée",
+          "en_GB": "Napola. Usage actuel : Résidence privée",
+          "fr_FR": "Napola. Usage actuel : Résidence privée"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 28,
+      "slug": "01-place-villa-pauly",
+      "short_url": "Ax3bRZ2",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.432659Z",
+      "date_last_modified": "2024-09-27T13:09:29.437167Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1386,
+          "title": "Villa Pauly",
+          "slug": "place-villa-pauly",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Villa Pauly",
+              "en_GB": "Villa Pauly",
+              "fr_FR": "Villa Pauly"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.125003164162744,
+                  49.60609191972731
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale",
+              "en_GB": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale",
+              "fr_FR": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "RHSf5Tu"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Villa Pauly",
+          "en_GB": "Villa Pauly",
+          "fr_FR": "Villa Pauly"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale",
+          "en_GB": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale",
+          "fr_FR": "QG national de la GESTAPO. Usage actuel : Siège de l'association Service de la mémoire de la Deuxième Guerre mondiale"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 29,
+      "slug": "01-place-anciennes-ardoisieres-de-haut-martelange",
+      "short_url": "5JTANr2",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.445181Z",
+      "date_last_modified": "2024-09-27T13:09:29.449371Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1387,
+          "title": "Anciennes ardoisieres de Haut-Martelange",
+          "slug": "place-anciennes-ardoisieres-de-haut-martelange",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Anciennes ardoisieres de Haut-Martelange",
+              "en_GB": "Anciennes ardoisieres de Haut-Martelange",
+              "fr_FR": "Anciennes ardoisieres de Haut-Martelange"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  5.751240611241974,
+                  49.82439302289422
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Rambrouch",
+                  "en_GB": "Rambrouch",
+                  "fr_FR": "Rambrouch"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Exploitation d'ardoises. Usage actuel : Musée",
+              "en_GB": "Exploitation d'ardoises. Usage actuel : Musée",
+              "fr_FR": "Exploitation d'ardoises. Usage actuel : Musée"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "mpPZSzQ"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Anciennes ardoisieres de Haut-Martelange",
+          "en_GB": "Anciennes ardoisieres de Haut-Martelange",
+          "fr_FR": "Anciennes ardoisieres de Haut-Martelange"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Exploitation d'ardoises. Usage actuel : Musée",
+          "en_GB": "Exploitation d'ardoises. Usage actuel : Musée",
+          "fr_FR": "Exploitation d'ardoises. Usage actuel : Musée"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 30,
+      "slug": "01-place-palace-hotel",
+      "short_url": "cBikLok",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.457330Z",
+      "date_last_modified": "2024-09-27T13:09:29.461621Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1388,
+          "title": "Palace Hotel",
+          "slug": "place-palace-hotel",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Palace Hotel",
+              "en_GB": "Palace Hotel",
+              "fr_FR": "Palace Hotel"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.28288366824086,
+                  49.50314468697781
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Mondorf les Bains",
+                  "en_GB": "Mondorf les Bains",
+                  "fr_FR": "Mondorf les Bains"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988",
+              "en_GB": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988",
+              "fr_FR": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "5fmSjnU"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Palace Hotel",
+          "en_GB": "Palace Hotel",
+          "fr_FR": "Palace Hotel"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988",
+          "en_GB": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988",
+          "fr_FR": "Tourisme de guerre, résidence US, camp de prisonniers VIP (camp Ashcan). Usage actuel : Démoli en 1988"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 31,
+      "slug": "01-place-maison-communale",
+      "short_url": "mFvDRNU",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.469850Z",
+      "date_last_modified": "2024-09-27T13:09:29.474502Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1389,
+          "title": "Maison communale",
+          "slug": "place-maison-communale",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Maison communale",
+              "en_GB": "Maison communale",
+              "fr_FR": "Maison communale"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  5.9846489816818025,
+                  49.49632045008944
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Esch-sur-Alzette",
+                  "en_GB": "Esch-sur-Alzette",
+                  "fr_FR": "Esch-sur-Alzette"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Administration communale allemande. Usage actuel : Maison communale",
+              "en_GB": "Administration communale allemande. Usage actuel : Maison communale",
+              "fr_FR": "Administration communale allemande. Usage actuel : Maison communale"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "6hnL6oF"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Maison communale",
+          "en_GB": "Maison communale",
+          "fr_FR": "Maison communale"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Administration communale allemande. Usage actuel : Maison communale",
+          "en_GB": "Administration communale allemande. Usage actuel : Maison communale",
+          "fr_FR": "Administration communale allemande. Usage actuel : Maison communale"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 32,
+      "slug": "01-place-9-rue-de-la-liberte",
+      "short_url": "Zu7zrZj",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.484153Z",
+      "date_last_modified": "2024-09-27T13:09:29.488586Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1390,
+          "title": "9 Rue de la Liberté",
+          "slug": "place-9-rue-de-la-liberte",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "9 Rue de la Liberté",
+              "en_GB": "9 Rue de la Liberté",
+              "fr_FR": "9 Rue de la Liberté"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.128725356564376,
+                  49.606757705862435
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté",
+              "en_GB": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté",
+              "fr_FR": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "c6wKP2L"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "9 Rue de la Liberté",
+          "en_GB": "9 Rue de la Liberté",
+          "fr_FR": "9 Rue de la Liberté"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté",
+          "en_GB": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté",
+          "fr_FR": "Hitlerstrasse. Usage actuel : 9 rue dela Liberté"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 33,
+      "slug": "01-place-hotel-rauchs",
+      "short_url": "PghKRAU",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.496619Z",
+      "date_last_modified": "2024-09-27T13:09:29.501455Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1391,
+          "title": "Hotel Rauchs",
+          "slug": "place-hotel-rauchs",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Hotel Rauchs",
+              "en_GB": "Hotel Rauchs",
+              "fr_FR": "Hotel Rauchs"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.105867503589423,
+                  49.75091986914946
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Mersch",
+                  "en_GB": "Mersch",
+                  "fr_FR": "Mersch"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel",
+              "en_GB": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel",
+              "fr_FR": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "RKDSCGD"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Hotel Rauchs",
+          "en_GB": "Hotel Rauchs",
+          "fr_FR": "Hotel Rauchs"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel",
+          "en_GB": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel",
+          "fr_FR": "lieu d'activités organisées par la Frauenschaft. Usage actuel : Restaurant et immeuble résidentiel"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 34,
+      "slug": "01-place-abri-anti-aerien",
+      "short_url": "iFyxFjU",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.509456Z",
+      "date_last_modified": "2024-09-27T13:09:29.513695Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1392,
+          "title": "Abri anti-aerien",
+          "slug": "place-abri-anti-aerien",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Abri anti-aerien",
+              "en_GB": "Abri anti-aerien",
+              "fr_FR": "Abri anti-aerien"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.107731157706025,
+                  49.848277681693304
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Ettelbruck",
+                  "en_GB": "Ettelbruck",
+                  "fr_FR": "Ettelbruck"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking",
+              "en_GB": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking",
+              "fr_FR": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "FcfUUUr"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Abri anti-aerien",
+          "en_GB": "Abri anti-aerien",
+          "fr_FR": "Abri anti-aerien"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking",
+          "en_GB": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking",
+          "fr_FR": "Abri anti-aerien. Usage actuel : Détruit, devenu un parking"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 35,
+      "slug": "01-place-maison-de-soin",
+      "short_url": "A6RiyZX",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.521404Z",
+      "date_last_modified": "2024-09-27T13:09:29.526104Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1393,
+          "title": "Maison de soin",
+          "slug": "place-maison-de-soin",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Maison de soin",
+              "en_GB": "Maison de soin",
+              "fr_FR": "Maison de soin"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.097592604078805,
+                  49.84242360379158
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Ettelbruck",
+                  "en_GB": "Ettelbruck",
+                  "fr_FR": "Ettelbruck"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique",
+              "en_GB": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique",
+              "fr_FR": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "arf9Ems"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Maison de soin",
+          "en_GB": "Maison de soin",
+          "fr_FR": "Maison de soin"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique",
+          "en_GB": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique",
+          "fr_FR": "Maison de soin. Usage actuel : Centre hospitalier neuro psychiatrique"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 36,
+      "slug": "01-place-abbaye-de-neumunster",
+      "short_url": "ncocLtZ",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.534060Z",
+      "date_last_modified": "2024-09-27T13:09:29.538479Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1394,
+          "title": "Abbaye de Neumunster",
+          "slug": "place-abbaye-de-neumunster",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Abbaye de Neumunster",
+              "en_GB": "Abbaye de Neumunster",
+              "fr_FR": "Abbaye de Neumunster"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.136363539991313,
+                  49.61044240490596
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Prison. Usage actuel : Centre culturel",
+              "en_GB": "Prison. Usage actuel : Centre culturel",
+              "fr_FR": "Prison. Usage actuel : Centre culturel"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "JoiUPRu"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Abbaye de Neumunster",
+          "en_GB": "Abbaye de Neumunster",
+          "fr_FR": "Abbaye de Neumunster"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Prison. Usage actuel : Centre culturel",
+          "en_GB": "Prison. Usage actuel : Centre culturel",
+          "fr_FR": "Prison. Usage actuel : Centre culturel"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 37,
+      "slug": "01-place-basilique-saint-willibrord",
+      "short_url": "JY3L9tb",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.546715Z",
+      "date_last_modified": "2024-09-27T13:09:29.551208Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1395,
+          "title": "Basilique Saint Willibrord",
+          "slug": "place-basilique-saint-willibrord",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Basilique Saint Willibrord",
+              "en_GB": "Basilique Saint Willibrord",
+              "fr_FR": "Basilique Saint Willibrord"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.421592274453752,
+                  49.813457131177934
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Echternach",
+                  "en_GB": "Echternach",
+                  "fr_FR": "Echternach"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Abbaye. Usage actuel : Abbaye",
+              "en_GB": "Abbaye. Usage actuel : Abbaye",
+              "fr_FR": "Abbaye. Usage actuel : Abbaye"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "9UwSQCf"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Basilique Saint Willibrord",
+          "en_GB": "Basilique Saint Willibrord",
+          "fr_FR": "Basilique Saint Willibrord"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Abbaye. Usage actuel : Abbaye",
+          "en_GB": "Abbaye. Usage actuel : Abbaye",
+          "fr_FR": "Abbaye. Usage actuel : Abbaye"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 38,
+      "slug": "01-place-landesmuseum",
+      "short_url": "GgPNDg5",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.559733Z",
+      "date_last_modified": "2024-09-27T13:09:29.564347Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1396,
+          "title": "Landesmuseum",
+          "slug": "place-landesmuseum",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Landesmuseum",
+              "en_GB": "Landesmuseum",
+              "fr_FR": "Landesmuseum"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.133769187811914,
+                  49.61164664214732
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Musee. Usage actuel : Musée National d'Histoire et d'Art",
+              "en_GB": "Musee. Usage actuel : Musée National d'Histoire et d'Art",
+              "fr_FR": "Musee. Usage actuel : Musée National d'Histoire et d'Art"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "eLJoBXS"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Landesmuseum",
+          "en_GB": "Landesmuseum",
+          "fr_FR": "Landesmuseum"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Musee. Usage actuel : Musée National d'Histoire et d'Art",
+          "en_GB": "Musee. Usage actuel : Musée National d'Histoire et d'Art",
+          "fr_FR": "Musee. Usage actuel : Musée National d'Histoire et d'Art"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 39,
+      "slug": "01-place-cinema-cameo",
+      "short_url": "MQxaYpm",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.572348Z",
+      "date_last_modified": "2024-09-27T13:09:29.576713Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1397,
+          "title": "Cinema Cameo",
+          "slug": "place-cinema-cameo",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Cinema Cameo",
+              "en_GB": "Cinema Cameo",
+              "fr_FR": "Cinema Cameo"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.159113175839265,
+                  49.86657040427062
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Diekirch",
+                  "en_GB": "Diekirch",
+                  "fr_FR": "Diekirch"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Cinéma. Usage actuel : Inoccupé (2023)",
+              "en_GB": "Cinéma. Usage actuel : Inoccupé (2023)",
+              "fr_FR": "Cinéma. Usage actuel : Inoccupé (2023)"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "HJp9Ezk"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Cinema Cameo",
+          "en_GB": "Cinema Cameo",
+          "fr_FR": "Cinema Cameo"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Cinéma. Usage actuel : Inoccupé (2023)",
+          "en_GB": "Cinéma. Usage actuel : Inoccupé (2023)",
+          "fr_FR": "Cinéma. Usage actuel : Inoccupé (2023)"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 40,
+      "slug": "01-place-gare",
+      "short_url": "dQvxuir",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.585037Z",
+      "date_last_modified": "2024-09-27T13:09:29.589701Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1398,
+          "title": "Gare",
+          "slug": "place-gare",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Gare",
+              "en_GB": "Gare",
+              "fr_FR": "Gare"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.1338499576697885,
+                  49.60001769387609
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Gare. Usage actuel : Gare",
+              "en_GB": "Gare. Usage actuel : Gare",
+              "fr_FR": "Gare. Usage actuel : Gare"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "ZU8ExuZ"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Gare",
+          "en_GB": "Gare",
+          "fr_FR": "Gare"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Gare. Usage actuel : Gare",
+          "en_GB": "Gare. Usage actuel : Gare",
+          "fr_FR": "Gare. Usage actuel : Gare"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 41,
+      "slug": "01-place-chateau-de-walferdange",
+      "short_url": "5B2DnHC",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.597438Z",
+      "date_last_modified": "2024-09-27T13:09:29.602577Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1399,
+          "title": "Chateau de Walferdange",
+          "slug": "place-chateau-de-walferdange",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Chateau de Walferdange",
+              "en_GB": "Chateau de Walferdange",
+              "fr_FR": "Chateau de Walferdange"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.133576299974515,
+                  49.66047203623817
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Walferdange",
+                  "en_GB": "Walferdange",
+                  "fr_FR": "Walferdange"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "LBA - ecole normale. Usage actuel : Edupole",
+              "en_GB": "LBA - ecole normale. Usage actuel : Edupole",
+              "fr_FR": "LBA - ecole normale. Usage actuel : Edupole"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "TKKr6y8"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Chateau de Walferdange",
+          "en_GB": "Chateau de Walferdange",
+          "fr_FR": "Chateau de Walferdange"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "LBA - ecole normale. Usage actuel : Edupole",
+          "en_GB": "LBA - ecole normale. Usage actuel : Edupole",
+          "fr_FR": "LBA - ecole normale. Usage actuel : Edupole"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 42,
+      "slug": "01-place-beim-beinchen",
+      "short_url": "YmadPHi",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.613583Z",
+      "date_last_modified": "2024-09-27T13:09:29.621188Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1400,
+          "title": "Beim Beinchen",
+          "slug": "place-beim-beinchen",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Beim Beinchen",
+              "en_GB": "Beim Beinchen",
+              "fr_FR": "Beim Beinchen"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.131566736017886,
+                  49.61635648794387
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel",
+              "en_GB": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel",
+              "fr_FR": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "EoSBxwT"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Beim Beinchen",
+          "en_GB": "Beim Beinchen",
+          "fr_FR": "Beim Beinchen"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel",
+          "en_GB": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel",
+          "fr_FR": "Fabrique ALMI. Usage actuel : Nouveau quartier résidentiel"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 43,
+      "slug": "01-place-maison-israel",
+      "short_url": "GNAXjT9",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.630927Z",
+      "date_last_modified": "2024-09-27T13:09:29.636036Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1401,
+          "title": "Maison Israel",
+          "slug": "place-maison-israel",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Maison Israel",
+              "en_GB": "Maison Israel",
+              "fr_FR": "Maison Israel"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.124416136780771,
+                  49.604683608245466
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel",
+              "en_GB": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel",
+              "fr_FR": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "X3Q9v9q"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Maison Israel",
+          "en_GB": "Maison Israel",
+          "fr_FR": "Maison Israel"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel",
+          "en_GB": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel",
+          "fr_FR": "siège de la VDB. Usage actuel : Nouvel immeuble résidentiel"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 44,
+      "slug": "01-place-batiment-rue-mohrfels",
+      "short_url": "dhejYr4",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.645161Z",
+      "date_last_modified": "2024-09-27T13:09:29.650104Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1402,
+          "title": "Batiment rue Mohrfels",
+          "slug": "place-batiment-rue-mohrfels",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Batiment rue Mohrfels",
+              "en_GB": "Batiment rue Mohrfels",
+              "fr_FR": "Batiment rue Mohrfels"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.134413668232355,
+                  49.612636999556855
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial",
+              "en_GB": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial",
+              "fr_FR": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "6gVgu3g"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Batiment rue Mohrfels",
+          "en_GB": "Batiment rue Mohrfels",
+          "fr_FR": "Batiment rue Mohrfels"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial",
+          "en_GB": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial",
+          "fr_FR": "Lieu de douches désinfectantes. Usage actuel : Bâtiment patrimonial"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 45,
+      "slug": "01-place-palais-de-justice",
+      "short_url": "Bevv9AR",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.659449Z",
+      "date_last_modified": "2024-09-27T13:09:29.665194Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1403,
+          "title": "Palais de Justice",
+          "slug": "place-palais-de-justice",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Palais de Justice",
+              "en_GB": "Palais de Justice",
+              "fr_FR": "Palais de Justice"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.156629049631315,
+                  49.86950788784251
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Diekirch",
+                  "en_GB": "Diekirch",
+                  "fr_FR": "Diekirch"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Palais de Justice. Usage actuel : Palais de Justice",
+              "en_GB": "Palais de Justice. Usage actuel : Palais de Justice",
+              "fr_FR": "Palais de Justice. Usage actuel : Palais de Justice"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "HhhQCA2"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Palais de Justice",
+          "en_GB": "Palais de Justice",
+          "fr_FR": "Palais de Justice"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Palais de Justice. Usage actuel : Palais de Justice",
+          "en_GB": "Palais de Justice. Usage actuel : Palais de Justice",
+          "fr_FR": "Palais de Justice. Usage actuel : Palais de Justice"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 46,
+      "slug": "01-place-clinique-saint-joseph",
+      "short_url": "WHcAsvt",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.674540Z",
+      "date_last_modified": "2024-09-27T13:26:30.049305Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1404,
+          "title": "Clinique Saint-Joseph",
+          "slug": "place-clinique-saint-joseph",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Clinique Saint-Joseph",
+              "en_GB": "Clinique Saint-Joseph",
+              "fr_FR": "Clinique Saint-Joseph"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  5.93394119790999,
+                  49.96524878320457
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Wiltz",
+                  "en_GB": "Wiltz",
+                  "fr_FR": "Wiltz"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz",
+              "en_GB": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz",
+              "fr_FR": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "4KaMv8u"
+        },
+        {
+          "id": 20,
+          "title": "klinik st Joseph, 1943 (CNA)",
+          "slug": "klinik-st-joseph-1943-cna",
+          "mimetype": "",
+          "type": "video",
+          "data": {
+            "type": "media",
+            "title": {
+              "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {
+                "properties": {
+                  "city": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  }
+                }
+              }
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "en_GB": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 ",
+              "fr_FR": "CNA: IA000453.mp4\" (klinik st Joseph de 1 minute 00 à 1 minute 3) film datant de 1943 "
+            },
+            "resolutions": {
+              "medium": {
+                "url": "https://placehold.co/768x430/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 768,
+                "height": 430
+              },
+              "preview": {
+                "url": "https://placehold.co/1371x768/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 1371,
+                "height": 768
+              },
+              "thumbnail": {
+                "url": "https://placehold.co/260x146/black/white?text=klinik-st-joseph-1943-cna",
+                "width": 260,
+                "height": 146
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "https://player.vimeo.com/external/528298336.m3u8?s=48042a6eddb4ebc97b6ede8f92c4a39139ddb2a6&logging=false"
+              },
+              "dash": {
+                "url": "https://player.vimeo.com/external/528298336.mpd?s=26992b78d2bd96e58a2a21d4c224af21355e73fd&logging=false"
+              },
+              "sd360p": {
+                "url": "https://player.vimeo.com/progressive_redirect/playback/528298336/rendition/360p/file.mp4?loc=external&signature=094baf3a199f1c4e36356a4dfd3474a53abb1e0adf8a0052d330962fec4ce038"
+              }
+            }
+          },
+          "url": "https://vimeo.com/528298336/8b9085c3b6?share=copy",
+          "attachment": null,
+          "snapshot": "/media/video/snapshots/Screenshot_2024-05-24_at_09.17.10.png",
+          "short_url": "b9EcuWk"
+        },
+        {
+          "id": 22,
+          "title": "Heinrich Himmler in Luxembourg",
+          "slug": "Heinrich-Himmler-in-Luxembourg",
+          "mimetype": "",
+          "type": "picture",
+          "data": {
+            "type": "picture",
+            "title": {
+              "de_DE": "Heinrich Himmler in Luxembourg",
+              "en_GB": "Heinrich Himmler in Luxembourg",
+              "fr_FR": "Heinrich Himmler in Luxembourg"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {
+                "properties": {
+                  "city": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "name": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  },
+                  "address": {
+                    "de_DE": "",
+                    "en_GB": "",
+                    "fr_FR": ""
+                  }
+                }
+              }
+            },
+            "snapshot": {
+              "width": 1200,
+              "height": 751
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "Heinrich Himmler in Luxembourg",
+              "en_GB": "Heinrich Himmler in Luxembourg",
+              "fr_FR": "Heinrich Himmler in Luxembourg"
+            },
+            "resolutions": {
+              "medium": {
+                "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-96-768-0-0.jpg",
+                "width": 768,
+                "height": 481
+              },
+              "preview": {
+                "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-96-0-0-768.jpg",
+                "width": 1227,
+                "height": 768
+              },
+              "thumbnail": {
+                "url": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg-72-0-260-0.jpg",
+                "width": 260,
+                "height": 163
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": ""
+              },
+              "dash": {
+                "url": ""
+              },
+              "sd360p": {
+                "url": ""
+              }
+            }
+          },
+          "url": "https://en.wikipedia.org/wiki/Luxembourg_in_World_War_II#/media/File:Bundesarchiv_Bild_101III-Weill-061-25,_Heinrich_Himmler_in_Luxembourg.jpg",
+          "attachment": "/media/picture/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg",
+          "snapshot": "/media/picture/snapshots/Bundesarchiv_Bild_101III-Weill-061-25_Heinrich_Himmler_in_Luxembourg.jpg",
+          "short_url": "ScYZ7CG"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Clinique Saint-Joseph",
+          "en_GB": "Clinique Saint-Joseph",
+          "fr_FR": "Clinique Saint-Joseph"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz",
+          "en_GB": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz",
+          "fr_FR": "Lieu de ravitaillement des réfugiés de Differdange. Usage actuel : Centre Hospitalier du Nord Wiltz"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 47,
+      "slug": "N1-Draft-Vianden-Pont-sur-l-Our",
+      "short_url": "4WgmJJd",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.690254Z",
+      "date_last_modified": "2024-10-04T16:21:46.214218Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1405,
+          "title": "Pont sur l'Our",
+          "slug": "place-Vianden-pont-sur-lour",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "glb": "",
+            "gltf": "",
+            "type": "place",
+            "usdz": "",
+            "title": {
+              "de_DE": "Pont sur l'Our",
+              "en_GB": "Pont sur l'Our",
+              "fr_FR": "Pont sur l'Our"
+            },
+            "letter": "",
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.207495559992961,
+                  49.933825510414216
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Vianden",
+                  "en_GB": "Vianden",
+                  "fr_FR": "Vianden"
+                },
+                "name": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "address": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "definition": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "Eglise. Usage actuel : Eglise",
+              "en_GB": "Eglise. Usage actuel : Eglise",
+              "fr_FR": "Eglise. Usage actuel : Eglise"
+            },
+            "resolutions": {
+              "medium": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "preview": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "thumbnail": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "dash": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "sd360p": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "bif5SMf"
+        },
+        {
+          "id": 1417,
+          "title": "Draft-Vianden, Pont sur l'Our capsule",
+          "slug": "N1-draft-Vianden-pont-sur-l-Our",
+          "mimetype": "",
+          "type": "video",
+          "data": {
+            "glb": "",
+            "gltf": "",
+            "type": "video",
+            "usdz": "",
+            "title": {
+              "de_DE": "Draft-Vianden, Pont sur l'Our capsule",
+              "en_GB": "Draft-Vianden, Pont sur l'Our capsule",
+              "fr_FR": "Draft-Vianden, Pont sur l'Our capsule"
+            },
+            "letter": "",
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {},
+              "properties": {
+                "city": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "name": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "address": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "country": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            },
+            "definition": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "identifier": "",
+            "provenance": "",
+            "description": {
+              "de_DE": "La bataille des Ardennes en hiver 1944 - 1945",
+              "en_GB": "La bataille des Ardennes en hiver 1944 - 1945",
+              "fr_FR": "La bataille des Ardennes en hiver 1944 - 1945"
+            },
+            "resolutions": {
+              "medium": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "preview": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "thumbnail": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "https://player.vimeo.com/external/1015734520.m3u8?s=25bdc45d2ceb33c0d835b4f855a0f4b7ee5877b6&logging=false",
+                  "en_GB": "https://player.vimeo.com/external/1015736360.m3u8?s=829034b47771efc7ab8b66113721837d05676ce1&logging=false",
+                  "fr_FR": "https://player.vimeo.com/external/1015678287.m3u8?s=98e54f1540cf28f5f6379c18a55e84d8431bd48d&logging=false"
+                }
+              },
+              "dash": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "sd360p": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "2ncjkxq"
+        },
+        {
+          "id": 1419,
+          "title": "Draft, Vianden photo_07",
+          "slug": "Draft-Vianden-Pont-sur-l-Our-photo_07",
+          "mimetype": "",
+          "type": "picture",
+          "data": {
+            "glb": "",
+            "gltf": "",
+            "type": "picture",
+            "usdz": "",
+            "title": {
+              "de_DE": "Kampf in einem luxemburgischen Wald",
+              "en_GB": "Fighting in a Luxembourg forest",
+              "fr_FR": "Combat dans une forêt luxembourgeoise"
+            },
+            "letter": "",
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:2169"
+                }
+              },
+              "geometry": {},
+              "properties": {
+                "city": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "name": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "address": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                },
+                "country": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            },
+            "definition": {
+              "de_DE": "Das Foto wurde von einem Kriegsberichterstatter der deutschen Propaganda am 22. Dezember 1944 aufgenommen. Die damalige (und somit zu Propagandazwecken verfasste) Bildunterschrift lautet:  « Durchburch in den Ardennen Mit \"Hurra!\" brechen deutsche Grenadiere gegen einen feindlichen Einbruchskeil, der sie vorübergehend von ihrer Nachbareinheit trennte, vor. Im Laufen feuern sie ihre Maschinenpistolen und LMGs ab. Der Feind weicht vor dieser Zusammenballung von Kraft und letztem Einsatz zurück, und nach kurzer Zeit gelingt nach geringen Verlusten dem Regiment der Durchburch. Die Verbindung zu den Nachbareinheiten ist wieder hergestellt. »",
+              "en_GB": "The photograph was taken by a German propaganda war correspondent on 22 December 1944. The caption at the time (and therefore written for propaganda purposes) reads: ‘Breakthrough in the Ardennes: To the sound of “hurrah!”, German grenadiers rush against a corner of an enemy incursion that has temporarily separated them from the neighbouring unit. As they ran, they fired their machine guns and LMGs. The enemy retreated in the face of this concentration of force and ultimate commitment and, shortly afterwards, the regiment broke through with few casualties. Links with neighbouring units were re-established.",
+              "fr_FR": "La photographie a été prise par un correspondant de guerre de la propagande allemande le 22 décembre 1944. La légende de l’époque (et donc rédigée dans un but de propagande) dit : « Percée dans les Ardennes : Au son de « hourra ! », des grenadiers allemands s'élancent contre un coin d'incursion ennemi qui les a temporairement séparés de l'unité voisine. Tout en courant, ils tirent avec leurs mitraillettes et leurs LMG. L'ennemi recule devant cette concentration de force et d'engagement ultime et, peu de temps après, le régiment réussit à percer après avoir subi peu de pertes. La liaison avec les unités voisines est rétablie. » "
+            },
+            "identifier": "BA Bild 183-J28586",
+            "provenance": "Bundesarchiv",
+            "description": {
+              "de_DE": "Ardennenoffensive: Deutsche Grenadiere stürzen sich auf einen alliierten Vorstoß",
+              "en_GB": "Ardennes offensive: German grenadiers rush against an Allied advance",
+              "fr_FR": "Offensive des Ardennes : des grenadiers allemands s'élancent contre une avancée alliée "
+            },
+            "resolutions": {
+              "medium": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "preview": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              },
+              "thumbnail": {
+                "url": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "videoResolutions": {
+              "hsl": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "dash": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              },
+              "sd360p": {
+                "url": "",
+                "alternate": {
+                  "de_DE": "",
+                  "en_GB": "",
+                  "fr_FR": ""
+                }
+              }
+            }
+          },
+          "url": null,
+          "attachment": "/media/picture/Item_25-Bild183-J28586-photo_07.jpg",
+          "snapshot": null,
+          "short_url": "34o4BeY"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Pont sur l'Our",
+          "en_GB": "Pont sur l'Our",
+          "fr_FR": "Pont sur l'Our"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Die Schlacht um die Ardennen im Winter 1944 – 1945",
+          "en_GB": "The Battle of the Bulge in winter 1944 - 1945",
+          "fr_FR": "La bataille des Ardennes en hiver 1944 - 1945"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 48,
+      "slug": "01-place-ideal-fabrik",
+      "short_url": "As9hbds",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.705600Z",
+      "date_last_modified": "2024-09-27T13:09:29.710532Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1406,
+          "title": "Ideal Fabrik",
+          "slug": "place-ideal-fabrik",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Ideal Fabrik",
+              "en_GB": "Ideal Fabrik",
+              "fr_FR": "Ideal Fabrik"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  5.916816805652763,
+                  49.96467271345261
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Wiltz",
+                  "en_GB": "Wiltz",
+                  "fr_FR": "Wiltz"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Usine. Usage actuel : Friche industrielle",
+              "en_GB": "Usine. Usage actuel : Friche industrielle",
+              "fr_FR": "Usine. Usage actuel : Friche industrielle"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "9xmXrzL"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Ideal Fabrik",
+          "en_GB": "Ideal Fabrik",
+          "fr_FR": "Ideal Fabrik"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Usine. Usage actuel : Friche industrielle",
+          "en_GB": "Usine. Usage actuel : Friche industrielle",
+          "fr_FR": "Usine. Usage actuel : Friche industrielle"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 49,
+      "slug": "01-place-gelle-fra",
+      "short_url": "YaxXyhN",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.719268Z",
+      "date_last_modified": "2024-09-27T13:09:29.723763Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1407,
+          "title": "Gelle Fra",
+          "slug": "place-gelle-fra",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Gelle Fra",
+              "en_GB": "Gelle Fra",
+              "fr_FR": "Gelle Fra"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.129360798414251,
+                  49.60926679351821
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                },
+                "country": {
+                  "de_DE": "Luxembourg",
+                  "en_GB": "Luxembourg",
+                  "fr_FR": "Luxembourg"
+                }
+              }
+            },
+            "description": {
+              "de_DE": "Monument. Usage actuel :  Monument",
+              "en_GB": "Monument. Usage actuel :  Monument",
+              "fr_FR": "Monument. Usage actuel :  Monument"
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "FGEkZfD"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Gelle Fra",
+          "en_GB": "Gelle Fra",
+          "fr_FR": "Gelle Fra"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": "Monument. Usage actuel :  Monument",
+          "en_GB": "Monument. Usage actuel :  Monument",
+          "fr_FR": "Monument. Usage actuel :  Monument"
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 50,
+      "slug": "01-place-camp-de-hinzert",
+      "short_url": "UsKxksJ",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.731979Z",
+      "date_last_modified": "2024-09-27T13:09:29.736642Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1408,
+          "title": "Camp de Hinzert",
+          "slug": "place-camp-de-hinzert",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Camp de Hinzert",
+              "en_GB": "Camp de Hinzert",
+              "fr_FR": "Camp de Hinzert"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  6.893569989589381,
+                  49.69930065338132
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Hinzert-Pölert",
+                  "en_GB": "Hinzert-Pölert",
+                  "fr_FR": "Hinzert-Pölert"
+                },
+                "country": {
+                  "de_DE": "Allemagne",
+                  "en_GB": "Allemagne",
+                  "fr_FR": "Allemagne"
+                }
+              }
+            },
+            "description": {
+              "de_DE": ". Usage actuel : ",
+              "en_GB": ". Usage actuel : ",
+              "fr_FR": ". Usage actuel : "
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "C7hYKNq"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Camp de Hinzert",
+          "en_GB": "Camp de Hinzert",
+          "fr_FR": "Camp de Hinzert"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 51,
+      "slug": "01-place-ghetto-de-litzmannstadt",
+      "short_url": "ZFZ2cKE",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.745868Z",
+      "date_last_modified": "2024-09-27T13:09:29.751645Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1409,
+          "title": "Ghetto de Litzmannstadt",
+          "slug": "place-ghetto-de-litzmannstadt",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Ghetto de Litzmannstadt",
+              "en_GB": "Ghetto de Litzmannstadt",
+              "fr_FR": "Ghetto de Litzmannstadt"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  19.453123960951846,
+                  51.78712055505375
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Lodz",
+                  "en_GB": "Lodz",
+                  "fr_FR": "Lodz"
+                },
+                "country": {
+                  "de_DE": "Pologne",
+                  "en_GB": "Pologne",
+                  "fr_FR": "Pologne"
+                }
+              }
+            },
+            "description": {
+              "de_DE": ". Usage actuel : ",
+              "en_GB": ". Usage actuel : ",
+              "fr_FR": ". Usage actuel : "
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "FvEYwjD"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Ghetto de Litzmannstadt",
+          "en_GB": "Ghetto de Litzmannstadt",
+          "fr_FR": "Ghetto de Litzmannstadt"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 52,
+      "slug": "01-place-camp-de-sonnenburg",
+      "short_url": "LydbYrv",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.759771Z",
+      "date_last_modified": "2024-09-27T13:09:29.764185Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1410,
+          "title": "Camp de Sonnenburg",
+          "slug": "place-camp-de-sonnenburg",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Camp de Sonnenburg",
+              "en_GB": "Camp de Sonnenburg",
+              "fr_FR": "Camp de Sonnenburg"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  14.811941908763409,
+                  52.56411489942491
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Slonsk",
+                  "en_GB": "Slonsk",
+                  "fr_FR": "Slonsk"
+                },
+                "country": {
+                  "de_DE": "Pologne",
+                  "en_GB": "Pologne",
+                  "fr_FR": "Pologne"
+                }
+              }
+            },
+            "description": {
+              "de_DE": ". Usage actuel : ",
+              "en_GB": ". Usage actuel : ",
+              "fr_FR": ". Usage actuel : "
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "oE44UVC"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Camp de Sonnenburg",
+          "en_GB": "Camp de Sonnenburg",
+          "fr_FR": "Camp de Sonnenburg"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 53,
+      "slug": "01-place-camp-de-tambow",
+      "short_url": "TgELc2a",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.772970Z",
+      "date_last_modified": "2024-09-27T13:09:29.777429Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1411,
+          "title": "Camp de Tambow",
+          "slug": "place-camp-de-tambow",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Camp de Tambow",
+              "en_GB": "Camp de Tambow",
+              "fr_FR": "Camp de Tambow"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  41.60366638494837,
+                  52.7110825540397
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Rada (Tambow)",
+                  "en_GB": "Rada (Tambow)",
+                  "fr_FR": "Rada (Tambow)"
+                },
+                "country": {
+                  "de_DE": "Russie",
+                  "en_GB": "Russie",
+                  "fr_FR": "Russie"
+                }
+              }
+            },
+            "description": {
+              "de_DE": ". Usage actuel : ",
+              "en_GB": ". Usage actuel : ",
+              "fr_FR": ". Usage actuel : "
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "RANyziL"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Camp de Tambow",
+          "en_GB": "Camp de Tambow",
+          "fr_FR": "Camp de Tambow"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 54,
+      "slug": "01-place-27-wilton-crescent",
+      "short_url": "KdNawXZ",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.785189Z",
+      "date_last_modified": "2024-09-27T13:09:29.789776Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1412,
+          "title": "27, Wilton Crescent",
+          "slug": "place-27-wilton-crescent",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "27, Wilton Crescent",
+              "en_GB": "27, Wilton Crescent",
+              "fr_FR": "27, Wilton Crescent"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  -0.1545929723966807,
+                  51.500975414599175
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Londres",
+                  "en_GB": "Londres",
+                  "fr_FR": "Londres"
+                },
+                "country": {
+                  "de_DE": "Royaume Uni",
+                  "en_GB": "Royaume Uni",
+                  "fr_FR": "Royaume Uni"
+                }
+              }
+            },
+            "description": {
+              "de_DE": ". Usage actuel : ",
+              "en_GB": ". Usage actuel : ",
+              "fr_FR": ". Usage actuel : "
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "U652GTy"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "27, Wilton Crescent",
+          "en_GB": "27, Wilton Crescent",
+          "fr_FR": "27, Wilton Crescent"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      }
+    },
+    {
+      "id": 55,
+      "slug": "01-place-camp-de-boberstein",
+      "short_url": "VFaygRL",
+      "date": null,
+      "date_created": "2024-09-27T13:09:29.797659Z",
+      "date_last_modified": "2024-09-27T13:09:29.802070Z",
+      "status": "public",
+      "covers": [
+        {
+          "id": 1413,
+          "title": "Camp de Boberstein",
+          "slug": "place-camp-de-boberstein",
+          "mimetype": "",
+          "type": "entity",
+          "data": {
+            "type": "place",
+            "title": {
+              "de_DE": "Camp de Boberstein",
+              "en_GB": "Camp de Boberstein",
+              "fr_FR": "Camp de Boberstein"
+            },
+            "geojson": {
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:4326"
+                }
+              },
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  15.830541014869388,
+                  50.86971288460091
+                ]
+              },
+              "properties": {
+                "city": {
+                  "de_DE": "Bobrow",
+                  "en_GB": "Bobrow",
+                  "fr_FR": "Bobrow"
+                },
+                "country": {
+                  "de_DE": "Pologne",
+                  "en_GB": "Pologne",
+                  "fr_FR": "Pologne"
+                }
+              }
+            },
+            "description": {
+              "de_DE": ". Usage actuel : ",
+              "en_GB": ". Usage actuel : ",
+              "fr_FR": ". Usage actuel : "
+            }
+          },
+          "url": null,
+          "attachment": null,
+          "snapshot": null,
+          "short_url": "Xbzy5XZ"
+        }
+      ],
+      "authors": [],
+      "tags": [
+        {
+          "id": 2,
+          "category": "publishing",
+          "slug": "chapter",
+          "name": "chapter",
+          "status": "public",
+          "data": {
+            "name": "chapter"
+          }
+        },
+        {
+          "id": 4,
+          "category": "publishing",
+          "slug": "level-1",
+          "name": "level-1",
+          "status": "public",
+          "data": {}
+        }
+      ],
+      "data": {
+        "title": {
+          "de_DE": "Camp de Boberstein",
+          "en_GB": "Camp de Boberstein",
+          "fr_FR": "Camp de Boberstein"
+        },
+        "overlay": "#ddd",
+        "abstract": {
+          "de_DE": ". Usage actuel : ",
+          "en_GB": ". Usage actuel : ",
+          "fr_FR": ". Usage actuel : "
+        },
+        "count_modules": 0
+      }
+    }
+  ]
+}

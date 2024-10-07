@@ -1,6 +1,6 @@
 {
-  "count": 13,
-  "next": "/api/document/?facets=data__type&filters=%7B%22type%22%3A%22entity%22%7D&limit=10&offset=10",
+  "count": 48,
+  "next": "http://ww2.lu/api/document/?facets=data__type&filters=%7B%22type%22%3A%22entity%22%7D&limit=10&offset=10",
   "previous": null,
   "results": [
     {
@@ -577,8 +577,16 @@
   "facets": {
     "data__type": [
       {
+        "data__type": "3D",
+        "count": 1
+      },
+      {
+        "data__type": "institution",
+        "count": 1
+      },
+      {
         "data__type": "place",
-        "count": 13
+        "count": 46
       }
     ]
   }

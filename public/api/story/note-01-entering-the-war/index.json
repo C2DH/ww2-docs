@@ -6,6 +6,116 @@
   "abstract": null,
   "documents": [
     {
+      "id": 10,
+      "document_id": 1415,
+      "title": "lumberjack-3d",
+      "slug": "lumberjack",
+      "url": null,
+      "type": "entity",
+      "copyrights": "",
+      "caption": "",
+      "short_url": "XbZhM97",
+      "data": {
+        "glb": "/media/3D/lumberjack.glb",
+        "gltf": "",
+        "type": "3D",
+        "usdz": "",
+        "title": {
+          "de_DE": "Lumberjack",
+          "en_GB": "Lumberjack",
+          "fr_FR": "Lumberjack"
+        },
+        "letter": "",
+        "geojson": {
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:2169"
+            }
+          },
+          "geometry": {},
+          "properties": {
+            "city": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "name": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "address": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            },
+            "country": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          }
+        },
+        "definition": {
+          "de_DE": "",
+          "en_GB": "",
+          "fr_FR": ""
+        },
+        "identifier": "",
+        "provenance": "",
+        "description": {
+          "de_DE": "Lumberjack",
+          "en_GB": "Lumberjack",
+          "fr_FR": "Lumberjack"
+        },
+        "resolutions": {
+          "medium": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "preview": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "thumbnail": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        },
+        "videoResolutions": {
+          "hsl": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          },
+          "dash": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          },
+          "sd360p": {
+            "url": "",
+            "alternate": {
+              "de_DE": "",
+              "en_GB": "",
+              "fr_FR": ""
+            }
+          }
+        }
+      },
+      "attachment": null
+    },
+    {
       "id": 8,
       "document_id": 22,
       "title": "Heinrich Himmler in Luxembourg",
